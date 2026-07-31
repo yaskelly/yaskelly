@@ -61,7 +61,7 @@ Helping students, researchers, and developers build intelligent systems with AI 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat)
-Un pequeño ajuste
+
 
 
 ## 📂 Featured Projects
