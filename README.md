@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner-yaskcode.png" alt="YaskCode Banner" width="100%">
+</p>
+
+# 👋 Hi, I'm Yaskelly Yedra
+
+Professor • Researcher • Community Builder
+
+Building AI-powered educational and research solutions with Google Cloud and Open Source.
 
 <!--
 **yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
