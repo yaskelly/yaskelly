@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-yaskcode.png" alt="YaskCode Banner" width="100%">
+  <img src="assets/banner-yaskcode.png" alt="YaskCode Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Yaskelly Yedra
