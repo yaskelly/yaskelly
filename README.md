@@ -48,13 +48,16 @@ Helping students, researchers, and developers build intelligent systems with AI 
 
 <p align="center"><a href="https://www.youtube.com/@yaskcode"><img src="assets/view-more-youtube.svg" alt="View more on YouTube" width="250" /></a></p>
 
-## 🌎 Community
+<p><img src="assets/profile-footer-heading.svg" alt="Profile Highlights" width="100%" /></p>
+<p align="center"><img src="assets/profile-footer-sections.svg" alt="Community and Open Source, Recent GitHub Activity, Research and Publications" width="100%" /></p>
 
-Google Developer Groups
-
-Women Techmakers
-
-Google Cloud Innovators
+<p align="center">
+  <a href="https://gdg.community.dev/gdg-caracas/">🌍 Community &amp; Open Source</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/yaskelly">📱 Recent GitHub Activity</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&amp;hl=es">🎓 Research &amp; Publications</a>
+</p>
 
 <!--
 **yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
