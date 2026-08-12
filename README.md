@@ -58,7 +58,7 @@ Helping students, researchers, and developers build intelligent systems with AI 
 </p>
 
 <p align="center">
-  <a href="https://github.com/yaskelly?tab=repositories"><strong>View more repositories →</strong></a>
+  <a href="https://github.com/yaskelly?tab=repositories"><strong><span style="color:#FF2F78">View more repositories →</span></strong></a>
 </p>
 
 ## 🌎 Community
