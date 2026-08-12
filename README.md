@@ -56,12 +56,14 @@ Helping students, researchers, and developers build intelligent systems with AI 
   <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es"><img width="32%" src="assets/profile-research.svg" alt="Research and Publications" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaskelly&label=PROFILE%20VIEWS&color=ff2f78&style=for-the-badge" alt="Profile views" />
-  <img width="31%" src="assets/footer-quote.svg" alt="Empowering students and developers to build intelligent systems and a better future" />
-  <img width="22%" src="assets/footer-thanks.svg" alt="Thanks for visiting" />
-  <img width="19%" src="assets/footer-signature.svg" alt="YaskCode" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle"><img src="https://komarev.com/ghpvc/?username=yaskelly&label=PROFILE%20VIEWS&color=ff2f78&style=for-the-badge" alt="Profile views" /></td>
+    <td width="32%" align="center" valign="middle"><img width="100%" src="assets/footer-quote.svg" alt="Empowering students and developers to build intelligent systems and a better future" /></td>
+    <td width="23%" align="center" valign="middle"><img width="100%" src="assets/footer-thanks.svg" alt="Thanks for visiting" /></td>
+    <td width="20%" align="center" valign="middle"><img width="100%" src="assets/footer-signature.svg" alt="YaskCode" /></td>
+  </tr>
+</table>
 
 <!--
 **yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
