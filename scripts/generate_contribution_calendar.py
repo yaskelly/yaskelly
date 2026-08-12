@@ -122,7 +122,6 @@ def build_svg(calendar: dict, restricted_count: int) -> str:
         '<text x="188" y="32" class="small muted">(Last 365 Days)</text>',
     ]
 
-    # Month labels: place a label at the first week in which a new month appears.
     last_month = None
     for wi, week in enumerate(weeks):
         first_day = week["contributionDays"][0]
@@ -132,15 +131,14 @@ def build_svg(calendar: dict, restricted_count: int) -> str:
             parts.append(f'<text x="{x}" y="57" class="month">{escape(month)}</text>')
             last_month = month
 
-    # Weekday labels aligned with GitHub's Sunday-first rows.
     for label, row in (("Mon", 1), ("Wed", 3), ("Fri", 5)):
         y = grid_y + row * step + 11
         parts.append(f'<text x="24" y="{y}" class="small">{label}</text>')
 
     for wi, week in enumerate(weeks):
         for day in week["contributionDays"]:
-            weekday = dt.date.fromisoformat(day["date"]).weekday()  # Mon=0..Sun=6
-            row = (weekday + 1) % 7  # Sunday=0, Monday=1...
+            weekday = dt.date.fromisoformat(day["date"]).weekday()
+            row = (weekday + 1) % 7
             count = day["contributionCount"]
             level = level_for(count, q1, q2, q3)
             x = grid_x + wi * step
@@ -164,7 +162,7 @@ def build_svg(calendar: dict, restricted_count: int) -> str:
     footer = f'{total} public/visible contributions · {active_days} active days · Q1≤{q1} · Q2≤{q2} · Q3≤{q3}'
     parts.append(f'<text x="22" y="239" class="small muted">{escape(footer)}</text>')
     if restricted_count:
-        parts.append(f'<text x="22" y="256" class="small muted">GitHub also reports {restricted_count} restricted contribution(s) to this viewer; private-detail support is Phase 2.</text>')
+        parts.append(f'<text x="22" y="256" class="small muted">GitHub also reports {restricted_count} restricted contribution(s).</text>')
     else:
         parts.append('<text x="22" y="256" class="small muted">Color intensity represents GitHub activity counts, not time or hours worked.</text>')
 
