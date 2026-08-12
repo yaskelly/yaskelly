@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate contribution calendar
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIBUTIONS_TOKEN }}
           GITHUB_PROFILE_USERNAME: yaskelly
         run: python3 scripts/generate_contribution_calendar.py
 
