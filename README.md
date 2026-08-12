@@ -49,18 +49,19 @@ Helping students, researchers, and developers build intelligent systems with AI 
 <p align="center"><a href="https://www.youtube.com/@yaskcode"><img src="assets/view-more-youtube.svg" alt="View more on YouTube" width="250" /></a></p>
 
 <p><img src="assets/profile-footer-heading.svg" alt="Profile Highlights" width="100%" /></p>
-<p align="center"><img src="assets/profile-footer-sections.svg" alt="Community and Open Source, Recent GitHub Activity, Research and Publications" width="100%" /></p>
 
 <p align="center">
-  <a href="https://gdg.community.dev/gdg-caracas/"><img alt="Community" src="https://img.shields.io/badge/Community_%26_Open_Source-ff2f7d?style=flat-square" /></a>
-  <a href="https://github.com/yaskelly"><img alt="GitHub Activity" src="https://img.shields.io/badge/Recent_GitHub_Activity-ff2f7d?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es"><img alt="Research" src="https://img.shields.io/badge/Research_%26_Publications-ff2f7d?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/"><img width="32%" src="assets/profile-community.svg" alt="Community and Open Source" /></a>
+  <a href="https://github.com/yaskelly"><img width="32%" src="assets/recent-github-activity.svg" alt="Recent GitHub Activity" /></a>
+  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es"><img width="32%" src="assets/profile-research.svg" alt="Research and Publications" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaskelly&label=PROFILE%20VIEWS&color=ff2f7d&style=for-the-badge" alt="Yaskelly profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yaskelly&label=PROFILE%20VIEWS&color=ff2f78&style=for-the-badge" alt="Profile views" />
+  <img width="31%" src="assets/footer-quote.svg" alt="Empowering students and developers to build intelligent systems and a better future" />
+  <img width="22%" src="assets/footer-thanks.svg" alt="Thanks for visiting" />
+  <img width="19%" src="assets/footer-signature.svg" alt="YaskCode" />
 </p>
-<p align="center"><img src="assets/profile-footer.svg" alt="Empowering students and developers to build intelligent systems and a better future. Thanks for visiting! Let's build something amazing together. YaskCode" width="100%" /></p>
 
 <!--
 **yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
