@@ -1,4 +1,4 @@
-name: Update pink contribution calendar
+name: Update pink profile analytics
 
 on:
   workflow_dispatch:
@@ -7,6 +7,7 @@ on:
       - profile-redesign
     paths:
       - "scripts/generate_contribution_calendar.py"
+      - "scripts/generate_github_analytics.py"
       - ".github/workflows/update-contribution-calendar.yml"
   schedule:
     - cron: "17 5 * * *"
@@ -15,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  update-calendar:
+  update-analytics:
     runs-on: ubuntu-latest
     steps:
       - name: Check out profile redesign
@@ -29,14 +30,32 @@ jobs:
           GITHUB_PROFILE_USERNAME: yaskelly
         run: python3 scripts/generate_contribution_calendar.py
 
-      - name: Commit generated SVG
+      - name: Simplify contribution calendar footer
         run: |
-          if [ -z "$(git status --porcelain -- assets/contribution-activity.svg)" ]; then
-            echo "Contribution calendar is already up to date."
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('assets/contribution-activity.svg')
+          s = p.read_text(encoding='utf-8')
+          s = re.sub(r'(\d+ public/visible contributions · \d+ active days) · Q1≤\d+ · Q2≤\d+ · Q3≤\d+', r'\1', s)
+          s = s.replace('; private-detail support is Phase 2.', '.')
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Generate GitHub analytics cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIBUTIONS_TOKEN }}
+          GITHUB_PROFILE_USERNAME: yaskelly
+        run: python3 scripts/generate_github_analytics.py
+
+      - name: Commit generated SVGs
+        run: |
+          if [ -z "$(git status --porcelain -- assets/)" ]; then
+            echo "Profile analytics are already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-activity.svg
-          git commit -m "Update pink contribution calendar"
+          git add assets/contribution-activity.svg assets/github-stats.svg assets/top-languages.svg assets/streak-stats.svg
+          git commit -m "Update pink profile analytics"
           git push
