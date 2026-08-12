@@ -17,7 +17,9 @@ Helping students, researchers, and developers build intelligent systems with AI 
   <a href="https://gdg.community.dev/gdg-caracas/"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
 </p>
 
-## 🚀 Current Focus
+<p>
+  <img src="assets/current-focus-heading.svg" alt="Current Focus" width="100%" />
+</p>
 
 <p align="center">
   <img src="assets/current-focus.svg" alt="Current focus: AI Agents, RAG, Google Cloud and Vertex AI, AI Education, AI Research and TPU Research" width="100%" />
