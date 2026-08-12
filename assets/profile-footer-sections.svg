@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360">
+  <style>
+    .title{font:700 25px Arial,sans-serif;fill:#1f2328}.text{font:18px Arial,sans-serif;fill:#1f2328}.small{font:15px Arial,sans-serif;fill:#57606a}.pink{fill:#ff2f7d}.card{fill:#fff0f5;stroke:#ff9fbd;stroke-width:1.5}.line{stroke:#ff7fa8;stroke-width:2}.sep{stroke:#ffd0df;stroke-width:1.5}
+  </style>
+  <rect width="1600" height="360" fill="#fff"/>
+  <rect class="card" x="20" y="20" rx="18" width="500" height="300"/>
+  <rect class="card" x="550" y="20" rx="18" width="500" height="300"/>
+  <rect class="card" x="1080" y="20" rx="18" width="500" height="300"/>
+
+  <text x="50" y="62" class="title">🌍  Community &amp; Open Source</text><line x1="50" y1="78" x2="490" y2="78" class="line"/>
+  <text x="52" y="120" class="text">◆  Google Developer Groups</text>
+  <text x="52" y="158" class="text">◆  Women Techmakers</text>
+  <text x="52" y="196" class="text">◆  Google Cloud Innovators</text>
+  <text x="52" y="234" class="text">◆  Open source contributor &amp; educator</text>
+  <text x="52" y="276" class="small">Community leadership · education · knowledge sharing</text>
+
+  <text x="580" y="62" class="title">📱  Recent GitHub Activity</text><line x1="580" y1="78" x2="1020" y2="78" class="line"/>
+  <text x="582" y="124" class="text">Dynamic public activity</text>
+  <text x="582" y="162" class="small">Pull requests · issues · pushes · contributions</text>
+  <line x1="582" y1="190" x2="1015" y2="190" class="sep"/>
+  <text x="582" y="230" class="small">This panel will be updated automatically</text>
+  <text x="582" y="256" class="small">from public GitHub activity.</text>
+
+  <text x="1110" y="62" class="title">🎓  Research &amp; Publications</text><line x1="1110" y1="78" x2="1550" y2="78" class="line"/>
+  <text x="1112" y="124" class="text">ORCID</text><text x="1112" y="150" class="small">Researcher identity &amp; publications</text>
+  <text x="1112" y="202" class="text">Google Scholar</text><text x="1112" y="228" class="small">Academic publications &amp; citations</text>
+  <text x="1112" y="278" class="small">Research contributions · scholarly profile</text>
+</svg>
