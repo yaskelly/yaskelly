@@ -9,24 +9,19 @@ Professor • Researcher • Google Developer Group Organizer
 Helping students, researchers, and developers build intelligent systems with AI and Google Cloud.
 
 <p align="center">
-
-🌐 <a href="https://yaskelly.github.io">Website</a> |
-💼 <a href="https://www.linkedin.com/in/yaskelly/">LinkedIn</a> |
-▶️ <a href="https://www.youtube.com/@yaskcode">YouTube</a> |
-✍️ <a href="https://medium.com/@yaskelly">Medium</a> |
-🎓 <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es">Google Scholar</a> |
-👥 <a href="https://gdg.community.dev/gdg-caracas/">GDG Caracas</a>
-
+  <a href="https://yaskelly.github.io"><img src="assets/social-website.svg" alt="Website" height="30" /></a>
+  <a href="https://www.linkedin.com/in/yaskelly/"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
+  <a href="https://www.youtube.com/@yaskcode"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
+  <a href="https://medium.com/@yaskelly"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
+  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es"><img src="assets/social-scholar.svg" alt="Google Scholar" height="30" /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
 </p>
 
 ## 🚀 Current Focus
 
-- 🤖 AI Agents and Multi-Agent Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- ☁️ Google Cloud & Vertex AI
-- 🎓 AI Education
-- 🔬 AI for Research
-- ⚡ TPU Research
+<p align="center">
+  <img src="assets/current-focus.svg" alt="Current focus: AI Agents, RAG, Google Cloud and Vertex AI, AI Education, AI Research and TPU Research" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics
 
