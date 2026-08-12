@@ -19,7 +19,6 @@ Helping students, researchers, and developers build intelligent systems with AI 
 
 </p>
 
-
 ## 🚀 Current Focus
 
 - 🤖 AI Agents and Multi-Agent Systems
@@ -28,6 +27,19 @@ Helping students, researchers, and developers build intelligent systems with AI 
 - 🎓 AI Education
 - 🔬 AI for Research
 - ⚡ TPU Research
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaskelly&show_icons=true&include_all_commits=true&title_color=ff4f87&text_color=24292f&icon_color=f5b700&bg_color=ffffff&border_color=ffb3c9&border_radius=12" alt="Yaskelly GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaskelly&layout=compact&langs_count=8&title_color=ff4f87&text_color=24292f&bg_color=ffffff&border_color=ffb3c9&border_radius=12" alt="Yaskelly most used languages" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaskelly&bg_color=ffffff&color=24292f&line=ff4f87&point=f5b700&area=true&area_color=ffd6e3&hide_border=false&border_color=ffb3c9&radius=12" alt="Yaskelly contribution activity graph" />
+</p>
 
 ## 🚀 Tech Stack
 
@@ -107,7 +119,6 @@ Helping students, researchers, and developers build intelligent systems with AI 
 [![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white)](https://www.blockchain.com/learning-portal)
 [![Web3](https://img.shields.io/badge/Web3-121D33?style=flat)](https://ethereum.org/en/web3/)
 
-
 ## 📂 Featured Projects
 
 🤖 AI Agents
@@ -120,7 +131,6 @@ Helping students, researchers, and developers build intelligent systems with AI 
 
 ⚡ TPU Research
 
-
 ## 🌎 Community
 
 Google Developer Groups
@@ -128,8 +138,6 @@ Google Developer Groups
 Women Techmakers
 
 Google Cloud Innovators
-
-
 
 <!--
 **yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
