@@ -25,7 +25,9 @@ Helping students, researchers, and developers build intelligent systems with AI 
   <img src="assets/current-focus.svg" alt="Current focus: AI Agents, RAG, Google Cloud and Vertex AI, AI Education, AI Research and TPU Research" width="100%" />
 </p>
 
-## 📊 GitHub Analytics
+<p>
+  <img src="assets/github-analytics-heading.svg" alt="GitHub Analytics" width="100%" />
+</p>
 
 <p align="center">
   <img width="32%" src="assets/github-stats.svg" alt="Yaskelly GitHub stats" />
