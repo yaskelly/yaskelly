@@ -31,8 +31,9 @@ Helping students, researchers, and developers build intelligent systems with AI 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaskelly&show_icons=true&include_all_commits=true&title_color=ff4f87&text_color=24292f&icon_color=f5b700&bg_color=ffffff&border_color=ffb3c9&border_radius=12" alt="Yaskelly GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaskelly&layout=compact&langs_count=8&title_color=ff4f87&text_color=24292f&bg_color=ffffff&border_color=ffb3c9&border_radius=12" alt="Yaskelly most used languages" />
+  <img width="32%" src="assets/github-stats.svg" alt="Yaskelly GitHub stats" />
+  <img width="32%" src="assets/top-languages.svg" alt="Yaskelly most used languages" />
+  <img width="32%" src="assets/streak-stats.svg" alt="Yaskelly GitHub streak stats" />
 </p>
 
 ### 📈 Contribution Activity
