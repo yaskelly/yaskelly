@@ -49,17 +49,17 @@ Helping students, researchers, and developers build intelligent systems with AI 
   <img src="assets/tech-stack.svg" alt="Tech Stack: Artificial Intelligence, Cloud, Development, Software Engineering, Databases and Emerging Technologies" width="100%" />
 </p>
 
-## 📂 Featured Projects
+<p>
+  <img src="assets/featured-projects-heading.svg" alt="Featured Projects" width="100%" />
+</p>
 
-🤖 AI Agents
+<p>
+  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-recursos-proyectos.svg" alt="Featured project: recursos-proyectos" width="24%" /></a>
+</p>
 
-📚 RAG Catalog
-
-☁️ Google Cloud Labs
-
-🌎 GDG Caracas
-
-⚡ TPU Research
+<p align="center">
+  <a href="https://github.com/yaskelly?tab=repositories"><strong>View more repositories →</strong></a>
+</p>
 
 ## 🌎 Community
 
@@ -80,6 +80,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
