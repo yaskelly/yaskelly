@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="285" height="190" viewBox="0 0 285 190" role="img" aria-labelledby="title desc">
+  <title id="title">recursos-proyectos</title>
+  <desc id="desc">Featured repository card for LUZ-Computing-Research recursos-proyectos.</desc>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}
+    .repo{font-size:17px;font-weight:700;fill:#FF2F78}
+    .org{font-size:11px;fill:#57606A}
+    .body{font-size:13px;fill:#24292F}
+    .meta{font-size:12px;font-weight:600;fill:#57606A}
+  </style>
+  <rect x="1" y="1" width="283" height="188" rx="14" fill="#FFF1F5" stroke="#FFB3C9" stroke-width="1.5"/>
+  <text x="18" y="34" font-size="24">📂</text>
+  <text x="50" y="33" class="repo">recursos-proyectos</text>
+  <text x="18" y="53" class="org">LUZ-Computing-Research</text>
+
+  <text x="18" y="82" class="body">Official resources, regulations,</text>
+  <text x="18" y="101" class="body">templates and guides for Computing</text>
+  <text x="18" y="120" class="body">Research Projects (PTI) at LUZ.</text>
+
+  <line x1="18" y1="139" x2="267" y2="139" stroke="#FFD1DF"/>
+  <text x="18" y="166" class="meta">⭐ 0</text>
+  <text x="83" y="166" class="meta">⑂ 0</text>
+  <text x="148" y="166" class="meta">📄 Documentation</text>
+</svg>
