@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="390" height="270" viewBox="0 0 390 270" role="img">
-<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}.rowicon{font-size:17px;font-weight:700}</style>
 <rect x="1" y="1" width="388" height="268" rx="12" fill="#FFFFFF" stroke="#FFB3C9"/>
-<text x="18" y="30" style="font-size:17px">🔥</text><text x="47" y="30" class="title pink">Streak Stats</text>
-<circle cx="84" cy="118" r="42" fill="none" stroke="#FFD6E3" stroke-width="14"/>
-<circle cx="84" cy="118" r="42" fill="none" stroke="#FF2F78" stroke-width="14" stroke-dasharray="190 74" transform="rotate(-90 84 118)"/>
-<text x="84" y="126" text-anchor="middle" style="font-size:28px">🔥</text>
+<g transform="translate(18 11)"><path fill="#FF2F78" d="M13 0c2 7-3 8-1 13 1-3 4-4 5-7 5 5 7 9 5 14-2 5-7 7-11 7S2 25 1 20C0 15 4 12 6 8c0 4 2 5 3 6C8 8 12 6 13 0z"/></g>
+<text x="52" y="31" class="title pink">Streak Stats</text>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#FFF1F5" stroke-width="14"/>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#FFC7DA" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="0" transform="rotate(-90 84 118)"/>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#FF5C93" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-66" transform="rotate(-90 84 118)"/>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#FF2F78" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-132" transform="rotate(-90 84 118)"/>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#C2185B" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-198" transform="rotate(-90 84 118)"/>
+<path transform="translate(71 101)" fill="#FF2F78" d="M13 0c2 7-3 8-1 13 1-3 4-4 5-7 5 5 7 9 5 14-2 5-7 7-11 7S2 25 1 20C0 15 4 12 6 8c0 4 2 5 3 6C8 8 12 6 13 0z"/>
 <text x="205" y="91" class="value" style="font-size:29px">3</text>
 <text x="205" y="113" class="label muted">Current Streak</text>
 <text x="40" y="194" class="value" style="font-size:25px">3</text>
