@@ -46,7 +46,7 @@ Helping students, researchers, and developers build intelligent systems with AI 
 </p>
 <!-- YOUTUBE:END -->
 
-<p align="center"><a href="https://www.youtube.com/@yaskcode"><strong>View more on YouTube →</strong></a></p>
+<p align="center"><a href="https://www.youtube.com/@yaskcode"><img src="assets/view-more-youtube.svg" alt="View more on YouTube" width="250" /></a></p>
 
 ## 🌎 Community
 
