@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="105" viewBox="0 0 1600 105">
-<style>.main{font:700 18px Arial,sans-serif;fill:#1f2328}.quote{font:italic 700 17px Arial,sans-serif;fill:#ff2f7d}.thanks{font:17px Arial,sans-serif;fill:#1f2328}.brand{font:italic 700 34px cursive;fill:#ff2f7d}.sep{stroke:#ffb3ca;stroke-width:2}</style>
-<rect width="1600" height="105" fill="#fff0f5"/>
-<text x="35" y="61" style="font:26px Arial">👁️</text><text x="76" y="58" class="main">PROFILE VIEWS</text>
-<line x1="410" y1="20" x2="410" y2="85" class="sep"/>
-<text x="450" y="44" style="font:28px Arial;fill:#ff2f7d">❝</text><text x="490" y="43" class="quote">Empowering students and developers to build</text><text x="490" y="68" class="quote">intelligent systems and a better future.  ♥</text>
-<line x1="985" y1="20" x2="985" y2="85" class="sep"/>
-<text x="1025" y="45" class="thanks">Thanks for visiting! Let's build</text><text x="1025" y="70" class="thanks">something amazing together 🚀</text>
-<line x1="1350" y1="20" x2="1350" y2="85" class="sep"/>
-<text x="1400" y="65" class="brand">YaskCode♡</text>
+<style>
+.label{font:700 15px Arial,sans-serif;fill:#1f2328}.quote{font:italic 700 16px Arial,sans-serif;fill:#ff2f7d}.thanks{font:16px Arial,sans-serif;fill:#1f2328}.brand{font:italic 700 34px cursive;fill:#ff2f7d}.sep{stroke:#ffb3ca;stroke-width:2}
+</style>
+<rect width="1600" height="105" rx="4" fill="#fff0f5"/>
+<text x="34" y="54" style="font:25px Arial">👁️</text><text x="73" y="51" class="label">PROFILE VIEWS</text>
+<rect x="205" y="29" width="154" height="42" rx="2" fill="#4b4b4b"/><text x="225" y="56" style="font:700 17px Arial,sans-serif;fill:white;letter-spacing:2px">PROFILE VIEWS</text><rect x="359" y="29" width="42" height="42" fill="#ff2f7d"/><text x="374" y="57" style="font:700 20px Arial,sans-serif;fill:white">4</text>
+<line x1="430" y1="18" x2="430" y2="87" class="sep"/>
+<text x="466" y="43" style="font:28px Arial;fill:#ff2f7d">❝</text><text x="510" y="43" class="quote">Empowering students and developers to build</text><text x="510" y="68" class="quote">intelligent systems and a better future. ♥</text>
+<line x1="970" y1="18" x2="970" y2="87" class="sep"/>
+<text x="1008" y="43" class="thanks">Thanks for visiting! Let's build</text><text x="1008" y="68" class="thanks">something amazing together 🚀</text>
+<line x1="1320" y1="18" x2="1320" y2="87" class="sep"/>
+<text x="1360" y="64" class="brand">YaskCode♡</text>
 </svg>
