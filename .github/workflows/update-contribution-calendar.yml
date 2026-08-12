@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit generated SVG
         run: |
-          if git diff --quiet -- assets/contribution-activity.svg; then
+          if [ -z "$(git status --porcelain -- assets/contribution-activity.svg)" ]; then
             echo "Contribution calendar is already up to date."
             exit 0
           fi
