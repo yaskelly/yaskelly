@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="105" viewBox="0 0 1600 105">
 <style>
-.label{font:700 15px Arial,sans-serif;fill:#1f2328}.quote{font:italic 700 16px Arial,sans-serif;fill:#ff2f7d}.thanks{font:16px Arial,sans-serif;fill:#1f2328}.brand{font:italic 700 34px cursive;fill:#ff2f7d}.sep{stroke:#ffb3ca;stroke-width:2}
+.quote{font:italic 700 16px Arial,sans-serif;fill:#ff2f7d}.thanks{font:16px Arial,sans-serif;fill:#1f2328}.brand{font:italic 700 34px cursive;fill:#ff2f7d}.sep{stroke:#ffb3ca;stroke-width:2}
 </style>
 <rect width="1600" height="105" rx="4" fill="#fff0f5"/>
-<text x="55" y="57" style="font:25px Arial">👁️</text><text x="94" y="54" class="label">PROFILE VIEWS</text><rect x="225" y="29" width="42" height="42" rx="2" fill="#ff2f7d"/><text x="240" y="57" style="font:700 20px Arial,sans-serif;fill:white">4</text>
+<rect x="55" y="27" width="250" height="48" rx="2" fill="#4b4b4b"/><text x="82" y="58" style="font:400 21px Arial,sans-serif;fill:white;letter-spacing:3px">PROFILE VIEWS</text><rect x="305" y="27" width="58" height="48" fill="#ff2f7d"/><text x="325" y="59" style="font:700 22px Arial,sans-serif;fill:white">4</text>
 <line x1="430" y1="18" x2="430" y2="87" class="sep"/>
 <text x="466" y="43" style="font:28px Arial;fill:#ff2f7d">❝</text><text x="510" y="43" class="quote">Empowering students and developers to build</text><text x="510" y="68" class="quote">intelligent systems and a better future. ♥</text>
 <line x1="970" y1="18" x2="970" y2="87" class="sep"/>
