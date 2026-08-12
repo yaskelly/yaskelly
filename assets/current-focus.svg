@@ -7,11 +7,11 @@
     .icon{font-size:31px;text-anchor:middle}
   </style>
   <rect width="1200" height="145" fill="#FFFFFF"/>
-  <line x1="200" y1="13" x2="200" y2="132" stroke="#EAECEF"/>
-  <line x1="400" y1="13" x2="400" y2="132" stroke="#EAECEF"/>
-  <line x1="600" y1="13" x2="600" y2="132" stroke="#EAECEF"/>
-  <line x1="800" y1="13" x2="800" y2="132" stroke="#EAECEF"/>
-  <line x1="1000" y1="13" x2="1000" y2="132" stroke="#EAECEF"/>
+  <line x1="200" y1="13" x2="200" y2="132" stroke="#FFD1DF" stroke-width="1.2"/>
+  <line x1="400" y1="13" x2="400" y2="132" stroke="#FFD1DF" stroke-width="1.2"/>
+  <line x1="600" y1="13" x2="600" y2="132" stroke="#FFD1DF" stroke-width="1.2"/>
+  <line x1="800" y1="13" x2="800" y2="132" stroke="#FFD1DF" stroke-width="1.2"/>
+  <line x1="1000" y1="13" x2="1000" y2="132" stroke="#FFD1DF" stroke-width="1.2"/>
 
   <text x="100" y="48" class="icon">🤖</text>
   <text x="100" y="88" class="label">AI Agents &amp;</text>
