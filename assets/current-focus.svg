@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img" aria-labelledby="title desc">
+  <title id="title">Yaskelly Current Focus</title>
+  <desc id="desc">Six current focus areas: AI agents, RAG, Google Cloud and Vertex AI, AI education, AI research, and TPU research.</desc>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}
+    .label{font-size:16px;font-weight:600;text-anchor:middle}
+    .icon{font-size:31px;text-anchor:middle}
+  </style>
+  <rect width="1200" height="145" fill="#FFFFFF"/>
+  <line x1="200" y1="13" x2="200" y2="132" stroke="#EAECEF"/>
+  <line x1="400" y1="13" x2="400" y2="132" stroke="#EAECEF"/>
+  <line x1="600" y1="13" x2="600" y2="132" stroke="#EAECEF"/>
+  <line x1="800" y1="13" x2="800" y2="132" stroke="#EAECEF"/>
+  <line x1="1000" y1="13" x2="1000" y2="132" stroke="#EAECEF"/>
+
+  <text x="100" y="48" class="icon">🤖</text>
+  <text x="100" y="88" class="label">AI Agents &amp;</text>
+  <text x="100" y="111" class="label">Multi-Agent Systems</text>
+
+  <text x="300" y="48" class="icon">📚</text>
+  <text x="300" y="88" class="label">Retrieval-Augmented</text>
+  <text x="300" y="111" class="label">Generation (RAG)</text>
+
+  <text x="500" y="48" class="icon">☁️</text>
+  <text x="500" y="88" class="label">Google Cloud &amp;</text>
+  <text x="500" y="111" class="label">Vertex AI</text>
+
+  <text x="700" y="48" class="icon">🎓</text>
+  <text x="700" y="88" class="label">AI Education</text>
+
+  <text x="900" y="48" class="icon">🔬</text>
+  <text x="900" y="88" class="label">AI for Research</text>
+
+  <text x="1100" y="48" class="icon">⚡</text>
+  <text x="1100" y="88" class="label">TPU Research</text>
+</svg>
