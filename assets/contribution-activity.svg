@@ -1,0 +1,406 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1005" height="265" viewBox="0 0 1005 265" role="img" aria-labelledby="title desc">
+<title id="title">yaskelly GitHub Contribution Activity — Last 365 Days</title>
+<desc id="desc">Contribution calendar generated from GitHub contributionCount values. Pink intensity represents quartiles of active contribution days, not hours worked.</desc>
+<style>
+text { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill:#24292F; }
+.small { font-size: 11px; } .month { font-size: 11px; } .title { font-size: 17px; font-weight: 700; }
+.muted { fill:#57606A; } .accent { fill:#FF2F78; }
+</style>
+<rect x="1" y="1" width="1003" height="263" rx="12" fill="#FFFFFF" stroke="#FFB3C9"/>
+<text x="22" y="32" class="title accent">Contribution Activity</text>
+<text x="188" y="32" class="small muted">(Last 365 Days)</text>
+<text x="72" y="57" class="month">Aug</text>
+<text x="140" y="57" class="month">Sep</text>
+<text x="208" y="57" class="month">Oct</text>
+<text x="276" y="57" class="month">Nov</text>
+<text x="361" y="57" class="month">Dec</text>
+<text x="429" y="57" class="month">Jan</text>
+<text x="497" y="57" class="month">Feb</text>
+<text x="565" y="57" class="month">Mar</text>
+<text x="650" y="57" class="month">Apr</text>
+<text x="718" y="57" class="month">May</text>
+<text x="803" y="57" class="month">Jun</text>
+<text x="871" y="57" class="month">Jul</text>
+<text x="939" y="57" class="month">Aug</text>
+<text x="24" y="102" class="small">Mon</text>
+<text x="24" y="136" class="small">Wed</text>
+<text x="24" y="170" class="small">Fri</text>
+<rect x="72" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-13: 0 contributions · Level 0</title></rect>
+<rect x="72" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-14: 0 contributions · Level 0</title></rect>
+<rect x="72" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-15: 0 contributions · Level 0</title></rect>
+<rect x="72" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-16: 0 contributions · Level 0</title></rect>
+<rect x="89" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-17: 0 contributions · Level 0</title></rect>
+<rect x="89" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-18: 0 contributions · Level 0</title></rect>
+<rect x="89" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-19: 0 contributions · Level 0</title></rect>
+<rect x="89" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-20: 0 contributions · Level 0</title></rect>
+<rect x="89" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-21: 0 contributions · Level 0</title></rect>
+<rect x="89" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-22: 0 contributions · Level 0</title></rect>
+<rect x="89" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-23: 0 contributions · Level 0</title></rect>
+<rect x="106" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-24: 0 contributions · Level 0</title></rect>
+<rect x="106" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-25: 0 contributions · Level 0</title></rect>
+<rect x="106" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-26: 0 contributions · Level 0</title></rect>
+<rect x="106" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-27: 0 contributions · Level 0</title></rect>
+<rect x="106" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-28: 0 contributions · Level 0</title></rect>
+<rect x="106" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-29: 0 contributions · Level 0</title></rect>
+<rect x="106" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-30: 0 contributions · Level 0</title></rect>
+<rect x="123" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-08-31: 0 contributions · Level 0</title></rect>
+<rect x="123" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-01: 0 contributions · Level 0</title></rect>
+<rect x="123" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-02: 0 contributions · Level 0</title></rect>
+<rect x="123" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-03: 0 contributions · Level 0</title></rect>
+<rect x="123" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-04: 0 contributions · Level 0</title></rect>
+<rect x="123" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-05: 0 contributions · Level 0</title></rect>
+<rect x="123" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-06: 0 contributions · Level 0</title></rect>
+<rect x="140" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-07: 0 contributions · Level 0</title></rect>
+<rect x="140" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-08: 0 contributions · Level 0</title></rect>
+<rect x="140" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-09: 0 contributions · Level 0</title></rect>
+<rect x="140" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-10: 0 contributions · Level 0</title></rect>
+<rect x="140" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-11: 0 contributions · Level 0</title></rect>
+<rect x="140" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-12: 0 contributions · Level 0</title></rect>
+<rect x="140" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-13: 0 contributions · Level 0</title></rect>
+<rect x="157" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-14: 0 contributions · Level 0</title></rect>
+<rect x="157" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-15: 0 contributions · Level 0</title></rect>
+<rect x="157" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-16: 0 contributions · Level 0</title></rect>
+<rect x="157" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-17: 0 contributions · Level 0</title></rect>
+<rect x="157" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-18: 0 contributions · Level 0</title></rect>
+<rect x="157" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-19: 0 contributions · Level 0</title></rect>
+<rect x="157" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-20: 0 contributions · Level 0</title></rect>
+<rect x="174" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-21: 0 contributions · Level 0</title></rect>
+<rect x="174" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-22: 0 contributions · Level 0</title></rect>
+<rect x="174" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-23: 0 contributions · Level 0</title></rect>
+<rect x="174" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-24: 0 contributions · Level 0</title></rect>
+<rect x="174" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-25: 0 contributions · Level 0</title></rect>
+<rect x="174" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-26: 0 contributions · Level 0</title></rect>
+<rect x="174" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-27: 0 contributions · Level 0</title></rect>
+<rect x="191" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-28: 0 contributions · Level 0</title></rect>
+<rect x="191" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-29: 0 contributions · Level 0</title></rect>
+<rect x="191" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-09-30: 0 contributions · Level 0</title></rect>
+<rect x="191" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-01: 0 contributions · Level 0</title></rect>
+<rect x="191" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-02: 0 contributions · Level 0</title></rect>
+<rect x="191" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-03: 0 contributions · Level 0</title></rect>
+<rect x="191" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-04: 0 contributions · Level 0</title></rect>
+<rect x="208" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-05: 0 contributions · Level 0</title></rect>
+<rect x="208" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-06: 0 contributions · Level 0</title></rect>
+<rect x="208" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-07: 0 contributions · Level 0</title></rect>
+<rect x="208" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-08: 0 contributions · Level 0</title></rect>
+<rect x="208" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-09: 0 contributions · Level 0</title></rect>
+<rect x="208" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-10: 0 contributions · Level 0</title></rect>
+<rect x="208" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-11: 0 contributions · Level 0</title></rect>
+<rect x="225" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-12: 0 contributions · Level 0</title></rect>
+<rect x="225" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-13: 0 contributions · Level 0</title></rect>
+<rect x="225" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-14: 0 contributions · Level 0</title></rect>
+<rect x="225" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-15: 0 contributions · Level 0</title></rect>
+<rect x="225" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-16: 0 contributions · Level 0</title></rect>
+<rect x="225" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-17: 0 contributions · Level 0</title></rect>
+<rect x="225" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-18: 0 contributions · Level 0</title></rect>
+<rect x="242" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-19: 0 contributions · Level 0</title></rect>
+<rect x="242" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-20: 0 contributions · Level 0</title></rect>
+<rect x="242" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-21: 0 contributions · Level 0</title></rect>
+<rect x="242" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-22: 0 contributions · Level 0</title></rect>
+<rect x="242" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-23: 0 contributions · Level 0</title></rect>
+<rect x="242" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-24: 0 contributions · Level 0</title></rect>
+<rect x="242" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-25: 0 contributions · Level 0</title></rect>
+<rect x="259" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-26: 0 contributions · Level 0</title></rect>
+<rect x="259" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-27: 0 contributions · Level 0</title></rect>
+<rect x="259" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-28: 0 contributions · Level 0</title></rect>
+<rect x="259" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-29: 0 contributions · Level 0</title></rect>
+<rect x="259" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-30: 0 contributions · Level 0</title></rect>
+<rect x="259" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-10-31: 0 contributions · Level 0</title></rect>
+<rect x="259" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-01: 0 contributions · Level 0</title></rect>
+<rect x="276" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-02: 0 contributions · Level 0</title></rect>
+<rect x="276" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-03: 0 contributions · Level 0</title></rect>
+<rect x="276" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-04: 0 contributions · Level 0</title></rect>
+<rect x="276" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-05: 0 contributions · Level 0</title></rect>
+<rect x="276" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-06: 0 contributions · Level 0</title></rect>
+<rect x="276" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-07: 0 contributions · Level 0</title></rect>
+<rect x="276" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-08: 0 contributions · Level 0</title></rect>
+<rect x="293" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-09: 0 contributions · Level 0</title></rect>
+<rect x="293" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-10: 0 contributions · Level 0</title></rect>
+<rect x="293" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-11: 0 contributions · Level 0</title></rect>
+<rect x="293" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-12: 0 contributions · Level 0</title></rect>
+<rect x="293" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-13: 0 contributions · Level 0</title></rect>
+<rect x="293" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-14: 0 contributions · Level 0</title></rect>
+<rect x="293" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-15: 0 contributions · Level 0</title></rect>
+<rect x="310" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-16: 0 contributions · Level 0</title></rect>
+<rect x="310" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-17: 0 contributions · Level 0</title></rect>
+<rect x="310" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-18: 0 contributions · Level 0</title></rect>
+<rect x="310" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-19: 0 contributions · Level 0</title></rect>
+<rect x="310" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-20: 0 contributions · Level 0</title></rect>
+<rect x="310" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-21: 0 contributions · Level 0</title></rect>
+<rect x="310" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-22: 0 contributions · Level 0</title></rect>
+<rect x="327" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-23: 0 contributions · Level 0</title></rect>
+<rect x="327" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-24: 0 contributions · Level 0</title></rect>
+<rect x="327" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-25: 0 contributions · Level 0</title></rect>
+<rect x="327" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-26: 0 contributions · Level 0</title></rect>
+<rect x="327" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-27: 0 contributions · Level 0</title></rect>
+<rect x="327" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-28: 0 contributions · Level 0</title></rect>
+<rect x="327" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-29: 0 contributions · Level 0</title></rect>
+<rect x="344" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-11-30: 0 contributions · Level 0</title></rect>
+<rect x="344" y="91" width="13" height="13" rx="2.5" fill="#FFABC3" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-01: 8 contributions · Level 2</title></rect>
+<rect x="344" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-02: 0 contributions · Level 0</title></rect>
+<rect x="344" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-03: 0 contributions · Level 0</title></rect>
+<rect x="344" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-04: 0 contributions · Level 0</title></rect>
+<rect x="344" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-05: 0 contributions · Level 0</title></rect>
+<rect x="344" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-06: 0 contributions · Level 0</title></rect>
+<rect x="361" y="74" width="13" height="13" rx="2.5" fill="#D81B60" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-07: 45 contributions · Level 4</title></rect>
+<rect x="361" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-08: 0 contributions · Level 0</title></rect>
+<rect x="361" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-09: 0 contributions · Level 0</title></rect>
+<rect x="361" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-10: 0 contributions · Level 0</title></rect>
+<rect x="361" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-11: 0 contributions · Level 0</title></rect>
+<rect x="361" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-12: 0 contributions · Level 0</title></rect>
+<rect x="361" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-13: 0 contributions · Level 0</title></rect>
+<rect x="378" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-14: 0 contributions · Level 0</title></rect>
+<rect x="378" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-15: 0 contributions · Level 0</title></rect>
+<rect x="378" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-16: 0 contributions · Level 0</title></rect>
+<rect x="378" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-17: 0 contributions · Level 0</title></rect>
+<rect x="378" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-18: 0 contributions · Level 0</title></rect>
+<rect x="378" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-19: 0 contributions · Level 0</title></rect>
+<rect x="378" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-20: 0 contributions · Level 0</title></rect>
+<rect x="395" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-21: 0 contributions · Level 0</title></rect>
+<rect x="395" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-22: 0 contributions · Level 0</title></rect>
+<rect x="395" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-23: 0 contributions · Level 0</title></rect>
+<rect x="395" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-24: 0 contributions · Level 0</title></rect>
+<rect x="395" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-25: 0 contributions · Level 0</title></rect>
+<rect x="395" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-26: 0 contributions · Level 0</title></rect>
+<rect x="395" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-27: 0 contributions · Level 0</title></rect>
+<rect x="412" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-28: 0 contributions · Level 0</title></rect>
+<rect x="412" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-29: 0 contributions · Level 0</title></rect>
+<rect x="412" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-30: 0 contributions · Level 0</title></rect>
+<rect x="412" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2025-12-31: 0 contributions · Level 0</title></rect>
+<rect x="412" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-01: 0 contributions · Level 0</title></rect>
+<rect x="412" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-02: 0 contributions · Level 0</title></rect>
+<rect x="412" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-03: 0 contributions · Level 0</title></rect>
+<rect x="429" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-04: 0 contributions · Level 0</title></rect>
+<rect x="429" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-05: 0 contributions · Level 0</title></rect>
+<rect x="429" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-06: 0 contributions · Level 0</title></rect>
+<rect x="429" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-07: 0 contributions · Level 0</title></rect>
+<rect x="429" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-08: 0 contributions · Level 0</title></rect>
+<rect x="429" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-09: 0 contributions · Level 0</title></rect>
+<rect x="429" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-10: 0 contributions · Level 0</title></rect>
+<rect x="446" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-11: 0 contributions · Level 0</title></rect>
+<rect x="446" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-12: 0 contributions · Level 0</title></rect>
+<rect x="446" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-13: 0 contributions · Level 0</title></rect>
+<rect x="446" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-14: 0 contributions · Level 0</title></rect>
+<rect x="446" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-15: 0 contributions · Level 0</title></rect>
+<rect x="446" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-16: 0 contributions · Level 0</title></rect>
+<rect x="446" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-17: 0 contributions · Level 0</title></rect>
+<rect x="463" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-18: 0 contributions · Level 0</title></rect>
+<rect x="463" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-19: 0 contributions · Level 0</title></rect>
+<rect x="463" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-20: 0 contributions · Level 0</title></rect>
+<rect x="463" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-21: 0 contributions · Level 0</title></rect>
+<rect x="463" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-22: 0 contributions · Level 0</title></rect>
+<rect x="463" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-23: 0 contributions · Level 0</title></rect>
+<rect x="463" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-24: 0 contributions · Level 0</title></rect>
+<rect x="480" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-25: 0 contributions · Level 0</title></rect>
+<rect x="480" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-26: 0 contributions · Level 0</title></rect>
+<rect x="480" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-27: 0 contributions · Level 0</title></rect>
+<rect x="480" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-28: 0 contributions · Level 0</title></rect>
+<rect x="480" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-29: 0 contributions · Level 0</title></rect>
+<rect x="480" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-30: 0 contributions · Level 0</title></rect>
+<rect x="480" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-01-31: 0 contributions · Level 0</title></rect>
+<rect x="497" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-01: 0 contributions · Level 0</title></rect>
+<rect x="497" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-02: 0 contributions · Level 0</title></rect>
+<rect x="497" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-03: 0 contributions · Level 0</title></rect>
+<rect x="497" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-04: 0 contributions · Level 0</title></rect>
+<rect x="497" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-05: 0 contributions · Level 0</title></rect>
+<rect x="497" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-06: 0 contributions · Level 0</title></rect>
+<rect x="497" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-07: 0 contributions · Level 0</title></rect>
+<rect x="514" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-08: 0 contributions · Level 0</title></rect>
+<rect x="514" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-09: 0 contributions · Level 0</title></rect>
+<rect x="514" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-10: 0 contributions · Level 0</title></rect>
+<rect x="514" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-11: 0 contributions · Level 0</title></rect>
+<rect x="514" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-12: 0 contributions · Level 0</title></rect>
+<rect x="514" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-13: 0 contributions · Level 0</title></rect>
+<rect x="514" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-14: 0 contributions · Level 0</title></rect>
+<rect x="531" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-15: 0 contributions · Level 0</title></rect>
+<rect x="531" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-16: 0 contributions · Level 0</title></rect>
+<rect x="531" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-17: 0 contributions · Level 0</title></rect>
+<rect x="531" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-18: 0 contributions · Level 0</title></rect>
+<rect x="531" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-19: 0 contributions · Level 0</title></rect>
+<rect x="531" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-20: 0 contributions · Level 0</title></rect>
+<rect x="531" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-21: 0 contributions · Level 0</title></rect>
+<rect x="548" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-22: 0 contributions · Level 0</title></rect>
+<rect x="548" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-23: 0 contributions · Level 0</title></rect>
+<rect x="548" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-24: 0 contributions · Level 0</title></rect>
+<rect x="548" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-25: 0 contributions · Level 0</title></rect>
+<rect x="548" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-26: 0 contributions · Level 0</title></rect>
+<rect x="548" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-27: 0 contributions · Level 0</title></rect>
+<rect x="548" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-02-28: 0 contributions · Level 0</title></rect>
+<rect x="565" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-01: 0 contributions · Level 0</title></rect>
+<rect x="565" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-02: 0 contributions · Level 0</title></rect>
+<rect x="565" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-03: 0 contributions · Level 0</title></rect>
+<rect x="565" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-04: 0 contributions · Level 0</title></rect>
+<rect x="565" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-05: 0 contributions · Level 0</title></rect>
+<rect x="565" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-06: 0 contributions · Level 0</title></rect>
+<rect x="565" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-07: 0 contributions · Level 0</title></rect>
+<rect x="582" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-08: 0 contributions · Level 0</title></rect>
+<rect x="582" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-09: 0 contributions · Level 0</title></rect>
+<rect x="582" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-10: 0 contributions · Level 0</title></rect>
+<rect x="582" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-11: 0 contributions · Level 0</title></rect>
+<rect x="582" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-12: 0 contributions · Level 0</title></rect>
+<rect x="582" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-13: 0 contributions · Level 0</title></rect>
+<rect x="582" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-14: 0 contributions · Level 0</title></rect>
+<rect x="599" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-15: 0 contributions · Level 0</title></rect>
+<rect x="599" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-16: 0 contributions · Level 0</title></rect>
+<rect x="599" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-17: 0 contributions · Level 0</title></rect>
+<rect x="599" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-18: 0 contributions · Level 0</title></rect>
+<rect x="599" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-19: 0 contributions · Level 0</title></rect>
+<rect x="599" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-20: 0 contributions · Level 0</title></rect>
+<rect x="599" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-21: 0 contributions · Level 0</title></rect>
+<rect x="616" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-22: 0 contributions · Level 0</title></rect>
+<rect x="616" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-23: 0 contributions · Level 0</title></rect>
+<rect x="616" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-24: 0 contributions · Level 0</title></rect>
+<rect x="616" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-25: 0 contributions · Level 0</title></rect>
+<rect x="616" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-26: 0 contributions · Level 0</title></rect>
+<rect x="616" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-27: 0 contributions · Level 0</title></rect>
+<rect x="616" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-28: 0 contributions · Level 0</title></rect>
+<rect x="633" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-29: 0 contributions · Level 0</title></rect>
+<rect x="633" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-30: 0 contributions · Level 0</title></rect>
+<rect x="633" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-03-31: 0 contributions · Level 0</title></rect>
+<rect x="633" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-01: 0 contributions · Level 0</title></rect>
+<rect x="633" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-02: 0 contributions · Level 0</title></rect>
+<rect x="633" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-03: 0 contributions · Level 0</title></rect>
+<rect x="633" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-04: 0 contributions · Level 0</title></rect>
+<rect x="650" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-05: 0 contributions · Level 0</title></rect>
+<rect x="650" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-06: 0 contributions · Level 0</title></rect>
+<rect x="650" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-07: 0 contributions · Level 0</title></rect>
+<rect x="650" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-08: 0 contributions · Level 0</title></rect>
+<rect x="650" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-09: 0 contributions · Level 0</title></rect>
+<rect x="650" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-10: 0 contributions · Level 0</title></rect>
+<rect x="650" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-11: 0 contributions · Level 0</title></rect>
+<rect x="667" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-12: 0 contributions · Level 0</title></rect>
+<rect x="667" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-13: 0 contributions · Level 0</title></rect>
+<rect x="667" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-14: 0 contributions · Level 0</title></rect>
+<rect x="667" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-15: 0 contributions · Level 0</title></rect>
+<rect x="667" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-16: 0 contributions · Level 0</title></rect>
+<rect x="667" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-17: 0 contributions · Level 0</title></rect>
+<rect x="667" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-18: 0 contributions · Level 0</title></rect>
+<rect x="684" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-19: 0 contributions · Level 0</title></rect>
+<rect x="684" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-20: 0 contributions · Level 0</title></rect>
+<rect x="684" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-21: 0 contributions · Level 0</title></rect>
+<rect x="684" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-22: 0 contributions · Level 0</title></rect>
+<rect x="684" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-23: 0 contributions · Level 0</title></rect>
+<rect x="684" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-24: 0 contributions · Level 0</title></rect>
+<rect x="684" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-25: 0 contributions · Level 0</title></rect>
+<rect x="701" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-26: 0 contributions · Level 0</title></rect>
+<rect x="701" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-27: 0 contributions · Level 0</title></rect>
+<rect x="701" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-28: 0 contributions · Level 0</title></rect>
+<rect x="701" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-29: 0 contributions · Level 0</title></rect>
+<rect x="701" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-04-30: 0 contributions · Level 0</title></rect>
+<rect x="701" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-01: 0 contributions · Level 0</title></rect>
+<rect x="701" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-02: 0 contributions · Level 0</title></rect>
+<rect x="718" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-03: 0 contributions · Level 0</title></rect>
+<rect x="718" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-04: 0 contributions · Level 0</title></rect>
+<rect x="718" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-05: 0 contributions · Level 0</title></rect>
+<rect x="718" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-06: 0 contributions · Level 0</title></rect>
+<rect x="718" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-07: 0 contributions · Level 0</title></rect>
+<rect x="718" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-08: 0 contributions · Level 0</title></rect>
+<rect x="718" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-09: 0 contributions · Level 0</title></rect>
+<rect x="735" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-10: 0 contributions · Level 0</title></rect>
+<rect x="735" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-11: 0 contributions · Level 0</title></rect>
+<rect x="735" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-12: 0 contributions · Level 0</title></rect>
+<rect x="735" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-13: 0 contributions · Level 0</title></rect>
+<rect x="735" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-14: 0 contributions · Level 0</title></rect>
+<rect x="735" y="159" width="13" height="13" rx="2.5" fill="#FFABC3" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-15: 13 contributions · Level 2</title></rect>
+<rect x="735" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-16: 0 contributions · Level 0</title></rect>
+<rect x="752" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-17: 0 contributions · Level 0</title></rect>
+<rect x="752" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-18: 0 contributions · Level 0</title></rect>
+<rect x="752" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-19: 0 contributions · Level 0</title></rect>
+<rect x="752" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-20: 0 contributions · Level 0</title></rect>
+<rect x="752" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-21: 0 contributions · Level 0</title></rect>
+<rect x="752" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-22: 0 contributions · Level 0</title></rect>
+<rect x="752" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-23: 0 contributions · Level 0</title></rect>
+<rect x="769" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-24: 0 contributions · Level 0</title></rect>
+<rect x="769" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-25: 0 contributions · Level 0</title></rect>
+<rect x="769" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-26: 0 contributions · Level 0</title></rect>
+<rect x="769" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-27: 0 contributions · Level 0</title></rect>
+<rect x="769" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-28: 0 contributions · Level 0</title></rect>
+<rect x="769" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-29: 0 contributions · Level 0</title></rect>
+<rect x="769" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-30: 0 contributions · Level 0</title></rect>
+<rect x="786" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-05-31: 0 contributions · Level 0</title></rect>
+<rect x="786" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-01: 0 contributions · Level 0</title></rect>
+<rect x="786" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-02: 0 contributions · Level 0</title></rect>
+<rect x="786" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-03: 0 contributions · Level 0</title></rect>
+<rect x="786" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-04: 0 contributions · Level 0</title></rect>
+<rect x="786" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-05: 0 contributions · Level 0</title></rect>
+<rect x="786" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-06: 0 contributions · Level 0</title></rect>
+<rect x="803" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-07: 0 contributions · Level 0</title></rect>
+<rect x="803" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-08: 0 contributions · Level 0</title></rect>
+<rect x="803" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-09: 0 contributions · Level 0</title></rect>
+<rect x="803" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-10: 0 contributions · Level 0</title></rect>
+<rect x="803" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-11: 0 contributions · Level 0</title></rect>
+<rect x="803" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-12: 0 contributions · Level 0</title></rect>
+<rect x="803" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-13: 0 contributions · Level 0</title></rect>
+<rect x="820" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-14: 0 contributions · Level 0</title></rect>
+<rect x="820" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-15: 0 contributions · Level 0</title></rect>
+<rect x="820" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-16: 0 contributions · Level 0</title></rect>
+<rect x="820" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-17: 0 contributions · Level 0</title></rect>
+<rect x="820" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-18: 0 contributions · Level 0</title></rect>
+<rect x="820" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-19: 0 contributions · Level 0</title></rect>
+<rect x="820" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-20: 0 contributions · Level 0</title></rect>
+<rect x="837" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-21: 0 contributions · Level 0</title></rect>
+<rect x="837" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-22: 0 contributions · Level 0</title></rect>
+<rect x="837" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-23: 0 contributions · Level 0</title></rect>
+<rect x="837" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-24: 0 contributions · Level 0</title></rect>
+<rect x="837" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-25: 0 contributions · Level 0</title></rect>
+<rect x="837" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-26: 0 contributions · Level 0</title></rect>
+<rect x="837" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-27: 0 contributions · Level 0</title></rect>
+<rect x="854" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-28: 0 contributions · Level 0</title></rect>
+<rect x="854" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-29: 0 contributions · Level 0</title></rect>
+<rect x="854" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-06-30: 0 contributions · Level 0</title></rect>
+<rect x="854" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-01: 0 contributions · Level 0</title></rect>
+<rect x="854" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-02: 0 contributions · Level 0</title></rect>
+<rect x="854" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-03: 0 contributions · Level 0</title></rect>
+<rect x="854" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-04: 0 contributions · Level 0</title></rect>
+<rect x="871" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-05: 0 contributions · Level 0</title></rect>
+<rect x="871" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-06: 0 contributions · Level 0</title></rect>
+<rect x="871" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-07: 0 contributions · Level 0</title></rect>
+<rect x="871" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-08: 0 contributions · Level 0</title></rect>
+<rect x="871" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-09: 0 contributions · Level 0</title></rect>
+<rect x="871" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-10: 0 contributions · Level 0</title></rect>
+<rect x="871" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-11: 0 contributions · Level 0</title></rect>
+<rect x="888" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-12: 0 contributions · Level 0</title></rect>
+<rect x="888" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-13: 0 contributions · Level 0</title></rect>
+<rect x="888" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-14: 0 contributions · Level 0</title></rect>
+<rect x="888" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-15: 0 contributions · Level 0</title></rect>
+<rect x="888" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-16: 0 contributions · Level 0</title></rect>
+<rect x="888" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-17: 0 contributions · Level 0</title></rect>
+<rect x="888" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-18: 0 contributions · Level 0</title></rect>
+<rect x="905" y="74" width="13" height="13" rx="2.5" fill="#FF6B9A" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-19: 14 contributions · Level 3</title></rect>
+<rect x="905" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-20: 0 contributions · Level 0</title></rect>
+<rect x="905" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-21: 0 contributions · Level 0</title></rect>
+<rect x="905" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-22: 0 contributions · Level 0</title></rect>
+<rect x="905" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-23: 0 contributions · Level 0</title></rect>
+<rect x="905" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-24: 0 contributions · Level 0</title></rect>
+<rect x="905" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-25: 0 contributions · Level 0</title></rect>
+<rect x="922" y="74" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-26: 0 contributions · Level 0</title></rect>
+<rect x="922" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-27: 0 contributions · Level 0</title></rect>
+<rect x="922" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-28: 0 contributions · Level 0</title></rect>
+<rect x="922" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-29: 0 contributions · Level 0</title></rect>
+<rect x="922" y="142" width="13" height="13" rx="2.5" fill="#FF6B9A" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-30: 37 contributions · Level 3</title></rect>
+<rect x="922" y="159" width="13" height="13" rx="2.5" fill="#FFABC3" stroke="#FFFFFF" stroke-width="0.5"><title>2026-07-31: 13 contributions · Level 2</title></rect>
+<rect x="922" y="176" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-01: 0 contributions · Level 0</title></rect>
+<rect x="939" y="74" width="13" height="13" rx="2.5" fill="#FFD6E3" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-02: 2 contributions · Level 1</title></rect>
+<rect x="939" y="91" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-03: 0 contributions · Level 0</title></rect>
+<rect x="939" y="108" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-04: 0 contributions · Level 0</title></rect>
+<rect x="939" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-05: 0 contributions · Level 0</title></rect>
+<rect x="939" y="142" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-06: 0 contributions · Level 0</title></rect>
+<rect x="939" y="159" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-07: 0 contributions · Level 0</title></rect>
+<rect x="939" y="176" width="13" height="13" rx="2.5" fill="#FFD6E3" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-08: 2 contributions · Level 1</title></rect>
+<rect x="956" y="74" width="13" height="13" rx="2.5" fill="#D81B60" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-09: 44 contributions · Level 4</title></rect>
+<rect x="956" y="91" width="13" height="13" rx="2.5" fill="#FFD6E3" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-10: 2 contributions · Level 1</title></rect>
+<rect x="956" y="108" width="13" height="13" rx="2.5" fill="#FFD6E3" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-11: 1 contribution · Level 1</title></rect>
+<rect x="956" y="125" width="13" height="13" rx="2.5" fill="#FFF1F5" stroke="#FFFFFF" stroke-width="0.5"><title>2026-08-12: 0 contributions · Level 0</title></rect>
+<text x="22" y="211" class="small muted">Activity levels (contributions/day)</text>
+<rect x="225" y="200" width="12" height="12" rx="2" fill="#FFF1F5"/>
+<text x="243" y="211" class="small">0</text>
+<rect x="330" y="200" width="12" height="12" rx="2" fill="#FFD6E3"/>
+<text x="348" y="211" class="small">1–2</text>
+<rect x="435" y="200" width="12" height="12" rx="2" fill="#FFABC3"/>
+<text x="453" y="211" class="small">3–13</text>
+<rect x="540" y="200" width="12" height="12" rx="2" fill="#FF6B9A"/>
+<text x="558" y="211" class="small">14–37</text>
+<rect x="645" y="200" width="12" height="12" rx="2" fill="#D81B60"/>
+<text x="663" y="211" class="small">38+</text>
+<text x="22" y="239" class="small muted">181 public/visible contributions · 11 active days · Q1≤2 · Q2≤13 · Q3≤37</text>
+<text x="22" y="256" class="small muted">GitHub also reports 91 restricted contribution(s) to this viewer; private-detail support is Phase 2.</text>
+</svg>
