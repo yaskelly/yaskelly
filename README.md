@@ -52,12 +52,15 @@ Helping students, researchers, and developers build intelligent systems with AI 
 <p align="center"><img src="assets/profile-footer-sections.svg" alt="Community and Open Source, Recent GitHub Activity, Research and Publications" width="100%" /></p>
 
 <p align="center">
-  <a href="https://gdg.community.dev/gdg-caracas/">🌍 Community &amp; Open Source</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/yaskelly">📱 Recent GitHub Activity</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&amp;hl=es">🎓 Research &amp; Publications</a>
+  <a href="https://gdg.community.dev/gdg-caracas/"><img alt="Community" src="https://img.shields.io/badge/Community_%26_Open_Source-ff2f7d?style=flat-square" /></a>
+  <a href="https://github.com/yaskelly"><img alt="GitHub Activity" src="https://img.shields.io/badge/Recent_GitHub_Activity-ff2f7d?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es"><img alt="Research" src="https://img.shields.io/badge/Research_%26_Publications-ff2f7d?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaskelly&label=PROFILE%20VIEWS&color=ff2f7d&style=for-the-badge" alt="Yaskelly profile views" />
+</p>
+<p align="center"><img src="assets/profile-footer.svg" alt="Empowering students and developers to build intelligent systems and a better future. Thanks for visiting! Let's build something amazing together. YaskCode" width="100%" /></p>
 
 <!--
 **yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
