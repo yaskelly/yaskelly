@@ -38,7 +38,7 @@ Helping students, researchers, and developers build intelligent systems with AI 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaskelly&bg_color=ffffff&color=24292f&line=ff4f87&point=f5b700&area=true&area_color=ffd6e3&hide_border=false&border_color=ffb3c9&radius=12" alt="Yaskelly contribution activity graph" />
+  <img width="100%" src="assets/contribution-activity.svg" alt="Yaskelly GitHub contribution activity for the last 365 days" />
 </p>
 
 ## 🚀 Tech Stack
