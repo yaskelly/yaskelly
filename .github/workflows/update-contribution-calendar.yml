@@ -39,6 +39,7 @@ jobs:
           s = p.read_text(encoding='utf-8')
           s = re.sub(r'(\d+ public/visible contributions · \d+ active days) · Q1≤\d+ · Q2≤\d+ · Q3≤\d+', r'\1', s)
           s = s.replace('; private-detail support is Phase 2.', '.')
+          s = s.replace('<text x="188" y="32" class="small muted">(Last 365 Days)</text>', '<text x="218" y="32" class="small muted">(Last 365 Days)</text>')
           p.write_text(s, encoding='utf-8')
           PY
 
@@ -47,6 +48,27 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIBUTIONS_TOKEN }}
           GITHUB_PROFILE_USERNAME: yaskelly
         run: python3 scripts/generate_github_analytics.py
+
+      - name: Add card title icons
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          replacements = {
+              'assets/github-stats.svg': ('GitHub Stats', '📈'),
+              'assets/top-languages.svg': ('Most Used Languages', '💻'),
+              'assets/streak-stats.svg': ('Streak Stats', '🔥'),
+          }
+          for filename, (title, icon) in replacements.items():
+              p = Path(filename)
+              s = p.read_text(encoding='utf-8')
+              old = f'<text x="18" y="30" class="title pink">{title}</text>'
+              new = (
+                  f'<text x="18" y="30" style="font-size:17px">{icon}</text>'
+                  f'<text x="47" y="30" class="title pink">{title}</text>'
+              )
+              s = s.replace(old, new)
+              p.write_text(s, encoding='utf-8')
+          PY
 
       - name: Commit generated SVGs
         run: |
