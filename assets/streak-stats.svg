@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="300" viewBox="0 0 350 300" role="img">
-<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:18px;font-weight:700}.label{font-size:13px}.value{font-size:14px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>
-<rect x="1" y="1" width="348" height="298" rx="12" fill="#FFFFFF" stroke="#FFB3C9"/>
-<text x="20" y="32" class="title pink">Streak Stats</text>
-<circle cx="88" cy="120" r="48" fill="none" stroke="#FFD6E3" stroke-width="16"/>
-<circle cx="88" cy="120" r="48" fill="none" stroke="#FF2F78" stroke-width="16" stroke-dasharray="205 97" transform="rotate(-90 88 120)"/>
-<text x="88" y="128" text-anchor="middle" style="font-size:30px">🔥</text>
-<text x="205" y="91" class="value" style="font-size:30px">3</text>
-<text x="205" y="115" class="label muted">Current Streak</text>
-<text x="40" y="205" class="value" style="font-size:27px">3</text>
-<text x="112" y="205" class="label muted">Longest Streak</text>
-<text x="40" y="250" class="value" style="font-size:27px">272</text>
-<text x="132" y="250" class="label muted">Total Contributions*</text>
-<text x="20" y="282" class="muted" style="font-size:10px">*365d total includes restricted-count contributions; streaks use dated visible activity.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="270" viewBox="0 0 390 270" role="img">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>
+<rect x="1" y="1" width="388" height="268" rx="12" fill="#FFFFFF" stroke="#FFB3C9"/>
+<text x="18" y="30" class="title pink">Streak Stats</text>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#FFD6E3" stroke-width="14"/>
+<circle cx="84" cy="118" r="42" fill="none" stroke="#FF2F78" stroke-width="14" stroke-dasharray="190 74" transform="rotate(-90 84 118)"/>
+<text x="84" y="126" text-anchor="middle" style="font-size:28px">🔥</text>
+<text x="205" y="91" class="value" style="font-size:29px">3</text>
+<text x="205" y="113" class="label muted">Current Streak</text>
+<text x="40" y="194" class="value" style="font-size:25px">3</text>
+<text x="107" y="194" class="label muted">Longest Streak</text>
+<text x="40" y="232" class="value" style="font-size:25px">272</text>
+<text x="120" y="232" class="label muted">Total Contributions*</text>
+<text x="20" y="254" class="muted" style="font-size:9px">*Total includes restricted contributions; streaks use dated visible activity.</text>
 </svg>
