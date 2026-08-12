@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
 <title id="title">Yaskelly Tech Stack</title><desc id="desc">Six-column technology stack covering AI, Cloud, Development, Software Engineering, Databases and Emerging Technologies.</desc>
-<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.h{font-size:16px;font-weight:700;fill:#24292f}.b{font-size:11px;font-weight:600;fill:#fff;text-anchor:middle}.dark{fill:#24292f}.sep{stroke:#ffd1df;stroke-width:1.2}.pill{rx:5;ry:5}</style>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.h{font-size:15px;font-weight:700;fill:#24292f}.b{font-size:11px;font-weight:600;fill:#fff;text-anchor:middle}.dark{fill:#24292f}.sep{stroke:#ffd1df;stroke-width:1.2}.pill{rx:5;ry:5}</style>
 <rect width="1200" height="300" fill="#fff"/>
-<line class="sep" x1="200" y1="12" x2="200" y2="286"/><line class="sep" x1="400" y1="12" x2="400" y2="286"/><line class="sep" x1="600" y1="12" x2="600" y2="286"/><line class="sep" x1="800" y1="12" x2="800" y2="286"/><line class="sep" x1="1000" y1="12" x2="1000" y2="286"/>
-<text class="h" x="12" y="28">🤖 Artificial Intelligence</text><text class="h" x="212" y="28">☁️ Cloud</text><text class="h" x="412" y="28">💻 Development</text><text class="h" x="612" y="28">⚙️ Software Engineering</text><text class="h" x="812" y="28">🗄️ Databases</text><text class="h" x="1012" y="28">🌍 Emerging Tech</text>
+<!-- custom column boundaries: 200 | 400 | 610 | 825 | 1000 -->
+<line class="sep" x1="200" y1="12" x2="200" y2="286"/><line class="sep" x1="400" y1="12" x2="400" y2="286"/><line class="sep" x1="610" y1="12" x2="610" y2="286"/><line class="sep" x1="825" y1="12" x2="825" y2="286"/><line class="sep" x1="1000" y1="12" x2="1000" y2="286"/>
+<text class="h" x="12" y="28">🤖 Artificial Intelligence</text><text class="h" x="212" y="28">☁️ Cloud</text><text class="h" x="412" y="28">💻 Development</text><text class="h" x="622" y="28">⚙️ Software Engineering</text><text class="h" x="837" y="28">🗄️ Databases</text><text class="h" x="1012" y="28">🌍 Emerging Tech</text>
 <!-- AI -->
 <g><rect class="pill" x="12" y="48" width="78" height="23" fill="#3776ab"/><text class="b" x="51" y="64">Python</text><rect class="pill" x="98" y="48" width="82" height="23" fill="#8e75ff"/><text class="b" x="139" y="64">Gemini</text>
 <rect class="pill" x="12" y="79" width="78" height="23" fill="#4285f4"/><text class="b" x="51" y="95">Google ADK</text><rect class="pill" x="98" y="79" width="90" height="23" fill="#8e75ff"/><text class="b" x="143" y="95">Gemini CLI</text>
@@ -16,21 +17,20 @@
 <g><rect class="pill" x="212" y="48" width="112" height="23" fill="#4285f4"/><text class="b" x="268" y="64">Google Cloud</text><rect class="pill" x="332" y="48" width="58" height="23" fill="#4285f4"/><text class="b" x="361" y="64">Vertex AI</text>
 <rect class="pill" x="212" y="79" width="82" height="23" fill="#fbbc04"/><text class="b dark" x="253" y="95">Firebase</text><rect class="pill" x="302" y="79" width="82" height="23" fill="#4285f4"/><text class="b" x="343" y="95">Cloud Run</text>
 <rect class="pill" x="212" y="110" width="82" height="23" fill="#669df6"/><text class="b" x="253" y="126">BigQuery</text><rect class="pill" x="302" y="110" width="82" height="23" fill="#fbbc04"/><text class="b dark" x="343" y="126">Firestore</text></g>
-<!-- Development -->
+<!-- Development: width 210 -->
 <g><rect class="pill" x="412" y="48" width="58" height="23" fill="#f05032"/><text class="b" x="441" y="64">Git</text><rect class="pill" x="478" y="48" width="72" height="23" fill="#181717"/><text class="b" x="514" y="64">GitHub</text>
 <rect class="pill" x="412" y="79" width="108" height="23" fill="#2088ff"/><text class="b" x="466" y="95">GitHub Actions</text><rect class="pill" x="528" y="79" width="62" height="23" fill="#000"/><text class="b" x="559" y="95">Copilot</text>
 <rect class="pill" x="412" y="110" width="116" height="23" fill="#181717"/><text class="b" x="470" y="126">GitHub Codespaces</text><rect class="pill" x="536" y="110" width="56" height="23" fill="#2496ed"/><text class="b" x="564" y="126">Docker</text>
 <rect class="pill" x="412" y="141" width="74" height="23" fill="#007acc"/><text class="b" x="449" y="157">VS Code</text><rect class="pill" x="494" y="141" width="96" height="23" fill="#5c2d91"/><text class="b" x="542" y="157">Visual Studio</text>
 <rect class="pill" x="412" y="172" width="72" height="23" fill="#111"/><text class="b" x="448" y="188">Cursor</text></g>
-<!-- Software -->
-<g><rect class="pill" x="612" y="48" width="88" height="23" fill="#f7df1e"/><text class="b dark" x="656" y="64">JavaScript</text><rect class="pill" x="708" y="48" width="72" height="23" fill="#339933"/><text class="b" x="744" y="64">Node.js</text>
-<rect class="pill" x="612" y="79" width="68" height="23" fill="#61dafb"/><text class="b dark" x="646" y="95">React</text><rect class="pill" x="688" y="79" width="72" height="23" fill="#009688"/><text class="b" x="724" y="95">FastAPI</text>
-<rect class="pill" x="768" y="79" width="54" height="23" fill="#000"/><text class="b" x="795" y="95">Flask</text><rect class="pill" x="612" y="110" width="78" height="23" fill="#02569b"/><text class="b" x="651" y="126">REST API</text>
-<rect class="pill" x="698" y="110" width="64" height="23" fill="#e34f26"/><text class="b" x="730" y="126">HTML5</text><rect class="pill" x="770" y="110" width="54" height="23" fill="#1572b6"/><text class="b" x="797" y="126">CSS3</text>
-<rect class="pill" x="612" y="141" width="62" height="23" fill="#111"/><text class="b" x="643" y="157">JSON</text><rect class="pill" x="682" y="141" width="62" height="23" fill="#cb171e"/><text class="b" x="713" y="157">YAML</text><rect class="pill" x="752" y="141" width="72" height="23" fill="#ff3670"/><text class="b" x="788" y="157">Mermaid</text></g>
-<!-- DB -->
-<g><rect class="pill" x="812" y="48" width="94" height="23" fill="#336791"/><text class="b" x="859" y="64">PostgreSQL</text><rect class="pill" x="914" y="48" width="72" height="23" fill="#4479a1"/><text class="b" x="950" y="64">MySQL</text>
-<rect class="pill" x="812" y="79" width="72" height="23" fill="#003b57"/><text class="b" x="848" y="95">SQLite</text><rect class="pill" x="892" y="79" width="86" height="23" fill="#47a248"/><text class="b" x="935" y="95">MongoDB</text></g>
+<!-- Software Engineering: all badges stop before x=825 -->
+<g><rect class="pill" x="622" y="48" width="88" height="23" fill="#f7df1e"/><text class="b dark" x="666" y="64">JavaScript</text><rect class="pill" x="718" y="48" width="72" height="23" fill="#339933"/><text class="b" x="754" y="64">Node.js</text>
+<rect class="pill" x="622" y="79" width="62" height="23" fill="#61dafb"/><text class="b dark" x="653" y="95">React</text><rect class="pill" x="692" y="79" width="68" height="23" fill="#009688"/><text class="b" x="726" y="95">FastAPI</text><rect class="pill" x="768" y="79" width="45" height="23" fill="#000"/><text class="b" x="790.5" y="95">Flask</text>
+<rect class="pill" x="622" y="110" width="76" height="23" fill="#02569b"/><text class="b" x="660" y="126">REST API</text><rect class="pill" x="706" y="110" width="58" height="23" fill="#e34f26"/><text class="b" x="735" y="126">HTML5</text><rect class="pill" x="772" y="110" width="43" height="23" fill="#1572b6"/><text class="b" x="793.5" y="126">CSS3</text>
+<rect class="pill" x="622" y="141" width="58" height="23" fill="#111"/><text class="b" x="651" y="157">JSON</text><rect class="pill" x="688" y="141" width="58" height="23" fill="#cb171e"/><text class="b" x="717" y="157">YAML</text><rect class="pill" x="754" y="141" width="61" height="23" fill="#ff3670"/><text class="b" x="784.5" y="157">Mermaid</text></g>
+<!-- Databases: width 175 -->
+<g><rect class="pill" x="837" y="48" width="88" height="23" fill="#336791"/><text class="b" x="881" y="64">PostgreSQL</text><rect class="pill" x="933" y="48" width="57" height="23" fill="#4479a1"/><text class="b" x="961.5" y="64">MySQL</text>
+<rect class="pill" x="837" y="79" width="65" height="23" fill="#003b57"/><text class="b" x="869.5" y="95">SQLite</text><rect class="pill" x="910" y="79" width="80" height="23" fill="#47a248"/><text class="b" x="950" y="95">MongoDB</text></g>
 <!-- Emerging -->
 <g><rect class="pill" x="1012" y="48" width="92" height="23" fill="#121d33"/><text class="b" x="1058" y="64">Blockchain</text><rect class="pill" x="1112" y="48" width="62" height="23" fill="#121d33"/><text class="b" x="1143" y="64">Web3</text>
 <rect class="pill" x="1012" y="79" width="58" height="23" fill="#0a66c2"/><text class="b" x="1041" y="95">MCP</text></g>
