@@ -34,15 +34,15 @@ Helping students, researchers, and developers build intelligent systems with AI 
 
 <p><img src="assets/featured-projects-heading.svg" alt="Featured Projects" width="100%" /></p>
 <p><a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-recursos-proyectos.svg" alt="Featured project: recursos-proyectos" width="24%" /></a></p>
-<p align="center"><a href="https://github.com/yaskelly?tab=repositories"><strong><span style="color:#FF2F78">View more repositories →</span></strong></a></p>
+<p align="center"><a href="https://github.com/yaskelly?tab=repositories"><img src="assets/view-more-repositories.svg" alt="View more repositories" width="270" /></a></p>
 
 <p><img src="assets/latest-youtube-heading.svg" alt="Latest YouTube Videos" width="100%" /></p>
 
 <!-- YOUTUBE:START -->
 <p align="center">
-  <a href="https://www.youtube.com/@yaskcode"><img width="32%" src="https://dummyimage.com/500x350/fff1f5/ff2f78&amp;text=Latest+YouTube+Video" alt="Latest YouTube video" /></a>
-  <a href="https://www.youtube.com/@yaskcode"><img width="32%" src="https://dummyimage.com/500x350/fff1f5/ff2f78&amp;text=Latest+YouTube+Video" alt="Latest YouTube video" /></a>
-  <a href="https://www.youtube.com/@yaskcode"><img width="32%" src="https://dummyimage.com/500x350/fff1f5/ff2f78&amp;text=Latest+YouTube+Video" alt="Latest YouTube video" /></a>
+  <a href="https://youtu.be/AUgUgx2xcao"><img width="32%" src="https://img.youtube.com/vi/AUgUgx2xcao/hqdefault.jpg" alt="YouTube video AUgUgx2xcao" /></a>
+  <a href="https://youtu.be/GOHa6S6T-kE"><img width="32%" src="https://img.youtube.com/vi/GOHa6S6T-kE/hqdefault.jpg" alt="YouTube video GOHa6S6T-kE" /></a>
+  <a href="https://youtu.be/bUlp1wO10l8"><img width="32%" src="https://img.youtube.com/vi/bUlp1wO10l8/hqdefault.jpg" alt="YouTube video bUlp1wO10l8" /></a>
 </p>
 <!-- YOUTUBE:END -->
 
