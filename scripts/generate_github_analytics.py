@@ -16,9 +16,9 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 ASSETS = Path("assets")
 
 PINK = "#FF2F78"
-PINK_DARK = "#D81B60"
-PINK_MED = "#FF6B9A"
-PINK_LIGHT = "#FFD6E3"
+PINK_DARK = "#C2185B"
+PINK_MED = "#FF5C93"
+PINK_LIGHT = "#FFC7DA"
 PINK_PALE = "#FFF1F5"
 BORDER = "#FFB3C9"
 TEXT = "#24292F"
@@ -58,13 +58,26 @@ def fmt(n: int) -> str:
     return str(n)
 
 
-def svg_shell(title: str) -> list[str]:
+def title_icon(kind: str) -> str:
+    if kind == "stats":
+        return f'''<g transform="translate(17 13)" fill="none" stroke="{PINK}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="25" height="22" rx="2.5"/><path d="M4 17l5-6 4 3 7-8"/><path d="M18 6h4v4"/>
+</g>'''
+    if kind == "languages":
+        return f'''<g transform="translate(17 13)" fill="none" stroke="{PINK}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="1" y="0" width="24" height="17" rx="2.5"/><path d="M0 21h26"/><path d="M8 21l1-4h8l1 4"/>
+</g>'''
+    return f'''<g transform="translate(18 11)"><path fill="{PINK}" d="M13 0c2 7-3 8-1 13 1-3 4-4 5-7 5 5 7 9 5 14-2 5-7 7-11 7S2 25 1 20C0 15 4 12 6 8c0 4 2 5 3 6C8 8 12 6 13 0z"/></g>'''
+
+
+def svg_shell(title: str, kind: str) -> list[str]:
     width, height = 390, 270
     return [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img">',
-        '<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>',
+        '<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}.rowicon{font-size:17px;font-weight:700}</style>',
         f'<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="12" fill="{WHITE}" stroke="{BORDER}"/>',
-        f'<text x="18" y="30" class="title pink">{esc(title)}</text>',
+        title_icon(kind),
+        f'<text x="52" y="31" class="title pink">{esc(title)}</text>',
     ]
 
 
@@ -113,24 +126,16 @@ def fetch_profile_data() -> dict:
 
 
 def fetch_language_repositories() -> list[dict]:
-    """Owned or explicitly collaborated repositories, public or private, excluding forks later."""
     query = """
     query($login:String!,$cursor:String) {
       user(login:$login) {
-        repositories(
-          first:100,
-          after:$cursor,
-          ownerAffiliations:[OWNER,COLLABORATOR],
-          orderBy:{field:UPDATED_AT,direction:DESC}
-        ) {
+        repositories(first:100, after:$cursor, ownerAffiliations:[OWNER,COLLABORATOR], orderBy:{field:UPDATED_AT,direction:DESC}) {
           pageInfo { hasNextPage endCursor }
           nodes {
             nameWithOwner
             isFork
             isPrivate
-            languages(first:12, orderBy:{field:SIZE,direction:DESC}) {
-              edges { size node { name } }
-            }
+            languages(first:12, orderBy:{field:SIZE,direction:DESC}) { edges { size node { name } } }
           }
         }
       }
@@ -167,30 +172,44 @@ def compute_streaks(days: list[dict]) -> tuple[int, int]:
     return current, longest
 
 
+def segmented_ring(cx: int, cy: int, r: int, stroke: int) -> list[str]:
+    circumference = 264
+    seg = 62
+    gap = circumference - seg
+    colors = [PINK_LIGHT, PINK_MED, PINK, PINK_DARK]
+    parts = [f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{PINK_PALE}" stroke-width="{stroke}"/>']
+    for i, color in enumerate(colors):
+        parts.append(
+            f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{color}" stroke-width="{stroke}" '
+            f'stroke-dasharray="{seg} {gap}" stroke-dashoffset="{-66*i}" transform="rotate(-90 {cx} {cy})"/>'
+        )
+    return parts
+
+
 def stats_card(data: dict) -> str:
     repos = data["repositories"]["nodes"]
     stars = sum(r["stargazerCount"] for r in repos if not r["isFork"])
     c = data["contributionsCollection"]
     rows = [
-        ("★", "Total Stars Earned", stars),
+        ("☆", "Total Stars Earned", stars),
         ("▣", "Public Repositories", data["repositories"]["totalCount"]),
-        ("●", "Commits (365d)", c["totalCommitContributions"]),
+        ("↪", "Commits (365d)", c["totalCommitContributions"]),
         ("⑂", "Pull Requests (365d)", c["totalPullRequestContributions"]),
-        ("○", "Issues (365d)", c["totalIssueContributions"]),
+        ("◷", "Issues (365d)", c["totalIssueContributions"]),
         ("♙", "Followers", data["followers"]["totalCount"]),
     ]
-    parts = svg_shell("GitHub Stats")
-    y = 64
+    parts = svg_shell("GitHub Stats", "stats")
+    y = 65
     for icon, label, value in rows:
-        parts.append(f'<text x="20" y="{y}" class="label pink">{esc(icon)}</text>')
-        parts.append(f'<text x="43" y="{y}" class="label">{esc(label)}</text>')
-        parts.append(f'<text x="244" y="{y}" class="value">{esc(fmt(value))}</text>')
+        parts.append(f'<text x="19" y="{y+1}" class="rowicon pink">{esc(icon)}</text>')
+        parts.append(f'<text x="47" y="{y}" class="label">{esc(label)}</text>')
+        parts.append(f'<text x="238" y="{y}" class="value">{esc(fmt(value))}</text>')
         y += 31
+    parts += segmented_ring(320, 145, 42, 14)
     parts += [
-        f'<circle cx="322" cy="145" r="42" fill="none" stroke="{PINK_LIGHT}" stroke-width="14"/>',
-        f'<circle cx="322" cy="145" r="42" fill="none" stroke="{PINK}" stroke-width="14" stroke-dasharray="190 74" transform="rotate(-90 322 145)"/>',
-        f'<text x="322" y="142" text-anchor="middle" style="font-size:23px;font-weight:700">{esc(fmt(c["totalCommitContributions"]))}</text>',
-        '<text x="322" y="162" text-anchor="middle" class="label muted">commits / 365d</text>',
+        f'<text x="320" y="140" text-anchor="middle" style="font-size:23px;font-weight:800">{esc(fmt(c["totalCommitContributions"]))}</text>',
+        '<text x="320" y="160" text-anchor="middle" style="font-size:12px;font-weight:700">Commits</text>',
+        '<text x="320" y="176" text-anchor="middle" class="muted" style="font-size:9px">last 365 days</text>',
         '</svg>'
     ]
     return "\n".join(parts) + "\n"
@@ -198,21 +217,18 @@ def stats_card(data: dict) -> str:
 
 def languages_card(repos: list[dict]) -> str:
     totals: dict[str, int] = defaultdict(int)
-    analyzed = 0
-    private_count = 0
+    analyzed = private_count = 0
     for repo in repos:
         if repo["isFork"]:
             continue
         analyzed += 1
-        if repo["isPrivate"]:
-            private_count += 1
+        private_count += int(repo["isPrivate"])
         for edge in repo["languages"]["edges"]:
             totals[edge["node"]["name"]] += edge["size"]
-
     grand = sum(totals.values()) or 1
     top = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:6]
-    parts = svg_shell("Most Used Languages")
-    y = 62
+    parts = svg_shell("Most Used Languages", "languages")
+    y = 64
     for name, value in top:
         pct = value / grand * 100
         bar = max(4, int(150 * pct / 100))
@@ -231,11 +247,10 @@ def streak_card(data: dict) -> str:
     days = [d for w in c["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
     current, longest = compute_streaks(days)
     total = c["contributionCalendar"]["totalContributions"] + c["restrictedContributionsCount"]
-    parts = svg_shell("Streak Stats")
+    parts = svg_shell("Streak Stats", "streak")
+    parts += segmented_ring(84, 118, 42, 14)
     parts += [
-        f'<circle cx="84" cy="118" r="42" fill="none" stroke="{PINK_LIGHT}" stroke-width="14"/>',
-        f'<circle cx="84" cy="118" r="42" fill="none" stroke="{PINK}" stroke-width="14" stroke-dasharray="190 74" transform="rotate(-90 84 118)"/>',
-        '<text x="84" y="126" text-anchor="middle" style="font-size:28px">🔥</text>',
+        f'<path transform="translate(71 101)" fill="{PINK}" d="M13 0c2 7-3 8-1 13 1-3 4-4 5-7 5 5 7 9 5 14-2 5-7 7-11 7S2 25 1 20C0 15 4 12 6 8c0 4 2 5 3 6C8 8 12 6 13 0z"/>',
         f'<text x="205" y="91" class="value" style="font-size:29px">{current}</text>',
         '<text x="205" y="113" class="label muted">Current Streak</text>',
         f'<text x="40" y="194" class="value" style="font-size:25px">{longest}</text>',
