@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="390" height="270" viewBox="0 0 390 270" role="img">
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>
 <rect x="1" y="1" width="388" height="268" rx="12" fill="#FFFFFF" stroke="#FFB3C9"/>
-<text x="18" y="30" class="title pink">GitHub Stats</text>
+<text x="18" y="30" style="font-size:17px">📈</text><text x="47" y="30" class="title pink">GitHub Stats</text>
 <text x="20" y="64" class="label pink">★</text>
 <text x="43" y="64" class="label">Total Stars Earned</text>
 <text x="244" y="64" class="value">0</text>
