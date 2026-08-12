@@ -58,12 +58,13 @@ def fmt(n: int) -> str:
     return str(n)
 
 
-def svg_shell(width: int, height: int, title: str) -> list[str]:
+def svg_shell(title: str) -> list[str]:
+    width, height = 390, 270
     return [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img">',
-        '<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:18px;font-weight:700}.label{font-size:13px}.value{font-size:14px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>',
+        '<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}</style>',
         f'<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="12" fill="{WHITE}" stroke="{BORDER}"/>',
-        f'<text x="20" y="32" class="title pink">{esc(title)}</text>',
+        f'<text x="18" y="30" class="title pink">{esc(title)}</text>',
     ]
 
 
@@ -77,13 +78,7 @@ def fetch_profile_data() -> dict:
         repositories(first:100, after:$cursor, ownerAffiliations:OWNER, privacy:PUBLIC, orderBy:{field:UPDATED_AT,direction:DESC}) {
           totalCount
           pageInfo { hasNextPage endCursor }
-          nodes {
-            stargazerCount
-            isFork
-            languages(first:10, orderBy:{field:SIZE,direction:DESC}) {
-              edges { size node { name } }
-            }
-          }
+          nodes { stargazerCount isFork }
         }
         contributionsCollection(from:$from,to:$to) {
           totalCommitContributions
@@ -117,18 +112,50 @@ def fetch_profile_data() -> dict:
     return first
 
 
+def fetch_language_repositories() -> list[dict]:
+    """Owned or explicitly collaborated repositories, public or private, excluding forks later."""
+    query = """
+    query($login:String!,$cursor:String) {
+      user(login:$login) {
+        repositories(
+          first:100,
+          after:$cursor,
+          ownerAffiliations:[OWNER,COLLABORATOR],
+          orderBy:{field:UPDATED_AT,direction:DESC}
+        ) {
+          pageInfo { hasNextPage endCursor }
+          nodes {
+            nameWithOwner
+            isFork
+            isPrivate
+            languages(first:12, orderBy:{field:SIZE,direction:DESC}) {
+              edges { size node { name } }
+            }
+          }
+        }
+      }
+    }
+    """
+    cursor = None
+    repos: list[dict] = []
+    while True:
+        conn = graphql(query, {"login": USERNAME, "cursor": cursor})["user"]["repositories"]
+        repos.extend(conn["nodes"])
+        if not conn["pageInfo"]["hasNextPage"]:
+            break
+        cursor = conn["pageInfo"]["endCursor"]
+    return repos
+
+
 def compute_streaks(days: list[dict]) -> tuple[int, int]:
     ordered = sorted(days, key=lambda d: d["date"])
-    longest = 0
-    running = 0
+    longest = running = 0
     for d in ordered:
         if d["contributionCount"] > 0:
             running += 1
             longest = max(longest, running)
         else:
             running = 0
-
-    # Current streak: walk backward, allowing today to be empty before activity starts.
     current = 0
     started = False
     for d in reversed(ordered):
@@ -146,52 +173,55 @@ def stats_card(data: dict) -> str:
     c = data["contributionsCollection"]
     rows = [
         ("★", "Total Stars Earned", stars),
-        ("▣", "Total Repositories", data["repositories"]["totalCount"]),
+        ("▣", "Public Repositories", data["repositories"]["totalCount"]),
         ("●", "Commits (365d)", c["totalCommitContributions"]),
         ("⑂", "Pull Requests (365d)", c["totalPullRequestContributions"]),
         ("○", "Issues (365d)", c["totalIssueContributions"]),
         ("♙", "Followers", data["followers"]["totalCount"]),
     ]
-    parts = svg_shell(430, 300, "GitHub Stats")
-    y = 68
+    parts = svg_shell("GitHub Stats")
+    y = 64
     for icon, label, value in rows:
-        parts.append(f'<text x="22" y="{y}" class="label pink">{esc(icon)}</text>')
-        parts.append(f'<text x="48" y="{y}" class="label">{esc(label)}</text>')
-        parts.append(f'<text x="278" y="{y}" class="value">{esc(fmt(value))}</text>')
-        y += 34
+        parts.append(f'<text x="20" y="{y}" class="label pink">{esc(icon)}</text>')
+        parts.append(f'<text x="43" y="{y}" class="label">{esc(label)}</text>')
+        parts.append(f'<text x="244" y="{y}" class="value">{esc(fmt(value))}</text>')
+        y += 31
     parts += [
-        f'<circle cx="355" cy="155" r="55" fill="none" stroke="{PINK_LIGHT}" stroke-width="18"/>',
-        f'<circle cx="355" cy="155" r="55" fill="none" stroke="{PINK}" stroke-width="18" stroke-dasharray="250 96" transform="rotate(-90 355 155)"/>',
-        f'<text x="355" y="150" text-anchor="middle" style="font-size:25px;font-weight:700">{esc(fmt(c["totalCommitContributions"]))}</text>',
-        '<text x="355" y="174" text-anchor="middle" class="label muted">commits / 365d</text>',
+        f'<circle cx="322" cy="145" r="42" fill="none" stroke="{PINK_LIGHT}" stroke-width="14"/>',
+        f'<circle cx="322" cy="145" r="42" fill="none" stroke="{PINK}" stroke-width="14" stroke-dasharray="190 74" transform="rotate(-90 322 145)"/>',
+        f'<text x="322" y="142" text-anchor="middle" style="font-size:23px;font-weight:700">{esc(fmt(c["totalCommitContributions"]))}</text>',
+        '<text x="322" y="162" text-anchor="middle" class="label muted">commits / 365d</text>',
         '</svg>'
     ]
     return "\n".join(parts) + "\n"
 
 
-def languages_card(data: dict) -> str:
+def languages_card(repos: list[dict]) -> str:
     totals: dict[str, int] = defaultdict(int)
-    for repo in data["repositories"]["nodes"]:
+    analyzed = 0
+    private_count = 0
+    for repo in repos:
         if repo["isFork"]:
             continue
+        analyzed += 1
+        if repo["isPrivate"]:
+            private_count += 1
         for edge in repo["languages"]["edges"]:
             totals[edge["node"]["name"]] += edge["size"]
+
     grand = sum(totals.values()) or 1
     top = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:6]
-    shown = sum(v for _, v in top)
-    other = max(0, grand - shown)
-    if other:
-        top.append(("Other", other))
-    parts = svg_shell(430, 300, "Most Used Languages")
-    y = 72
-    for name, value in top[:6]:
+    parts = svg_shell("Most Used Languages")
+    y = 62
+    for name, value in top:
         pct = value / grand * 100
-        bar = max(3, int(165 * pct / 100))
-        parts.append(f'<text x="22" y="{y}" class="label">{esc(name)}</text>')
-        parts.append(f'<rect x="155" y="{y-11}" width="165" height="9" rx="4.5" fill="{PINK_PALE}"/>')
-        parts.append(f'<rect x="155" y="{y-11}" width="{bar}" height="9" rx="4.5" fill="{PINK}"/>')
-        parts.append(f'<text x="335" y="{y}" class="label value">{pct:.1f}%</text>')
-        y += 34
+        bar = max(4, int(150 * pct / 100))
+        parts.append(f'<text x="20" y="{y}" class="label">{esc(name)}</text>')
+        parts.append(f'<rect x="137" y="{y-10}" width="150" height="9" rx="4.5" fill="{PINK_PALE}"/>')
+        parts.append(f'<rect x="137" y="{y-10}" width="{bar}" height="9" rx="4.5" fill="{PINK}"/>')
+        parts.append(f'<text x="305" y="{y}" class="value">{pct:.1f}%</text>')
+        y += 30
+    parts.append(f'<text x="20" y="250" class="muted" style="font-size:10px">{analyzed} owned/collaborated repos analyzed · {private_count} private</text>')
     parts.append('</svg>')
     return "\n".join(parts) + "\n"
 
@@ -201,30 +231,31 @@ def streak_card(data: dict) -> str:
     days = [d for w in c["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
     current, longest = compute_streaks(days)
     total = c["contributionCalendar"]["totalContributions"] + c["restrictedContributionsCount"]
-    parts = svg_shell(350, 300, "Streak Stats")
+    parts = svg_shell("Streak Stats")
     parts += [
-        f'<circle cx="88" cy="120" r="48" fill="none" stroke="{PINK_LIGHT}" stroke-width="16"/>',
-        f'<circle cx="88" cy="120" r="48" fill="none" stroke="{PINK}" stroke-width="16" stroke-dasharray="205 97" transform="rotate(-90 88 120)"/>',
-        '<text x="88" y="128" text-anchor="middle" style="font-size:30px">🔥</text>',
-        f'<text x="205" y="91" class="value" style="font-size:30px">{current}</text>',
-        '<text x="205" y="115" class="label muted">Current Streak</text>',
-        f'<text x="40" y="205" class="value" style="font-size:27px">{longest}</text>',
-        '<text x="112" y="205" class="label muted">Longest Streak</text>',
-        f'<text x="40" y="250" class="value" style="font-size:27px">{fmt(total)}</text>',
-        '<text x="132" y="250" class="label muted">Total Contributions*</text>',
-        '<text x="20" y="282" class="muted" style="font-size:10px">*365d total includes restricted-count contributions; streaks use dated visible activity.</text>',
+        f'<circle cx="84" cy="118" r="42" fill="none" stroke="{PINK_LIGHT}" stroke-width="14"/>',
+        f'<circle cx="84" cy="118" r="42" fill="none" stroke="{PINK}" stroke-width="14" stroke-dasharray="190 74" transform="rotate(-90 84 118)"/>',
+        '<text x="84" y="126" text-anchor="middle" style="font-size:28px">🔥</text>',
+        f'<text x="205" y="91" class="value" style="font-size:29px">{current}</text>',
+        '<text x="205" y="113" class="label muted">Current Streak</text>',
+        f'<text x="40" y="194" class="value" style="font-size:25px">{longest}</text>',
+        '<text x="107" y="194" class="label muted">Longest Streak</text>',
+        f'<text x="40" y="232" class="value" style="font-size:25px">{fmt(total)}</text>',
+        '<text x="120" y="232" class="label muted">Total Contributions*</text>',
+        '<text x="20" y="254" class="muted" style="font-size:9px">*Total includes restricted contributions; streaks use dated visible activity.</text>',
         '</svg>'
     ]
     return "\n".join(parts) + "\n"
 
 
 def main() -> None:
-    data = fetch_profile_data()
+    profile = fetch_profile_data()
+    language_repos = fetch_language_repositories()
     ASSETS.mkdir(exist_ok=True)
-    (ASSETS / "github-stats.svg").write_text(stats_card(data), encoding="utf-8")
-    (ASSETS / "top-languages.svg").write_text(languages_card(data), encoding="utf-8")
-    (ASSETS / "streak-stats.svg").write_text(streak_card(data), encoding="utf-8")
-    print("Generated GitHub analytics cards")
+    (ASSETS / "github-stats.svg").write_text(stats_card(profile), encoding="utf-8")
+    (ASSETS / "top-languages.svg").write_text(languages_card(language_repos), encoding="utf-8")
+    (ASSETS / "streak-stats.svg").write_text(streak_card(profile), encoding="utf-8")
+    print(f"Generated GitHub analytics cards; language repositories available: {len(language_repos)}")
 
 
 if __name__ == "__main__":
