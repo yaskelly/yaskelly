@@ -249,4 +249,4 @@ Selection retrieved from the channel's public feed. Each video links to its orig
 
 > Learning Software Engineering by doing Software Engineering.
 
-<p align="center"><img src="assets/footer-signature.svg" alt="YaskCode" width="180" /></p>
+<p align="center"><img src="assets/profile-footer-en.svg" alt="Open education · Thanks for visiting · YaskCode" width="100%" /></p>
