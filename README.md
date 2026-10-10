@@ -31,9 +31,44 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
   <a href="https://www.instagram.com/yaskelly" title="Perfil personal de Yaskelly Yedra"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
+## Ecosistema YaskCode
+
+Espacios que conectan aprendizaje, investigación y colaboración. Selecciona una organización para explorar sus recursos.
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode"><img src="https://github.com/YaskCode.png?size=128" width="64" height="64" alt="YaskCode Academy" /><br/><strong>YaskCode Academy</strong></a><br/><sub>Formación y recursos para aprender construyendo.</sub></td>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-laboratory"><img src="https://github.com/YaskCode-laboratory.png?size=128" width="64" height="64" alt="YaskCode Laboratory" /><br/><strong>YaskCode Laboratory</strong></a><br/><sub>Proyectos estudiantiles y buenas prácticas de ingeniería.</sub></td>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-research"><img src="https://github.com/YaskCode-research.png?size=128" width="64" height="64" alt="YaskCode Research" /><br/><strong>YaskCode Research</strong></a><br/><sub>Investigación y acompañamiento académico.</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-community"><img src="https://github.com/YaskCode-community.png?size=128" width="64" height="64" alt="YaskCode Community" /><br/><strong>YaskCode Community</strong></a><br/><sub>Encuentros, colaboración y aprendizaje compartido.</sub></td>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-build"><img src="https://github.com/YaskCode-build.png?size=128" width="64" height="64" alt="YaskCode Build" /><br/><strong>YaskCode Build</strong></a><br/><sub>Prototipos e innovación · en desarrollo.</sub></td>
+    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-smart-learning"><img src="https://github.com/YaskCode-smart-learning.png?size=128" width="64" height="64" alt="Smart Learning" /><br/><strong>Smart Learning</strong></a><br/><sub>Ecosistemas de aprendizaje · próximamente.</sub></td>
+  </tr>
+</table>
+
+### Espacios académicos LUZ
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%"><a href="https://github.com/LUZ-Computing-Research"><img src="https://github.com/LUZ-Computing-Research.png?size=128" width="64" height="64" alt="LUZ Computing Research" /><br/><strong>LUZ Computing Research</strong></a><br/><sub>Recursos y coordinación institucional de investigación.</sub></td>
+    <td align="center" valign="top" width="50%"><a href="https://github.com/maestriaentic-luz"><img src="https://github.com/maestriaentic-luz.png?size=128" width="64" height="64" alt="Maestría TIC LUZ" /><br/><strong>Maestría TIC LUZ</strong></a><br/><sub>Formación, proyectos y acompañamiento de posgrado.</sub></td>
+  </tr>
+</table>
+
 ## Proyectos y recursos destacados
 
-<p><img src="assets/featured-projects-heading.svg" alt="Proyectos y recursos destacados" width="100%" /></p>
+<p align="center">
+  <a href="https://github.com/yaskelly/yaskelly.github.io"><img src="assets/featured-campus-es.svg" alt="Campus YaskCode: Campus digital que conecta docencia, investigación, proyectos y comunidades. Creadora · diseño educativo. Publicado · en evolución." width="49%" /></a>
+  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-pti-es.svg" alt="Recursos de investigación: Reglamentos, formatos y guías para Proyectos de Investigación en LUZ. Coordinación · orientación académica. Recurso público disponible." width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa"><img src="assets/featured-isbd-es.svg" alt="Ingeniería de Software y BD: Programa de maestría en cuatro semanas: calidad, diseño y plataforma inteligente. Diseño docente · acompañamiento. Programa docente publicado." width="49%" /></a>
+</p>
+
+<details>
+<summary>Leer descripciones, mi participación y evidencias</summary>
 
 ### Campus YaskCode
 Un campus digital inspirado en espacios universitarios que conecta formación, investigación, proyectos y comunidades.
@@ -55,21 +90,9 @@ Programa docente organizado en cuatro semanas, con actividades de calidad, dise�
 - **Herramientas del programa:** GitHub, Mermaid, modelado y evaluación de calidad de software.
 - **Evidencia:** [programa semanal](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
 
-[Ver más repositorios](https://github.com/yaskelly?tab=repositories)
+</details>
 
-## Ecosistema YaskCode
-
-Cada espacio tiene un propósito dentro de una experiencia de aprendizaje basada en la práctica.
-
-| Espacio | Propósito |
-| --- | --- |
-| [YaskCode Academy](https://github.com/YaskCode) | Formación, rutas educativas y recursos para aprender construyendo. |
-| [YaskCode Laboratory](https://github.com/YaskCode-laboratory) | Proyectos estudiantiles, documentación y buenas prácticas de ingeniería. |
-| [YaskCode Research](https://github.com/YaskCode-research) | Investigación y acompañamiento académico. |
-| [YaskCode Community](https://github.com/YaskCode-community) | Encuentros, colaboración y aprendizaje compartido. |
-| [LUZ Computing Research](https://github.com/LUZ-Computing-Research) | Recursos y coordinación institucional de investigación en Computación. |
-
-El [Campus](https://yaskelly.github.io/) también orienta hacia **YaskCode Build**, con proyectos en desarrollo, y **Smart Learning**, anunciado como próximo espacio.
+<p align="center"><a href="https://github.com/yaskelly?tab=repositories">Ver más repositorios →</a></p>
 
 ## Docencia, investigación y comunidad
 
