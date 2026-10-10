@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bannerosado-yaskcode.png" alt="YaskCode — Learn, Practice, Build, Share" width="100%">
+  <img src="assets/banner-yaskcode-transparent.svg" alt="YaskCode — Learn, Practice, Build, Share" width="100%">
 </p>
 
 [Español](README.md) · **English**
