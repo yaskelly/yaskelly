@@ -54,14 +54,22 @@ I connect software engineering, artificial intelligence, data science and cloud 
 
 </details>
 
-### LUZ academic spaces
+<p><img src="assets/academic-community-heading-en.svg" width="100%" alt="LUZ academic spaces and community" /></p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%"><a href="https://github.com/LUZ-Computing-Research"><img src="https://github.com/LUZ-Computing-Research.png?size=128" width="64" height="64" alt="LUZ Computing Research" /><br/><strong>LUZ Computing Research</strong></a><br/><sub>Institutional research resources and coordination.</sub></td>
-    <td align="center" valign="top" width="50%"><a href="https://github.com/maestriaentic-luz"><img src="https://github.com/maestriaentic-luz.png?size=128" width="64" height="64" alt="Maestría TIC LUZ" /><br/><strong>Maestría TIC LUZ</strong></a><br/><sub>Graduate education, projects and academic guidance.</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/LUZ-Computing-Research" title="Institutional research resources and coordination."><img src="assets/space-luz-research-en.svg" width="32%" alt="LUZ Computing Research: Institutional research resources and coordination." /></a>
+  <a href="https://github.com/maestriaentic-luz" title="Graduate education, projects and academic guidance."><img src="assets/space-luz-masters-en.svg" width="32%" alt="Maestría TIC LUZ: Graduate education, projects and academic guidance." /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/" title="Developer community, talks and workshops."><img src="assets/space-gdg-caracas-en.svg" width="32%" alt="GDG Caracas: Developer community, talks and workshops." /></a>
+</p>
+
+<details>
+<summary>Read about these spaces</summary>
+
+- [**LUZ Computing Research**](https://github.com/LUZ-Computing-Research): Institutional research resources and coordination.
+- [**Maestría TIC LUZ**](https://github.com/maestriaentic-luz): Graduate education, projects and academic guidance.
+- [**GDG Caracas**](https://gdg.community.dev/gdg-caracas/): Developer community, talks and workshops.
+
+</details>
 
 ## Featured projects and resources
 
