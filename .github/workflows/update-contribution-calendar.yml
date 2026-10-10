@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - profile-redesign
+      - profile-redesign-review
+      - main
     paths:
       - "scripts/generate_contribution_calendar.py"
       - "scripts/generate_github_analytics.py"
@@ -23,10 +24,10 @@ jobs:
   update-analytics:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out profile redesign
+      - name: Check out profile review
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
+          ref: profile-redesign-review
 
       - name: Generate contribution calendar
         env:
