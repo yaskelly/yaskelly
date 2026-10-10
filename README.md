@@ -249,4 +249,4 @@ Selección obtenida del feed público del canal. Cada video enlaza con su public
 
 > Aprender Ingeniería de Software haciendo Ingeniería de Software.
 
-<p align="center"><img src="assets/footer-signature.svg" alt="YaskCode" width="180" /></p>
+<p align="center"><img src="assets/profile-footer-es.svg" alt="Educación abierta · Gracias por tu visita · YaskCode" width="100%" /></p>
