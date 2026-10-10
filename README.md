@@ -132,24 +132,26 @@ Gestión de entrenamiento con asistencia de un sistema multiagente.
 
 <p align="center"><a href="https://github.com/search?q=user%3Ayaskelly%20org%3AYaskCode%20org%3AYaskCode-laboratory%20org%3ALUZ-Computing-Research%20is%3Apublic&amp;type=repositories">Ver más repositorios públicos →</a></p>
 
+<p><img src="assets/tech-stack-heading.svg" alt="Tech Stack" width="100%" /></p>
+<p align="center"><img src="assets/tech-stack.svg" alt="Tech Stack: AI, Cloud, Development, Software Engineering, Databases and Emerging Technologies" width="100%" /></p>
+
+<details>
+<summary>Tecnologías y documentación</summary>
+
+- **Inteligencia artificial:** [Python](https://docs.python.org/3/) · [Gemini](https://ai.google.dev/gemini-api/docs) · [Google ADK](https://google.github.io/adk-docs/) · [Gemini CLI](https://github.com/google-gemini/gemini-cli) · [OpenAI Codex](https://developers.openai.com/codex/) · [LangChain](https://docs.langchain.com/) · [ChromaDB](https://docs.trychroma.com/) · [FAISS](https://github.com/facebookresearch/faiss/wiki) · [TensorFlow](https://www.tensorflow.org/learn) · [PyTorch](https://docs.pytorch.org/) · [scikit-learn](https://scikit-learn.org/stable/) · [NumPy](https://numpy.org/doc/) · [Pandas](https://pandas.pydata.org/docs/) · [Antigravity](https://antigravity.google/docs).
+- **Cloud:** [Google Cloud](https://cloud.google.com/docs) · [Vertex AI](https://cloud.google.com/vertex-ai/docs) · [Firebase](https://firebase.google.com/docs) · [Cloud Run](https://cloud.google.com/run/docs) · [BigQuery](https://cloud.google.com/bigquery/docs) · [Firestore](https://cloud.google.com/firestore/docs).
+- **Desarrollo:** [Git](https://git-scm.com/doc) · [GitHub](https://docs.github.com/) · [GitHub Actions](https://docs.github.com/actions) · [Copilot](https://docs.github.com/copilot) · [GitHub Codespaces](https://docs.github.com/codespaces) · [Docker](https://docs.docker.com/) · [VS Code](https://code.visualstudio.com/docs) · [Visual Studio](https://learn.microsoft.com/visualstudio/) · [Cursor](https://cursor.com/docs).
+- **Ingeniería de software:** [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) · [Node.js](https://nodejs.org/docs/latest/api/) · [React](https://react.dev/learn) · [FastAPI](https://fastapi.tiangolo.com/) · [Flask](https://flask.palletsprojects.com/) · [REST API](https://learn.microsoft.com/azure/architecture/best-practices/api-design) · [HTML5](https://developer.mozilla.org/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/docs/Web/CSS) · [JSON](https://www.json.org/) · [YAML](https://yaml.org/spec/) · [Mermaid](https://mermaid.js.org/intro/).
+- **Bases de datos:** [PostgreSQL](https://www.postgresql.org/docs/) · [MySQL](https://dev.mysql.com/doc/) · [SQLite](https://sqlite.org/docs.html) · [MongoDB](https://www.mongodb.com/docs/).
+- **Tecnologías emergentes:** [Blockchain](https://ethereum.org/developers/docs/) · [Web3](https://ethereum.org/developers/docs/) · [MCP](https://modelcontextprotocol.io/docs/).
+
+</details>
+
 ## Docencia, investigación y comunidad
 
 - **Docencia:** enseño ingeniería de software, IA, ciencia de datos, bases de datos, arquitectura y cloud. [Explorar un programa docente](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
 - **Investigación:** vinculo ingeniería de software y ecosistemas digitales de aprendizaje con el acompañamiento de trabajos académicos. [Publicaciones en Google Scholar](https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es) · [ORCID](https://orcid.org/0009-0004-4290-120X).
 - **Comunidad:** organizadora de GDG Caracas y embajadora Women Techmakers y WiDS. [Actividades de GDG Caracas](https://gdg.community.dev/gdg-caracas/) · [perfil WiDS](https://community.widsworldwide.org/members/41641225).
-
-## Áreas de trabajo y tecnologías
-
-<p><img src="assets/current-focus-heading.svg" alt="Áreas de trabajo" width="100%" /></p>
-
-Mis áreas de trabajo incluyen **agentes de IA y RAG**, **ciencia de datos**, **cloud** y **educación e investigación en Computación**.
-
-- **IA y datos:** Python, Gemini, LangChain, ChromaDB, FAISS, Pandas y scikit-learn.
-- **Cloud:** Google Cloud y Vertex AI.
-- **Ingeniería y colaboración:** Git, GitHub Projects, GitHub Actions, Mermaid, GitHub Copilot y Docker.
-- **Desarrollo web del Campus:** Astro, TypeScript, HTML y CSS.
-
-Las tecnologías concretas y las instrucciones de uso se documentan en cada repositorio.
 
 ## Videos y recursos audiovisuales
 
