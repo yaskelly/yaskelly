@@ -22,18 +22,13 @@ I connect software engineering, artificial intelligence, data science and cloud 
 </table>
 
 <p align="center">
-  <a href="https://yaskelly.github.io/yaskellyyedra/" title="Academic background, teaching, research and service"><img src="assets/social-website-en.svg" alt="My Web" height="30" /></a>
-  <a href="https://yaskelly.github.io/" title="Learning ecosystem, projects and open resources"><img src="assets/social-yaskcode.svg" alt="YaskCode" height="30" /></a>
   <a href="https://www.linkedin.com/in/yaskelly/" title="Professional profile"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
   <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ" title="Research publications"><img src="assets/social-scholar.svg" alt="Google Scholar" height="30" /></a>
   <a href="https://gdg.community.dev/gdg-caracas/" title="Developer community and events"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@yaskcode" title="Classes, talks and workshops"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
   <a href="https://es.slideshare.net/yaskelly" title="Academic and educational presentations"><img src="assets/social-slideshare.svg" alt="SlideShare" height="30" /></a>
   <a href="https://medium.com/@yaskelly" title="Articles and reflections"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
-  <a href="https://www.instagram.com/yaskcode" title="YaskCode news and community"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
+  <a href="https://www.instagram.com/yaskelly" title="Yaskelly Yedra’s personal profile"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
 ## Featured projects and resources
