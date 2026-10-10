@@ -161,14 +161,13 @@ def compute_streaks(days: list[dict]) -> tuple[int, int]:
             longest = max(longest, running)
         else:
             running = 0
+    # Today may still be in progress; tolerate only today's empty entry.
+    tail = ordered[:-1] if ordered and ordered[-1]["contributionCount"] == 0 else ordered
     current = 0
-    started = False
-    for d in reversed(ordered):
-        if d["contributionCount"] > 0:
-            current += 1
-            started = True
-        elif started:
+    for d in reversed(tail):
+        if d["contributionCount"] <= 0:
             break
+        current += 1
     return current, longest
 
 
