@@ -74,11 +74,14 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
 ## Proyectos y recursos destacados
 
 <p align="center">
-  <a href="https://github.com/yaskelly/yaskelly.github.io"><img src="assets/featured-campus-es.svg" alt="Campus YaskCode: Campus digital que conecta docencia, investigación, proyectos y comunidades. Creadora · diseño educativo. Publicado · en evolución." width="49%" /></a>
-  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-pti-es.svg" alt="Recursos de investigación: Reglamentos, formatos y guías para Proyectos de Investigación en LUZ. Coordinación · orientación académica. Recurso público disponible." width="49%" /></a>
+  <a href="https://github.com/yaskelly/yaskelly.github.io"><img src="assets/featured-campus-es.svg" alt="Campus YaskCode" width="32%" /></a>
+  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-pti-es.svg" alt="Recursos de investigación" width="32%" /></a>
+  <a href="https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa"><img src="assets/featured-isbd-es.svg" alt="Ingeniería de Software y Bases de Datos" width="32%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa"><img src="assets/featured-isbd-es.svg" alt="Ingeniería de Software y BD: Programa de maestría en cuatro semanas: calidad, diseño y plataforma inteligente. Diseño docente · acompañamiento. Programa docente publicado." width="49%" /></a>
+  <a href="https://github.com/YaskCode/sistemas-inteligentes"><img src="assets/featured-si-es.svg" alt="Sistemas Inteligentes" width="32%" /></a>
+  <a href="https://github.com/YaskCode-laboratory/wellness-platform-team1"><img src="assets/featured-runcoach-es.svg" alt="RunCoach AI" width="32%" /></a>
+  <a href="https://github.com/YaskCode-laboratory/wellness-platform-team6"><img src="assets/featured-wellnesslift-es.svg" alt="Wellness Lift" width="32%" /></a>
 </p>
 
 <details>
@@ -104,9 +107,30 @@ Programa docente organizado en cuatro semanas, con actividades de calidad, dise�
 - **Herramientas del programa:** GitHub, Mermaid, modelado y evaluación de calidad de software.
 - **Evidencia:** [programa semanal](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
 
+### Sistemas Inteligentes
+Programa de maestría: RAG, agentes y sistemas multiagente.
+- **Mi participación:** diseño docente · acompañamiento.
+- **Estado:** programa y recursos publicados.
+- **Tecnologías y herramientas:** GitHub · RAG · Agentes.
+- **Evidencia:** [código y documentación](https://github.com/YaskCode/sistemas-inteligentes).
+
+### RunCoach AI
+Running y bienestar con RAG y agentes de IA especializados.
+- **Mi participación:** docencia · orientación académica; desarrollo realizado por el equipo estudiantil.
+- **Estado:** sprints 1–3 entregados.
+- **Tecnologías y herramientas:** Python · FastAPI · React · Vertex AI.
+- **Evidencia:** [código y documentación](https://github.com/YaskCode-laboratory/wellness-platform-team1).
+
+### Wellness Lift
+Gestión de entrenamiento con asistencia de un sistema multiagente.
+- **Mi participación:** docencia · orientación académica; desarrollo realizado por el equipo estudiantil.
+- **Estado:** código y documentación públicos.
+- **Tecnologías y herramientas:** Python · FastAPI · React · AWS.
+- **Evidencia:** [código y documentación](https://github.com/YaskCode-laboratory/wellness-platform-team6).
+
 </details>
 
-<p align="center"><a href="https://github.com/yaskelly?tab=repositories">Ver más repositorios →</a></p>
+<p align="center"><a href="https://github.com/search?q=user%3Ayaskelly%20org%3AYaskCode%20org%3AYaskCode-laboratory%20org%3ALUZ-Computing-Research%20is%3Apublic&amp;type=repositories">Ver más repositorios públicos →</a></p>
 
 ## Docencia, investigación y comunidad
 
