@@ -19,6 +19,7 @@ def get(url: str) -> bytes:
 
 def render(entries, ns, english=False):
     lines = []
+    captions = []
     for entry in entries:
         video_id = entry.findtext("yt:videoId", namespaces=ns) or ""
         if not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
@@ -29,12 +30,14 @@ def render(entries, ns, english=False):
         safe_title = html.escape(title, quote=True)
         label = "Published" if english else "Publicado"
         lines.append(
-            f'<p><a href="https://www.youtube.com/watch?v={video_id}">'
-            f'<img src="https://i.ytimg.com/vi/{video_id}/hqdefault.jpg" width="320" alt="{safe_title}" /></a>'
-            f'<br/><a href="https://www.youtube.com/watch?v={video_id}">{safe_title}</a>'
-            f'<br/>{label}: {date}</p>'
+            f'<a href="https://www.youtube.com/watch?v={video_id}" title="{safe_title}">'
+            f'<img src="https://i.ytimg.com/vi/{video_id}/hqdefault.jpg" width="32%" alt="{safe_title}" /></a>'
         )
-    return START + "\n" + "\n\n".join(lines) + "\n" + END
+        captions.append(f'- <a href="https://www.youtube.com/watch?v={video_id}">{safe_title}</a> · {date}')
+    summary = "Video titles and dates" if english else "Títulos y fechas de los videos"
+    return (START + '\n<p align="center">\n' + '\n'.join(lines) + '\n</p>\n\n'
+            + '<details>\n<summary>' + summary + '</summary>\n\n'
+            + '\n'.join(captions) + '\n\n</details>\n' + END)
 
 def main():
     page = get(CHANNEL).decode("utf-8", "ignore")
