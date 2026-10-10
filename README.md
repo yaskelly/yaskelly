@@ -101,18 +101,18 @@ Selección obtenida del feed público del canal. Cada video enlaza con su public
 
 <p><img src="assets/github-analytics-heading.svg" alt="Actividad en GitHub" width="100%" /></p>
 
-**Capturas guardadas en agosto de 2026; no son contadores en tiempo real.** Los scripts de actualización están incluidos en este repositorio. La ejecución diaria en esta rama y la actualización de YouTube están pendientes de verificar.
+**Capturas regeneradas el 10 de octubre de 2026; no son contadores en tiempo real.** Los scripts de actualización están incluidos en este repositorio. La regeneración de estadísticas y la actualización bilingüe de YouTube se comprobaron el 10 de octubre de 2026. La ejecución periódica debe comprobarse tras integrar los workflows en la rama predeterminada.
 
 <p align="center">
-  <img width="32%" src="assets/github-stats.svg" alt="Estadísticas de GitHub guardadas en agosto de 2026" />
-  <img width="32%" src="assets/top-languages.svg" alt="Lenguajes de repositorios analizados en agosto de 2026" />
-  <img width="32%" src="assets/streak-stats.svg" alt="Rachas de contribución guardadas en agosto de 2026" />
+  <img width="32%" src="assets/github-stats.svg" alt="Estadísticas de GitHub regeneradas el 10 de octubre de 2026" />
+  <img width="32%" src="assets/top-languages.svg" alt="Lenguajes de repositorios analizados el 10 de octubre de 2026" />
+  <img width="32%" src="assets/streak-stats.svg" alt="Rachas de contribución regeneradas el 10 de octubre de 2026" />
 </p>
 
 <details>
 <summary>Ver calendario de contribuciones guardado</summary>
 
-<img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones guardado en agosto de 2026" />
+<img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones regenerado el 10 de octubre de 2026" />
 
 </details>
 
