@@ -54,14 +54,22 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
 
 </details>
 
-### Espacios académicos LUZ
+<p><img src="assets/academic-community-heading-es.svg" width="100%" alt="Espacios académicos LUZ y Comunidad" /></p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%"><a href="https://github.com/LUZ-Computing-Research"><img src="https://github.com/LUZ-Computing-Research.png?size=128" width="64" height="64" alt="LUZ Computing Research" /><br/><strong>LUZ Computing Research</strong></a><br/><sub>Recursos y coordinación institucional de investigación.</sub></td>
-    <td align="center" valign="top" width="50%"><a href="https://github.com/maestriaentic-luz"><img src="https://github.com/maestriaentic-luz.png?size=128" width="64" height="64" alt="Maestría TIC LUZ" /><br/><strong>Maestría TIC LUZ</strong></a><br/><sub>Formación, proyectos y acompañamiento de posgrado.</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/LUZ-Computing-Research" title="Recursos y coordinación institucional de investigación."><img src="assets/space-luz-research-es.svg" width="32%" alt="LUZ Computing Research: Recursos y coordinación institucional de investigación." /></a>
+  <a href="https://github.com/maestriaentic-luz" title="Formación, proyectos y acompañamiento de posgrado."><img src="assets/space-luz-masters-es.svg" width="32%" alt="Maestría TIC LUZ: Formación, proyectos y acompañamiento de posgrado." /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/" title="Comunidad de desarrolladores, charlas y talleres."><img src="assets/space-gdg-caracas-es.svg" width="32%" alt="GDG Caracas: Comunidad de desarrolladores, charlas y talleres." /></a>
+</p>
+
+<details>
+<summary>Leer sobre estos espacios</summary>
+
+- [**LUZ Computing Research**](https://github.com/LUZ-Computing-Research): Recursos y coordinación institucional de investigación.
+- [**Maestría TIC LUZ**](https://github.com/maestriaentic-luz): Formación, proyectos y acompañamiento de posgrado.
+- [**GDG Caracas**](https://gdg.community.dev/gdg-caracas/): Comunidad de desarrolladores, charlas y talleres.
+
+</details>
 
 ## Proyectos y recursos destacados
 
