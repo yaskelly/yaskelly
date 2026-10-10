@@ -31,6 +31,12 @@ I connect software engineering, artificial intelligence, data science and cloud 
   <a href="https://www.instagram.com/yaskelly" title="Yaskelly Yedra’s personal profile"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
+## Teaching, research and community
+
+- **Teaching:** software engineering, AI, data science, databases, architecture and cloud. [Explore a teaching program](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
+- **Research:** connecting software engineering and digital learning ecosystems with academic mentoring. [Google Scholar publications](https://scholar.google.com/citations?user=zySpQB0AAAAJ) · [ORCID](https://orcid.org/0009-0004-4290-120X).
+- **Community:** GDG Caracas organizer, Women Techmakers ambassador and WiDS ambassador. [GDG Caracas activities](https://gdg.community.dev/gdg-caracas/) · [WiDS profile](https://community.widsworldwide.org/members/41641225).
+
 <p><img src="assets/ecosystem-heading-en.svg" width="100%" alt="YaskCode Ecosystem" /></p>
 
 <p align="center">
@@ -190,12 +196,6 @@ Training management supported by a multiagent system.
 - **Emerging technologies:** [Blockchain](https://ethereum.org/developers/docs/) · [Web3](https://ethereum.org/developers/docs/) · [MCP](https://modelcontextprotocol.io/docs/).
 
 </details>
-
-## Teaching, research and community
-
-- **Teaching:** software engineering, AI, data science, databases, architecture and cloud. [Explore a teaching program](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
-- **Research:** connecting software engineering and digital learning ecosystems with academic mentoring. [Google Scholar publications](https://scholar.google.com/citations?user=zySpQB0AAAAJ) · [ORCID](https://orcid.org/0009-0004-4290-120X).
-- **Community:** GDG Caracas organizer, Women Techmakers ambassador and WiDS ambassador. [GDG Caracas activities](https://gdg.community.dev/gdg-caracas/) · [WiDS profile](https://community.widsworldwide.org/members/41641225).
 
 ## Videos and audiovisual resources
 
