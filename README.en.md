@@ -94,18 +94,18 @@ Selection retrieved from the channel's public feed. Each video links to its orig
 
 <p><img src="assets/github-analytics-heading.svg" alt="GitHub activity" width="100%" /></p>
 
-**Snapshots saved in August 2026; these are not live counters.** Update scripts are included in this repository. Daily execution on this branch and the YouTube update still require verification.
+**Snapshots regenerated on October 10, 2026; these are not live counters.** Update scripts are included in this repository. Statistics regeneration and bilingual YouTube updates were verified on October 10, 2026. Scheduled execution should be checked after the workflows are integrated into the default branch.
 
 <p align="center">
-  <img width="32%" src="assets/github-stats.svg" alt="GitHub statistics saved in August 2026" />
-  <img width="32%" src="assets/top-languages.svg" alt="Repository languages analyzed in August 2026" />
-  <img width="32%" src="assets/streak-stats.svg" alt="Contribution streaks saved in August 2026" />
+  <img width="32%" src="assets/github-stats.svg" alt="GitHub statistics regenerated on October 10, 2026" />
+  <img width="32%" src="assets/top-languages.svg" alt="Repository languages analyzed on October 10, 2026" />
+  <img width="32%" src="assets/streak-stats.svg" alt="Contribution streaks regenerated on October 10, 2026" />
 </p>
 
 <details>
 <summary>View saved contribution calendar</summary>
 
-<img width="100%" src="assets/contribution-activity.svg" alt="Contribution calendar saved in August 2026" />
+<img width="100%" src="assets/contribution-activity.svg" alt="Contribution calendar regenerated on October 10, 2026" />
 
 </details>
 
