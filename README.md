@@ -167,11 +167,7 @@ Selección obtenida del feed público del canal. Cada video enlaza con su public
 <p><a href="https://www.youtube.com/watch?v=hT-6WChdBHI"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="320" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a><br/><a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a><br/>Publicado: 2026-08-30</p>
 <!-- YOUTUBE:END -->
 
-## Actividad en GitHub
-
 <p><img src="assets/github-analytics-heading.svg" alt="Actividad en GitHub" width="100%" /></p>
-
-**Capturas regeneradas el 10 de octubre de 2026; no son contadores en tiempo real.** Los scripts de actualización están incluidos en este repositorio. La regeneración de estadísticas y la actualización bilingüe de YouTube se comprobaron el 10 de octubre de 2026. La ejecución periódica debe comprobarse tras integrar los workflows en la rama predeterminada.
 
 <p align="center">
   <img width="32%" src="assets/github-stats.svg" alt="Estadísticas de GitHub regeneradas el 10 de octubre de 2026" />
@@ -179,10 +175,14 @@ Selección obtenida del feed público del canal. Cada video enlaza con su public
   <img width="32%" src="assets/streak-stats.svg" alt="Rachas de contribución regeneradas el 10 de octubre de 2026" />
 </p>
 
-<details>
-<summary>Ver calendario de contribuciones guardado</summary>
+### 📈 Actividad de contribuciones
 
-<img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones regenerado el 10 de octubre de 2026" />
+<p align="center"><img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones regenerado el 10 de octubre de 2026" /></p>
+
+<details>
+<summary>Sobre estas estadísticas y sus actualizaciones</summary>
+
+**Capturas regeneradas el 10 de octubre de 2026; no son contadores en tiempo real.** Los scripts de actualización están incluidos en este repositorio. La regeneración de estadísticas y la actualización bilingüe de YouTube se comprobaron el 10 de octubre de 2026. La ejecución periódica debe comprobarse tras integrar los workflows en la rama predeterminada.
 
 </details>
 
