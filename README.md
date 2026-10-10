@@ -31,6 +31,12 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
   <a href="https://www.instagram.com/yaskelly" title="Perfil personal de Yaskelly Yedra"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
+## Docencia, investigación y comunidad
+
+- **Docencia:** enseño ingeniería de software, IA, ciencia de datos, bases de datos, arquitectura y cloud. [Explorar un programa docente](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
+- **Investigación:** vinculo ingeniería de software y ecosistemas digitales de aprendizaje con el acompañamiento de trabajos académicos. [Publicaciones en Google Scholar](https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es) · [ORCID](https://orcid.org/0009-0004-4290-120X).
+- **Comunidad:** organizadora de GDG Caracas y embajadora Women Techmakers y WiDS. [Actividades de GDG Caracas](https://gdg.community.dev/gdg-caracas/) · [perfil WiDS](https://community.widsworldwide.org/members/41641225).
+
 <p><img src="assets/ecosystem-heading-es.svg" width="100%" alt="Ecosistema YaskCode" /></p>
 
 <p align="center">
@@ -190,12 +196,6 @@ Gestión de entrenamiento con asistencia de un sistema multiagente.
 - **Tecnologías emergentes:** [Blockchain](https://ethereum.org/developers/docs/) · [Web3](https://ethereum.org/developers/docs/) · [MCP](https://modelcontextprotocol.io/docs/).
 
 </details>
-
-## Docencia, investigación y comunidad
-
-- **Docencia:** enseño ingeniería de software, IA, ciencia de datos, bases de datos, arquitectura y cloud. [Explorar un programa docente](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
-- **Investigación:** vinculo ingeniería de software y ecosistemas digitales de aprendizaje con el acompañamiento de trabajos académicos. [Publicaciones en Google Scholar](https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es) · [ORCID](https://orcid.org/0009-0004-4290-120X).
-- **Comunidad:** organizadora de GDG Caracas y embajadora Women Techmakers y WiDS. [Actividades de GDG Caracas](https://gdg.community.dev/gdg-caracas/) · [perfil WiDS](https://community.widsworldwide.org/members/41641225).
 
 ## Videos y recursos audiovisuales
 
