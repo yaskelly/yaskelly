@@ -212,7 +212,7 @@ Training management supported by a multiagent system.
 <details>
 <summary>About these statistics and updates</summary>
 
-**Snapshots regenerated on October 10, 2026; these are not live counters.** Update scripts are included in this repository. Statistics regeneration and bilingual YouTube updates were verified on October 10, 2026. Scheduled execution should be checked after the workflows are integrated into the default branch.
+**Images generated from the GitHub API; these are not live counters.** Automatic updates are scheduled daily at 05:17 UTC (01:17 in Venezuela) and save the images to this review branch. A complete run was verified on October 10, 2026. Check the automation history for the latest run and any failures.
 
 </details>
 
