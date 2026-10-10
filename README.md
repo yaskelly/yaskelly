@@ -10,13 +10,13 @@
 
 Conecto la ingeniería de software, la inteligencia artificial, la ciencia de datos y cloud con la enseñanza y la investigación. A través de YaskCode, diseño experiencias educativas en las que estudiantes aprenden construyendo proyectos, documentando decisiones y evaluando la calidad del proceso y del producto.
 
-**Aprende · Practica · Construye · Comparte**
-
-- [**Web académica personal**](https://yaskelly.github.io/yaskellyyedra/): trayectoria, docencia, investigación y servicio académico.
-- [**Campus YaskCode**](https://yaskelly.github.io/): acceso al ecosistema de aprendizaje, proyectos y recursos abiertos.
+| [Web académica personal](https://yaskelly.github.io/yaskellyyedra/) | [Campus YaskCode](https://yaskelly.github.io/) |
+| :---: | :---: |
+| Trayectoria, docencia, investigación y servicio académico. | Ecosistema de aprendizaje, proyectos y recursos abiertos. |
 
 <p align="center">
-  <a href="https://yaskelly.github.io/yaskellyyedra/"><img src="assets/social-website.svg" alt="Web académica personal" height="30" /></a>
+  <a href="https://yaskelly.github.io/yaskellyyedra/" title="Mi Web: trayectoria, docencia, investigación y servicio académico"><img src="assets/social-website.svg" alt="Mi Web — web académica personal" height="30" /></a>
+  <a href="https://yaskelly.github.io/" title="YaskCode: ecosistema de aprendizaje, proyectos y recursos abiertos"><img src="assets/social-yaskcode.svg" alt="YaskCode — Campus y recursos abiertos" height="30" /></a>
   <a href="https://www.linkedin.com/in/yaskelly/"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
   <a href="https://www.youtube.com/@yaskcode"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
   <a href="https://medium.com/@yaskelly"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
