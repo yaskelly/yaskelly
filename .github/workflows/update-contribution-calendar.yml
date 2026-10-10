@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-analytics-${{ github.ref }}
+  group: profile-analytics-review
   cancel-in-progress: false
 
 jobs:
