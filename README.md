@@ -31,18 +31,16 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
   <a href="https://www.instagram.com/yaskelly" title="Perfil personal de Yaskelly Yedra"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
-<p><img src="assets/ecosystem-heading-es.svg" width="100%" alt="Ecosistema YaskCode" /></p>
-
-<p align="center">
-  <a href="https://github.com/YaskCode" title="Formación y recursos para aprender construyendo."><img src="assets/org-yaskcode-es.svg" width="32%" alt="YaskCode Academy: Formación y recursos para aprender construyendo." /></a>
-  <a href="https://github.com/YaskCode-laboratory" title="Proyectos estudiantiles y buenas prácticas de ingeniería."><img src="assets/org-yaskcode-laboratory-es.svg" width="32%" alt="YaskCode Laboratory: Proyectos estudiantiles y buenas prácticas de ingeniería." /></a>
-  <a href="https://github.com/YaskCode-research" title="Investigación y acompañamiento académico."><img src="assets/org-yaskcode-research-es.svg" width="32%" alt="YaskCode Research: Investigación y acompañamiento académico." /></a>
+<p><img src="assets/ecosystem-heading-es.svg" width="100%" alt="Ecosistema YaskCode" />
+  <a href="https://github.com/YaskCode" title="Formación y recursos para aprender construyendo."><img src="assets/org-yaskcode-es.svg" width="16%" alt="YaskCode Academy: Formación y recursos para aprender construyendo." /></a>
+  <a href="https://github.com/YaskCode-laboratory" title="Proyectos estudiantiles y buenas prácticas de ingeniería."><img src="assets/org-yaskcode-laboratory-es.svg" width="16%" alt="YaskCode Laboratory: Proyectos estudiantiles y buenas prácticas de ingeniería." /></a>
+  <a href="https://github.com/YaskCode-research" title="Investigación y acompañamiento académico."><img src="assets/org-yaskcode-research-es.svg" width="16%" alt="YaskCode Research: Investigación y acompañamiento académico." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YaskCode-community" title="Encuentros, colaboración y aprendizaje compartido."><img src="assets/org-yaskcode-community-es.svg" width="32%" alt="YaskCode Community: Encuentros, colaboración y aprendizaje compartido." /></a>
-  <a href="https://github.com/YaskCode-build" title="Prototipos e innovación. En desarrollo."><img src="assets/org-yaskcode-build-es.svg" width="32%" alt="YaskCode Build: Prototipos e innovación. En desarrollo." /></a>
-  <a href="https://github.com/YaskCode-smart-learning" title="Ecosistemas de aprendizaje. Próximamente."><img src="assets/org-yaskcode-smart-learning-es.svg" width="32%" alt="Smart Learning: Ecosistemas de aprendizaje. Próximamente." /></a>
+  <a href="https://github.com/YaskCode-community" title="Encuentros, colaboración y aprendizaje compartido."><img src="assets/org-yaskcode-community-es.svg" width="16%" alt="YaskCode Community: Encuentros, colaboración y aprendizaje compartido." /></a>
+  <a href="https://github.com/YaskCode-build" title="Prototipos e innovación. En desarrollo."><img src="assets/org-yaskcode-build-es.svg" width="16%" alt="YaskCode Build: Prototipos e innovación. En desarrollo." /></a>
+  <a href="https://github.com/YaskCode-smart-learning" title="Ecosistemas de aprendizaje. Próximamente."><img src="assets/org-yaskcode-smart-learning-es.svg" width="16%" alt="Smart Learning: Ecosistemas de aprendizaje. Próximamente." /></a>
 </p>
 
 <details>
