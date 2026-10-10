@@ -10,12 +10,19 @@
 
 I connect software engineering, artificial intelligence, data science and cloud with teaching and research. Through YaskCode, I design learning experiences where students build projects, document decisions and assess the quality of both the engineering process and its outcomes.
 
-**Learn · Practice · Build · Share**
+| [Personal academic website](https://yaskelly.github.io/yaskellyyedra/) | [YaskCode Campus](https://yaskelly.github.io/) |
+| :---: | :---: |
+| Academic background, teaching, research and service. | Learning ecosystem, projects and open resources. |
 
-- [**Personal academic website**](https://yaskelly.github.io/yaskellyyedra/): academic background, teaching, research and service.
-- [**YaskCode Campus**](https://yaskelly.github.io/): learning spaces, projects and open resources.
-
-[LinkedIn](https://www.linkedin.com/in/yaskelly/) · [YouTube](https://www.youtube.com/@yaskcode) · [Medium](https://medium.com/@yaskelly) · [Google Scholar](https://scholar.google.com/citations?user=zySpQB0AAAAJ) · [GDG Caracas](https://gdg.community.dev/gdg-caracas/)
+<p align="center">
+  <a href="https://yaskelly.github.io/yaskellyyedra/" title="My Web: academic background, teaching, research and service"><img src="assets/social-website-en.svg" alt="My Web — personal academic website" height="30" /></a>
+  <a href="https://yaskelly.github.io/" title="YaskCode: learning ecosystem, projects and open resources"><img src="assets/social-yaskcode.svg" alt="YaskCode — Campus and open resources" height="30" /></a>
+  <a href="https://www.linkedin.com/in/yaskelly/"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
+  <a href="https://www.youtube.com/@yaskcode"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
+  <a href="https://medium.com/@yaskelly"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
+  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ"><img src="assets/social-scholar.svg" alt="Google Scholar" height="30" /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
+</p>
 
 ## Featured projects and resources
 
