@@ -8,7 +8,7 @@
 
 **Computer Science professor and researcher · Universidad del Zulia (LUZ), Venezuela**
 
-I connect software engineering, artificial intelligence, data science and cloud with teaching and research. Through YaskCode, I design learning experiences where students build projects, document decisions and assess the quality of both the engineering process and its outcomes.
+I bring software engineering, artificial intelligence, data science and cloud computing into teaching and research. Through YaskCode, I design learning experiences where students build projects, document decisions and assess the quality of both the engineering process and its outcomes.
 
 <table align="center">
   <tr>
@@ -49,7 +49,7 @@ I connect software engineering, artificial intelligence, data science and cloud 
 </p>
 
 <details>
-<summary>Read organization purposes</summary>
+<summary>Explore the purpose of each organization</summary>
 
 - [**YaskCode Academy**](https://github.com/YaskCode): Learning paths and resources for learning by building.
 - [**YaskCode Laboratory**](https://github.com/YaskCode-laboratory): Student projects and engineering practices.
@@ -102,13 +102,13 @@ A digital campus inspired by university spaces, connecting education, research, 
 
 ### Research Project Resources — LUZ
 An institutional repository providing regulations, forms and guidance for research projects in the Computer Science Department.
-- **My role:** academic coordination and student guidance as Research Work Coordinator.
+- **My role:** academic coordination and student guidance as coordinator of Trabajo de Investigación (student research projects).
 - **Status:** public resource available for consultation.
 - **Evidence:** [repository and usage guide](https://github.com/LUZ-Computing-Research/recursos-proyectos).
 
 ### Software Engineering and Databases
 A four-week teaching program covering quality, design and the development of an intelligent platform.
-- **My role:** course design and guidance of master's student projects.
+- **My role:** course design and supervision of master’s student projects.
 - **Status:** course plan published; this resource alone does not represent a completed application.
 - **Program tools:** GitHub, Mermaid, modeling and software quality assessment.
 - **Evidence:** [weekly program](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
@@ -117,7 +117,7 @@ A four-week teaching program covering quality, design and the development of an 
 Master’s course: RAG, agents and multiagent systems.
 - **My role:** course design · project guidance.
 - **Status:** course and resources published.
-- **Technologies and tools:** GitHub · RAG · Agentes.
+- **Technologies and tools:** GitHub · RAG · Agents.
 - **Evidence:** [code and documentation](https://github.com/YaskCode/sistemas-inteligentes).
 
 ### RunCoach AI
@@ -200,14 +200,14 @@ Training management supported by a multiagent system.
 <p><img src="assets/github-analytics-heading.svg" alt="GitHub activity" width="100%" /></p>
 
 <p align="center">
-  <img width="32%" src="assets/github-stats.svg" alt="GitHub statistics regenerated on October 10, 2026" />
-  <img width="32%" src="assets/top-languages.svg" alt="Repository languages analyzed on October 10, 2026" />
-  <img width="32%" src="assets/streak-stats.svg" alt="Contribution streaks regenerated on October 10, 2026" />
+  <img width="32%" src="assets/github-stats.svg" alt="GitHub statistics updated through GitHub Actions" />
+  <img width="32%" src="assets/top-languages.svg" alt="Repository languages analyzed through GitHub Actions" />
+  <img width="32%" src="assets/streak-stats.svg" alt="Contribution streaks updated through GitHub Actions" />
 </p>
 
 ### 📈 Contribution Activity
 
-<p align="center"><img width="100%" src="assets/contribution-activity.svg" alt="Contribution calendar regenerated on October 10, 2026" /></p>
+<p align="center"><img width="100%" src="assets/contribution-activity.svg" alt="Contribution calendar updated through GitHub Actions" /></p>
 
 <details>
 <summary>About these statistics and updates</summary>
@@ -222,7 +222,7 @@ Training management supported by a multiagent system.
 
 Classes, talks and workshops on [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
 
-Selection retrieved from the channel's public feed. Each video links to its original publication.
+Selection retrieved from the channel's public feed. Videos are in Spanish; their original titles are preserved. Each video links to its original publication.
 
 <!-- YOUTUBE:START -->
 <p align="center">
@@ -247,6 +247,6 @@ Selection retrieved from the channel's public feed. Each video links to its orig
 
 [Full academic background](https://yaskelly.github.io/yaskellyyedra/) · [LinkedIn](https://www.linkedin.com/in/yaskelly/) · [Academic contact: yyedra@fec.luz.edu.ve](mailto:yyedra@fec.luz.edu.ve)
 
-> Learning Software Engineering by doing Software Engineering.
+> Learning software engineering by practicing software engineering.
 
 <p align="center"><img src="assets/profile-footer-en.svg" alt="Open education · Thanks for visiting · YaskCode" width="100%" /></p>
