@@ -200,19 +200,19 @@ Gestión de entrenamiento con asistencia de un sistema multiagente.
 <p><img src="assets/github-analytics-heading.svg" alt="Actividad en GitHub" width="100%" /></p>
 
 <p align="center">
-  <img width="32%" src="assets/github-stats.svg" alt="Estadísticas de GitHub regeneradas el 10 de octubre de 2026" />
-  <img width="32%" src="assets/top-languages.svg" alt="Lenguajes de repositorios analizados el 10 de octubre de 2026" />
-  <img width="32%" src="assets/streak-stats.svg" alt="Rachas de contribución regeneradas el 10 de octubre de 2026" />
+  <img width="32%" src="assets/github-stats.svg" alt="Estadísticas de GitHub actualizadas mediante GitHub Actions" />
+  <img width="32%" src="assets/top-languages.svg" alt="Lenguajes de repositorios analizados mediante GitHub Actions" />
+  <img width="32%" src="assets/streak-stats.svg" alt="Rachas de contribución actualizadas mediante GitHub Actions" />
 </p>
 
 ### 📈 Actividad de contribuciones
 
-<p align="center"><img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones regenerado el 10 de octubre de 2026" /></p>
+<p align="center"><img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones actualizado mediante GitHub Actions" /></p>
 
 <details>
 <summary>Sobre estas estadísticas y sus actualizaciones</summary>
 
-**Capturas regeneradas el 10 de octubre de 2026; no son contadores en tiempo real.** Los scripts de actualización están incluidos en este repositorio. La regeneración de estadísticas y la actualización bilingüe de YouTube se comprobaron el 10 de octubre de 2026. La ejecución periódica debe comprobarse tras integrar los workflows en la rama predeterminada.
+**Imágenes generadas a partir de la API de GitHub; no son contadores en tiempo real.** La actualización automática está programada diariamente a las 05:17 UTC (01:17 en Venezuela) y guarda las imágenes en esta rama de revisión. La ejecución completa se verificó el 10 de octubre de 2026. Consulta el historial de automatizaciones para conocer la última ejecución y cualquier fallo.
 
 </details>
 
