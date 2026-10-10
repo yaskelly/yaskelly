@@ -5,29 +5,25 @@
 <rect x="1" y="0" width="24" height="17" rx="2.5"/><path d="M0 21h26"/><path d="M8 21l1-4h8l1 4"/>
 </g>
 <text x="52" y="31" class="title pink">Most Used Languages</text>
-<text x="20" y="64" class="label">Python</text>
+<text x="20" y="64" class="label">JavaScript</text>
 <rect x="137" y="54" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
-<rect x="137" y="54" width="57" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="64" class="value">38.0%</text>
-<text x="20" y="94" class="label">HTML</text>
+<rect x="137" y="54" width="94" height="9" rx="4.5" fill="#FF2F78"/>
+<text x="305" y="64" class="value">62.7%</text>
+<text x="20" y="94" class="label">Python</text>
 <rect x="137" y="84" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
-<rect x="137" y="84" width="37" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="94" class="value">25.0%</text>
-<text x="20" y="124" class="label">JavaScript</text>
+<rect x="137" y="84" width="25" height="9" rx="4.5" fill="#FF2F78"/>
+<text x="305" y="94" class="value">16.9%</text>
+<text x="20" y="124" class="label">HTML</text>
 <rect x="137" y="114" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
-<rect x="137" y="114" width="33" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="124" class="value">22.4%</text>
+<rect x="137" y="114" width="17" height="9" rx="4.5" fill="#FF2F78"/>
+<text x="305" y="124" class="value">12.0%</text>
 <text x="20" y="154" class="label">CSS</text>
 <rect x="137" y="144" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
-<rect x="137" y="144" width="10" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="154" class="value">6.7%</text>
-<text x="20" y="184" class="label">TypeScript</text>
+<rect x="137" y="144" width="12" height="9" rx="4.5" fill="#FF2F78"/>
+<text x="305" y="154" class="value">8.2%</text>
+<text x="20" y="184" class="label">Dockerfile</text>
 <rect x="137" y="174" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
-<rect x="137" y="174" width="7" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="184" class="value">5.0%</text>
-<text x="20" y="214" class="label">C#</text>
-<rect x="137" y="204" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
-<rect x="137" y="204" width="4" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="214" class="value">1.0%</text>
-<text x="20" y="250" class="muted" style="font-size:10px">17 owned/collaborated repos analyzed · 3 private</text>
+<rect x="137" y="174" width="4" height="9" rx="4.5" fill="#FF2F78"/>
+<text x="305" y="184" class="value">0.3%</text>
+<text x="20" y="250" class="muted" style="font-size:10px">9 owned/collaborated repos analyzed · 4 private</text>
 </svg>
