@@ -22,18 +22,13 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
 </table>
 
 <p align="center">
-  <a href="https://yaskelly.github.io/yaskellyyedra/" title="Trayectoria, docencia, investigación y servicio académico"><img src="assets/social-website.svg" alt="Mi Web" height="30" /></a>
-  <a href="https://yaskelly.github.io/" title="Ecosistema de aprendizaje, proyectos y recursos abiertos"><img src="assets/social-yaskcode.svg" alt="YaskCode" height="30" /></a>
   <a href="https://www.linkedin.com/in/yaskelly/" title="Perfil profesional"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
   <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ" title="Publicaciones científicas"><img src="assets/social-scholar.svg" alt="Google Scholar" height="30" /></a>
   <a href="https://gdg.community.dev/gdg-caracas/" title="Comunidad de desarrolladores y actividades"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@yaskcode" title="Clases, charlas y talleres"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
   <a href="https://es.slideshare.net/yaskelly" title="Presentaciones académicas y educativas"><img src="assets/social-slideshare.svg" alt="SlideShare" height="30" /></a>
   <a href="https://medium.com/@yaskelly" title="Artículos y reflexiones"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
-  <a href="https://www.instagram.com/yaskcode" title="Novedades y comunidad YaskCode"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
+  <a href="https://www.instagram.com/yaskelly" title="Perfil personal de Yaskelly Yedra"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
 ## Proyectos y recursos destacados
