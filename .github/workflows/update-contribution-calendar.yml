@@ -1,0 +1,89 @@
+name: Update pink profile analytics
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - profile-redesign-review
+      - main
+    paths:
+      - "scripts/generate_contribution_calendar.py"
+      - "scripts/generate_github_analytics.py"
+      - ".github/workflows/update-contribution-calendar.yml"
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update-analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile review
+        uses: actions/checkout@v4
+        with:
+          ref: profile-redesign-review
+
+      - name: Generate contribution calendar
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIBUTIONS_TOKEN }}
+          GITHUB_PROFILE_USERNAME: yaskelly
+        run: python3 scripts/generate_contribution_calendar.py
+
+      - name: Simplify contribution calendar footer
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('assets/contribution-activity.svg')
+          s = p.read_text(encoding='utf-8')
+          s = re.sub(r'(\d+ public/visible contributions · \d+ active days) · Q1≤\d+ · Q2≤\d+ · Q3≤\d+', r'\1', s)
+          s = s.replace('; private-detail support is Phase 2.', '.')
+          s = s.replace('<text x="188" y="32" class="small muted">(Last 365 Days)</text>', '<text x="218" y="32" class="small muted">(Last 365 Days)</text>')
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Generate GitHub analytics cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIBUTIONS_TOKEN }}
+          GITHUB_PROFILE_USERNAME: yaskelly
+        run: python3 scripts/generate_github_analytics.py
+
+      - name: Add card title icons
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          replacements = {
+              'assets/github-stats.svg': ('GitHub Stats', '📈'),
+              'assets/top-languages.svg': ('Most Used Languages', '💻'),
+              'assets/streak-stats.svg': ('Streak Stats', '🔥'),
+          }
+          for filename, (title, icon) in replacements.items():
+              p = Path(filename)
+              s = p.read_text(encoding='utf-8')
+              old = f'<text x="18" y="30" class="title pink">{title}</text>'
+              new = (
+                  f'<text x="18" y="30" style="font-size:17px">{icon}</text>'
+                  f'<text x="47" y="30" class="title pink">{title}</text>'
+              )
+              s = s.replace(old, new)
+              p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit generated SVGs
+        run: |
+          if [ -z "$(git status --porcelain -- assets/)" ]; then
+            echo "Profile analytics are already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-activity.svg assets/github-stats.svg assets/top-languages.svg assets/streak-stats.svg
+          git commit -m "Update pink profile analytics"
+          git pull --rebase
+          git push
