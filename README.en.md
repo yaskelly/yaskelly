@@ -80,10 +80,14 @@ Each repository documents its specific technologies and usage instructions.
 
 Classes, talks and workshops on [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
 
-The automatic video selection is pending an update; the channel provides access to current uploads.
+Selection retrieved from the channel's public feed. Each video links to its original publication.
 
 <!-- YOUTUBE:START -->
-<!-- Cards will be added after verifying the channel update. -->
+<p><a href="https://www.youtube.com/watch?v=jihUXbHcd4c"><img src="https://i.ytimg.com/vi/jihUXbHcd4c/hqdefault.jpg" width="320" alt="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca" /></a><br/><a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a><br/>Published: 2026-09-04</p>
+
+<p><a href="https://www.youtube.com/watch?v=8mfNY1ljvGA"><img src="https://i.ytimg.com/vi/8mfNY1ljvGA/hqdefault.jpg" width="320" alt="SI Erick" /></a><br/><a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a><br/>Published: 2026-09-03</p>
+
+<p><a href="https://www.youtube.com/watch?v=hT-6WChdBHI"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="320" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a><br/><a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a><br/>Published: 2026-08-30</p>
 <!-- YOUTUBE:END -->
 
 ## GitHub activity
