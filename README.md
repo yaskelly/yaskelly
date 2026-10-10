@@ -31,22 +31,31 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
   <a href="https://www.instagram.com/yaskelly" title="Perfil personal de Yaskelly Yedra"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
-## Ecosistema YaskCode
+<p><img src="assets/ecosystem-heading-es.svg" width="100%" alt="Ecosistema YaskCode" /></p>
 
-Espacios que conectan aprendizaje, investigación y colaboración. Selecciona una organización para explorar sus recursos.
+<p align="center">
+  <a href="https://github.com/YaskCode" title="Formación y recursos para aprender construyendo."><img src="assets/org-yaskcode-es.svg" width="32%" alt="YaskCode Academy: Formación y recursos para aprender construyendo." /></a>
+  <a href="https://github.com/YaskCode-laboratory" title="Proyectos estudiantiles y buenas prácticas de ingeniería."><img src="assets/org-yaskcode-laboratory-es.svg" width="32%" alt="YaskCode Laboratory: Proyectos estudiantiles y buenas prácticas de ingeniería." /></a>
+  <a href="https://github.com/YaskCode-research" title="Investigación y acompañamiento académico."><img src="assets/org-yaskcode-research-es.svg" width="32%" alt="YaskCode Research: Investigación y acompañamiento académico." /></a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode"><img src="https://github.com/YaskCode.png?size=128" width="64" height="64" alt="YaskCode Academy" /><br/><strong>YaskCode Academy</strong></a><br/><sub>Formación y recursos para aprender construyendo.</sub></td>
-    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-laboratory"><img src="https://github.com/YaskCode-laboratory.png?size=128" width="64" height="64" alt="YaskCode Laboratory" /><br/><strong>YaskCode Laboratory</strong></a><br/><sub>Proyectos estudiantiles y buenas prácticas de ingeniería.</sub></td>
-    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-research"><img src="https://github.com/YaskCode-research.png?size=128" width="64" height="64" alt="YaskCode Research" /><br/><strong>YaskCode Research</strong></a><br/><sub>Investigación y acompañamiento académico.</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-community"><img src="https://github.com/YaskCode-community.png?size=128" width="64" height="64" alt="YaskCode Community" /><br/><strong>YaskCode Community</strong></a><br/><sub>Encuentros, colaboración y aprendizaje compartido.</sub></td>
-    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-build"><img src="https://github.com/YaskCode-build.png?size=128" width="64" height="64" alt="YaskCode Build" /><br/><strong>YaskCode Build</strong></a><br/><sub>Prototipos e innovación · en desarrollo.</sub></td>
-    <td align="center" valign="top" width="33%"><a href="https://github.com/YaskCode-smart-learning"><img src="https://github.com/YaskCode-smart-learning.png?size=128" width="64" height="64" alt="Smart Learning" /><br/><strong>Smart Learning</strong></a><br/><sub>Ecosistemas de aprendizaje · próximamente.</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YaskCode-community" title="Encuentros, colaboración y aprendizaje compartido."><img src="assets/org-yaskcode-community-es.svg" width="32%" alt="YaskCode Community: Encuentros, colaboración y aprendizaje compartido." /></a>
+  <a href="https://github.com/YaskCode-build" title="Prototipos e innovación. En desarrollo."><img src="assets/org-yaskcode-build-es.svg" width="32%" alt="YaskCode Build: Prototipos e innovación. En desarrollo." /></a>
+  <a href="https://github.com/YaskCode-smart-learning" title="Ecosistemas de aprendizaje. Próximamente."><img src="assets/org-yaskcode-smart-learning-es.svg" width="32%" alt="Smart Learning: Ecosistemas de aprendizaje. Próximamente." /></a>
+</p>
+
+<details>
+<summary>Leer el propósito de cada organización</summary>
+
+- [**YaskCode Academy**](https://github.com/YaskCode): Formación y recursos para aprender construyendo.
+- [**YaskCode Laboratory**](https://github.com/YaskCode-laboratory): Proyectos estudiantiles y buenas prácticas de ingeniería.
+- [**YaskCode Research**](https://github.com/YaskCode-research): Investigación y acompañamiento académico.
+- [**YaskCode Community**](https://github.com/YaskCode-community): Encuentros, colaboración y aprendizaje compartido.
+- [**YaskCode Build**](https://github.com/YaskCode-build): Prototipos e innovación. En desarrollo.
+- [**Smart Learning**](https://github.com/YaskCode-smart-learning): Ecosistemas de aprendizaje. Próximamente.
+
+</details>
 
 ### Espacios académicos LUZ
 
