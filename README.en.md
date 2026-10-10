@@ -74,11 +74,14 @@ I connect software engineering, artificial intelligence, data science and cloud 
 ## Featured projects and resources
 
 <p align="center">
-  <a href="https://github.com/yaskelly/yaskelly.github.io"><img src="assets/featured-campus-en.svg" alt="YaskCode Campus: A digital campus connecting teaching, research, projects and communities. Creator · educational design. Published · evolving." width="49%" /></a>
-  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-pti-en.svg" alt="Research project resources: Regulations, forms and guidance for research projects at LUZ. Coordination · academic guidance. Public resource available." width="49%" /></a>
+  <a href="https://github.com/yaskelly/yaskelly.github.io"><img src="assets/featured-campus-en.svg" alt="YaskCode Campus" width="32%" /></a>
+  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-pti-en.svg" alt="Research resources" width="32%" /></a>
+  <a href="https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa"><img src="assets/featured-isbd-en.svg" alt="Software Engineering and Databases" width="32%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa"><img src="assets/featured-isbd-en.svg" alt="Software Engineering & Databases: A four-week master's teaching program: quality, design and an intelligent platform. Course design · project guidance. Course plan published." width="49%" /></a>
+  <a href="https://github.com/YaskCode/sistemas-inteligentes"><img src="assets/featured-si-en.svg" alt="Intelligent Systems" width="32%" /></a>
+  <a href="https://github.com/YaskCode-laboratory/wellness-platform-team1"><img src="assets/featured-runcoach-en.svg" alt="RunCoach AI" width="32%" /></a>
+  <a href="https://github.com/YaskCode-laboratory/wellness-platform-team6"><img src="assets/featured-wellnesslift-en.svg" alt="Wellness Lift" width="32%" /></a>
 </p>
 
 <details>
@@ -104,9 +107,30 @@ A four-week teaching program covering quality, design and the development of an 
 - **Program tools:** GitHub, Mermaid, modeling and software quality assessment.
 - **Evidence:** [weekly program](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
 
+### Intelligent Systems
+Master’s course: RAG, agents and multiagent systems.
+- **My role:** course design · project guidance.
+- **Status:** course and resources published.
+- **Technologies and tools:** GitHub · RAG · Agentes.
+- **Evidence:** [code and documentation](https://github.com/YaskCode/sistemas-inteligentes).
+
+### RunCoach AI
+Running and wellness with RAG and specialized AI agents.
+- **My role:** teaching · academic guidance; developed by the student team.
+- **Status:** sprints 1–3 submitted.
+- **Technologies and tools:** Python · FastAPI · React · Vertex AI.
+- **Evidence:** [code and documentation](https://github.com/YaskCode-laboratory/wellness-platform-team1).
+
+### Wellness Lift
+Training management supported by a multiagent system.
+- **My role:** teaching · academic guidance; developed by the student team.
+- **Status:** public code and documentation.
+- **Technologies and tools:** Python · FastAPI · React · AWS.
+- **Evidence:** [code and documentation](https://github.com/YaskCode-laboratory/wellness-platform-team6).
+
 </details>
 
-<p align="center"><a href="https://github.com/yaskelly?tab=repositories">Explore more repositories →</a></p>
+<p align="center"><a href="https://github.com/search?q=user%3Ayaskelly%20org%3AYaskCode%20org%3AYaskCode-laboratory%20org%3ALUZ-Computing-Research%20is%3Apublic&amp;type=repositories">Explore more public repositories →</a></p>
 
 ## Teaching, research and community
 
