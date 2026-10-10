@@ -197,20 +197,6 @@ Training management supported by a multiagent system.
 
 </details>
 
-## Videos and audiovisual resources
-
-Classes, talks and workshops on [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
-
-Selection retrieved from the channel's public feed. Each video links to its original publication.
-
-<!-- YOUTUBE:START -->
-<p><a href="https://www.youtube.com/watch?v=jihUXbHcd4c"><img src="https://i.ytimg.com/vi/jihUXbHcd4c/hqdefault.jpg" width="320" alt="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca" /></a><br/><a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a><br/>Published: 2026-09-04</p>
-
-<p><a href="https://www.youtube.com/watch?v=8mfNY1ljvGA"><img src="https://i.ytimg.com/vi/8mfNY1ljvGA/hqdefault.jpg" width="320" alt="SI Erick" /></a><br/><a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a><br/>Published: 2026-09-03</p>
-
-<p><a href="https://www.youtube.com/watch?v=hT-6WChdBHI"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="320" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a><br/><a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a><br/>Published: 2026-08-30</p>
-<!-- YOUTUBE:END -->
-
 <p><img src="assets/github-analytics-heading.svg" alt="GitHub activity" width="100%" /></p>
 
 <p align="center">
@@ -231,6 +217,31 @@ Selection retrieved from the channel's public feed. Each video links to its orig
 </details>
 
 [View current GitHub activity](https://github.com/yaskelly) · [Automation history](https://github.com/yaskelly/yaskelly/actions)
+
+<p><img src="assets/latest-youtube-heading.svg" alt="Latest YouTube videos" width="100%" /></p>
+
+Classes, talks and workshops on [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
+
+Selection retrieved from the channel's public feed. Each video links to its original publication.
+
+<!-- YOUTUBE:START -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jihUXbHcd4c" title="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca"><img src="https://i.ytimg.com/vi/jihUXbHcd4c/hqdefault.jpg" width="32%" alt="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca" /></a>
+  <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA" title="SI Erick"><img src="https://i.ytimg.com/vi/8mfNY1ljvGA/hqdefault.jpg" width="32%" alt="SI Erick" /></a>
+  <a href="https://www.youtube.com/watch?v=hT-6WChdBHI" title="Interoperabilidad y communicación entre agentes inteligentes"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="32%" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a>
+</p>
+
+<details>
+<summary>Video titles and dates</summary>
+
+- <a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a> · 2026-09-04
+- <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a> · 2026-09-03
+- <a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a> · 2026-08-30
+
+</details>
+<!-- YOUTUBE:END -->
+
+<p align="center"><a href="https://www.youtube.com/@yaskcode">View more on YouTube →</a></p>
 
 ## Contact and academic background
 
