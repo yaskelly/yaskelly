@@ -67,6 +67,9 @@ def main():
         def visit(node):
             if isinstance(node, dict):
                 video = node.get("videoRenderer")
+                lockup = node.get("lockupViewModel", {})
+                if not video and lockup.get("contentType") == "LOCKUP_CONTENT_TYPE_VIDEO":
+                    video = {"videoId": lockup.get("contentId"), "title": {"simpleText": lockup.get("metadata", {}).get("lockupMetadataViewModel", {}).get("title", {}).get("content", "")}}
                 if video and video.get("videoId") not in seen:
                     seen.add(video["videoId"])
                     entry = ET.Element("{http://www.w3.org/2005/Atom}entry")
