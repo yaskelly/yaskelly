@@ -181,9 +181,9 @@ Selection retrieved from the channel's public feed. Videos are in Spanish; their
 
 <!-- YOUTUBE:START -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=jihUXbHcd4c" title="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca"><img src="https://i.ytimg.com/vi/jihUXbHcd4c/hqdefault.jpg" width="32%" alt="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca" /></a>
-  <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA" title="SI Erick"><img src="https://i.ytimg.com/vi/8mfNY1ljvGA/hqdefault.jpg" width="32%" alt="SI Erick" /></a>
-  <a href="https://www.youtube.com/watch?v=hT-6WChdBHI" title="Interoperabilidad y communicación entre agentes inteligentes"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="32%" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a>
+<a href="https://www.youtube.com/watch?v=jihUXbHcd4c" title="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca"><img src="https://i.ytimg.com/vi/jihUXbHcd4c/hqdefault.jpg" width="32%" alt="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca" /></a>
+<a href="https://www.youtube.com/watch?v=8mfNY1ljvGA" title="SI Erick"><img src="https://i.ytimg.com/vi/8mfNY1ljvGA/hqdefault.jpg" width="32%" alt="SI Erick" /></a>
+<a href="https://www.youtube.com/watch?v=hT-6WChdBHI" title="Interoperabilidad y communicación entre agentes inteligentes"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="32%" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a>
 </p>
 
 <details>
