@@ -24,7 +24,6 @@ I bring software engineering, artificial intelligence, data science and cloud co
 <p align="center">
   <a href="https://www.linkedin.com/in/yaskelly/" title="Professional profile"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
   <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ" title="Research publications"><img src="assets/social-scholar.svg" alt="Google Scholar" height="30" /></a>
-  <a href="https://gdg.community.dev/gdg-caracas/" title="Developer community and events"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
   <a href="https://www.youtube.com/@yaskcode" title="Classes, talks and workshops"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
   <a href="https://es.slideshare.net/yaskelly" title="Academic and educational presentations"><img src="assets/social-slideshare.svg" alt="SlideShare" height="30" /></a>
   <a href="https://medium.com/@yaskelly" title="Articles and reflections"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
