@@ -167,7 +167,7 @@ Gestión de entrenamiento con asistencia de un sistema multiagente.
 <details>
 <summary>Sobre estas estadísticas y sus actualizaciones</summary>
 
-**Imágenes generadas a partir de la API de GitHub; no son contadores en tiempo real.** La actualización automática está programada diariamente a las 05:17 UTC (01:17 en Venezuela) y guarda las imágenes en esta rama de revisión. La ejecución completa se verificó el 10 de octubre de 2026. Consulta el historial de automatizaciones para conocer la última ejecución y cualquier fallo.
+**Imágenes generadas a partir de la API de GitHub; no son contadores en tiempo real.** La actualización automática está programada diariamente a las 05:17 UTC (01:17 en Venezuela) y guarda las imágenes en la rama `main` del perfil publicado. La ejecución completa se verificó el 10 de octubre de 2026. Consulta el historial de automatizaciones para conocer la última ejecución y cualquier fallo.
 
 </details>
 
