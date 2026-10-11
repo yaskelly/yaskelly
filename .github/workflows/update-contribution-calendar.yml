@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - profile-redesign-review
       - main
     paths:
       - "scripts/generate_contribution_calendar.py"
@@ -17,17 +16,17 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-analytics-review
+  group: profile-analytics-main
   cancel-in-progress: false
 
 jobs:
   update-analytics:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out profile review
+      - name: Check out published profile
         uses: actions/checkout@v4
         with:
-          ref: profile-redesign-review
+          ref: main
 
       - name: Generate contribution calendar
         env:
