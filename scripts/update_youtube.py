@@ -1,5 +1,6 @@
 from __future__ import annotations
 import html
+import json
 import re
 import urllib.request
 import urllib.error
@@ -44,16 +45,43 @@ def render(entries, ns, english=False):
             f'<a href="https://www.youtube.com/watch?v={video_id}" title="{safe_title}">'
             f'<img src="https://i.ytimg.com/vi/{video_id}/hqdefault.jpg" width="32%" alt="{safe_title}" /></a>'
         )
-        captions.append(f'- <a href="https://www.youtube.com/watch?v={video_id}">{safe_title}</a> · {date}')
+        captions.append(f'- <a href="https://www.youtube.com/watch?v={video_id}">{safe_title}</a>' + (f' · {date}' if date else ''))
     summary = "Video titles and dates" if english else "Títulos y fechas de los videos"
     return (START + '\n<p align="center">\n' + '\n'.join(lines) + '\n</p>\n\n'
             + '<details>\n<summary>' + summary + '</summary>\n\n'
             + '\n'.join(captions) + '\n\n</details>\n' + END)
 
 def main():
-    root = ET.fromstring(get("https://www.youtube.com/feeds/videos.xml?channel_id=UCSq_SJ128VhRBNt9ClKU9ug"))
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
-    entries = root.findall("a:entry", ns)[:3]
+    try:
+        root = ET.fromstring(get("https://www.youtube.com/feeds/videos.xml?channel_id=UCSq_SJ128VhRBNt9ClKU9ug"))
+        entries = root.findall("a:entry", ns)[:3]
+    except (urllib.error.URLError, ET.ParseError):
+        page = get(CHANNEL + "/videos").decode("utf-8", "ignore")
+        match = re.search(r"var ytInitialData = (.*?);</script>", page)
+        if not match:
+            raise RuntimeError("Could not read public YouTube videos page")
+        data = json.loads(match.group(1))
+        entries = []
+        seen = set()
+        def visit(node):
+            if isinstance(node, dict):
+                video = node.get("videoRenderer")
+                if video and video.get("videoId") not in seen:
+                    seen.add(video["videoId"])
+                    entry = ET.Element("{http://www.w3.org/2005/Atom}entry")
+                    ET.SubElement(entry, "{http://www.youtube.com/xml/schemas/2015}videoId").text = video["videoId"]
+                    title = video.get("title", {})
+                    ET.SubElement(entry, "{http://www.w3.org/2005/Atom}title").text = title.get("simpleText") or "".join(r.get("text", "") for r in title.get("runs", []))
+                    entries.append(entry)
+                for value in node.values():
+                    visit(value)
+            elif isinstance(node, list):
+                for value in node:
+                    visit(value)
+        visit(data)
+        entries = entries[:3]
+        print("YouTube feed unavailable; using public channel videos page without inferred dates.")
     if not entries:
         raise RuntimeError("No YouTube videos found")
     updates = []
