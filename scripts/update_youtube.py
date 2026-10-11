@@ -51,13 +51,7 @@ def render(entries, ns, english=False):
             + '\n'.join(captions) + '\n\n</details>\n' + END)
 
 def main():
-    page = get(CHANNEL).decode("utf-8", "ignore")
-    match = re.search(r'"channelId":"(UC[^"]+)"', page)
-    if not match:
-        match = re.search(r'"externalId":"(UC[^"]+)"', page)
-    if not match:
-        raise RuntimeError("Could not resolve YouTube channel ID")
-    root = ET.fromstring(get("https://www.youtube.com/feeds/videos.xml?channel_id=" + match.group(1)))
+    root = ET.fromstring(get("https://www.youtube.com/feeds/videos.xml?channel_id=UCSq_SJ128VhRBNt9ClKU9ug"))
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
     entries = root.findall("a:entry", ns)[:3]
     if not entries:
