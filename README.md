@@ -120,8 +120,8 @@ Programa de maestría: RAG, agentes y sistemas multiagente.
 - **Tecnologías y herramientas:** GitHub · RAG · Agentes.
 - **Evidencia:** [código y documentación](https://github.com/YaskCode/sistemas-inteligentes).
 
-### RunCoach AI
-Running y bienestar con RAG y agentes de IA especializados.
+### RunCoach AI → Intelligent Wellness Platform
+Proyecto académico que evoluciona RunCoach AI, una aplicación de entrenamiento de running, hacia Intelligent Wellness Platform, integrando RAG y agentes de IA especializados.
 - **Mi participación:** docencia · orientación académica; desarrollo realizado por el equipo estudiantil.
 - **Estado:** sprints 1–3 entregados.
 - **Tecnologías y herramientas:** Python · FastAPI · React · Vertex AI.
