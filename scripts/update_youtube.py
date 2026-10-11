@@ -2,6 +2,8 @@ from __future__ import annotations
 import html
 import re
 import urllib.request
+import urllib.error
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from pathlib import Path
@@ -14,8 +16,17 @@ END = "<!-- YOUTUBE:END -->"
 
 def get(url: str) -> bytes:
     request = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return response.read()
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return response.read()
+        except urllib.error.HTTPError as error:
+            if error.code not in (404, 429, 500, 502, 503, 504) or attempt == 3:
+                raise
+        except urllib.error.URLError:
+            if attempt == 3:
+                raise
+        time.sleep(2 ** (attempt + 1))
 
 def render(entries, ns, english=False):
     lines = []
