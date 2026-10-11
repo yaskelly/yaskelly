@@ -167,7 +167,7 @@ Training management supported by a multiagent system.
 <details>
 <summary>About these statistics and updates</summary>
 
-**Images generated from the GitHub API; these are not live counters.** Automatic updates are scheduled daily at 05:17 UTC (01:17 in Venezuela) and save the images to this review branch. A complete run was verified on October 10, 2026. Check the automation history for the latest run and any failures.
+**Images generated from the GitHub API; these are not live counters.** Automatic updates are scheduled daily at 05:17 UTC (01:17 in Venezuela) and save the images to the published profile’s `main` branch. A complete run was verified on October 10, 2026. Check the automation history for the latest run and any failures.
 
 </details>
 
