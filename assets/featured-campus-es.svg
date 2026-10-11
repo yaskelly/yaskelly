@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="310" viewBox="0 0 560 310" role="img" aria-labelledby="title desc">
+<title id="title">Campus YaskCode</title><desc id="desc">Campus digital que conecta docencia, investigación, proyectos y comunidades. Creadora · diseño educativo. Publicado · en evolución.</desc>
+<rect x="2" y="2" width="556" height="306" rx="22" fill="#FFF1F5" stroke="#FFB3C9" stroke-width="2"/>
+<path d="M26 33h16l6 7h23v23H26z" fill="#FFD54F"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="82" y="58" font-size="26" font-weight="700" fill="#D81B60">Campus YaskCode</text>
+<text x="28" y="88" font-size="17" fill="#59636E">yaskelly</text>
+<text x="28" y="127" font-size="21" fill="#24292F">Campus digital que conecta docencia,</text>
+<text x="28" y="155" font-size="21" fill="#24292F">investigación, proyectos y comunidades.</text>
+<text x="28" y="198" font-size="18" fill="#24292F">Creadora · diseño educativo</text>
+<line x1="28" y1="218" x2="530" y2="218" stroke="#FFD1DF" stroke-width="2"/>
+<circle cx="36" cy="245" r="6" fill="#D81B60"/>
+<text x="52" y="251" font-size="19" font-weight="700" fill="#24292F">Publicado · en evolución</text>
+<text x="28" y="282" font-size="16" fill="#59636E">Astro · TypeScript · GitHub Pages</text>
+</g></svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="270" viewBox="0 0 390 270" role="img">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292F}.title{font-size:17px;font-weight:700}.label{font-size:12px}.value{font-size:13px;font-weight:700}.muted{fill:#57606A}.pink{fill:#FF2F78}.rowicon{font-size:17px;font-weight:700}</style>
+<rect x="1" y="1" width="388" height="268" rx="12" fill="#FFFFFF" stroke="#FFB3C9"/>
+<g transform="translate(17 13)" fill="none" stroke="#FF2F78" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="25" height="22" rx="2.5"/><path d="M4 17l5-6 4 3 7-8"/><path d="M18 6h4v4"/>
+</g>
+<text x="52" y="31" class="title pink">GitHub Stats</text>
+<text x="19" y="66" class="rowicon pink">☆</text>
+<text x="47" y="65" class="label">Total Stars Earned</text>
+<text x="238" y="65" class="value">1</text>
+<text x="19" y="97" class="rowicon pink">▣</text>
+<text x="47" y="96" class="label">Public Repositories</text>
+<text x="238" y="96" class="value">4</text>
+<text x="19" y="128" class="rowicon pink">↪</text>
+<text x="47" y="127" class="label">Commits (365d)</text>
+<text x="238" y="127" class="value">221</text>
+<text x="19" y="159" class="rowicon pink">⑂</text>
+<text x="47" y="158" class="label">Pull Requests (365d)</text>
+<text x="238" y="158" class="value">41</text>
+<text x="19" y="190" class="rowicon pink">◷</text>
+<text x="47" y="189" class="label">Issues (365d)</text>
+<text x="238" y="189" class="value">47</text>
+<text x="19" y="221" class="rowicon pink">♙</text>
+<text x="47" y="220" class="label">Followers</text>
+<text x="238" y="220" class="value">49</text>
+<circle cx="320" cy="145" r="42" fill="none" stroke="#FFF1F5" stroke-width="14"/>
+<circle cx="320" cy="145" r="42" fill="none" stroke="#FFC7DA" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="0" transform="rotate(-90 320 145)"/>
+<circle cx="320" cy="145" r="42" fill="none" stroke="#FF5C93" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-66" transform="rotate(-90 320 145)"/>
+<circle cx="320" cy="145" r="42" fill="none" stroke="#FF2F78" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-132" transform="rotate(-90 320 145)"/>
+<circle cx="320" cy="145" r="42" fill="none" stroke="#C2185B" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-198" transform="rotate(-90 320 145)"/>
+<text x="320" y="140" text-anchor="middle" style="font-size:23px;font-weight:800">221</text>
+<text x="320" y="160" text-anchor="middle" style="font-size:12px;font-weight:700">Commits</text>
+<text x="320" y="176" text-anchor="middle" class="muted" style="font-size:9px">last 365 days</text>
+</svg>

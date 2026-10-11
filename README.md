@@ -1,147 +1,207 @@
 <p align="center">
-  <img src="assets/bannerosado-yaskcode.png" alt="YaskCode Banner" width="100%">
+  <img src="assets/banner-yaskcode-transparent.svg" alt="YaskCode — Aprende, Practica, Construye, Comparte" width="100%">
 </p>
 
-# Hi, I'm Yaskelly Yedra
+**Español** · [English](README.en.md)
 
-Professor • Researcher • Google Developer Group Organizer
+# Hola, soy Yaskelly Yedra
 
-Helping students, researchers, and developers build intelligent systems with AI and Google Cloud.
+**Profesora e investigadora en Computación · Universidad del Zulia (LUZ), Venezuela**
+
+Conecto la ingeniería de software, la inteligencia artificial, la ciencia de datos y cloud con la enseñanza y la investigación. A través de YaskCode, diseño experiencias educativas en las que estudiantes aprenden construyendo proyectos, documentando decisiones y evaluando la calidad del proceso y del producto.
+
+<table align="center">
+  <tr>
+    <th align="center" width="50%"><a href="https://yaskelly.github.io/yaskellyyedra/">Web académica personal</a></th>
+    <th align="center" width="50%"><a href="https://yaskelly.github.io/">Campus YaskCode</a></th>
+  </tr>
+  <tr>
+    <td align="center">Trayectoria, docencia, investigación y servicio académico.</td>
+    <td align="center">Ecosistema de aprendizaje, proyectos y recursos abiertos.</td>
+  </tr>
+</table>
 
 <p align="center">
-
-🌐 <a href="https://yaskelly.github.io">Website</a> |
-💼 <a href="https://www.linkedin.com/in/yaskelly/">LinkedIn</a> |
-▶️ <a href="https://www.youtube.com/@yaskcode">YouTube</a> |
-✍️ <a href="https://medium.com/@yaskelly">Medium</a> |
-🎓 <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es">Google Scholar</a> |
-👥 <a href="https://gdg.community.dev/gdg-caracas/">GDG Caracas</a>
-
+  <a href="https://www.linkedin.com/in/yaskelly/" title="Perfil profesional"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="30" /></a>
+  <a href="https://scholar.google.com/citations?user=zySpQB0AAAAJ" title="Publicaciones científicas"><img src="assets/social-scholar.svg" alt="Google Scholar" height="30" /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/" title="Comunidad de desarrolladores y actividades"><img src="assets/social-gdg.svg" alt="GDG Caracas" height="30" /></a>
+  <a href="https://www.youtube.com/@yaskcode" title="Clases, charlas y talleres"><img src="assets/social-youtube.svg" alt="YouTube" height="30" /></a>
+  <a href="https://es.slideshare.net/yaskelly" title="Presentaciones académicas y educativas"><img src="assets/social-slideshare.svg" alt="SlideShare" height="30" /></a>
+  <a href="https://medium.com/@yaskelly" title="Artículos y reflexiones"><img src="assets/social-medium.svg" alt="Medium" height="30" /></a>
+  <a href="https://www.instagram.com/yaskelly" title="Perfil personal de Yaskelly Yedra"><img src="assets/social-instagram.svg" alt="Instagram" height="30" /></a>
 </p>
 
+## Docencia, investigación y comunidad
 
-## 🚀 Current Focus
+- **Docencia:** enseño ingeniería de software, IA, ciencia de datos, bases de datos, arquitectura y cloud. [Explorar un programa docente](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
+- **Investigación:** vinculo ingeniería de software y ecosistemas digitales de aprendizaje con el acompañamiento de trabajos académicos. [Publicaciones en Google Scholar](https://scholar.google.com/citations?user=zySpQB0AAAAJ&hl=es) · [ORCID](https://orcid.org/0009-0004-4290-120X).
+- **Comunidad:** organizadora de GDG Caracas y embajadora Women Techmakers y WiDS. [Actividades de GDG Caracas](https://gdg.community.dev/gdg-caracas/) · [perfil WiDS](https://community.widsworldwide.org/members/41641225).
 
-- 🤖 AI Agents and Multi-Agent Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- ☁️ Google Cloud & Vertex AI
-- 🎓 AI Education
-- 🔬 AI for Research
-- ⚡ TPU Research
+<p><img src="assets/ecosystem-heading-es.svg" width="100%" alt="Ecosistema YaskCode" /></p>
 
-## 🚀 Tech Stack
+<p align="center">
+  <a href="https://github.com/YaskCode" title="Formación y recursos para aprender construyendo."><img src="assets/org-yaskcode-es.svg" width="16%" alt="YaskCode Academy: Formación y recursos para aprender construyendo." /></a>
+  <a href="https://github.com/YaskCode-laboratory" title="Proyectos estudiantiles y buenas prácticas de ingeniería."><img src="assets/org-yaskcode-laboratory-es.svg" width="16%" alt="YaskCode Laboratory: Proyectos estudiantiles y buenas prácticas de ingeniería." /></a>
+  <a href="https://github.com/YaskCode-research" title="Investigación y acompañamiento académico."><img src="assets/org-yaskcode-research-es.svg" width="16%" alt="YaskCode Research: Investigación y acompañamiento académico." /></a>
+  <a href="https://github.com/YaskCode-community" title="Encuentros, colaboración y aprendizaje compartido."><img src="assets/org-yaskcode-community-es.svg" width="16%" alt="YaskCode Community: Encuentros, colaboración y aprendizaje compartido." /></a>
+  <a href="https://github.com/YaskCode-build" title="Prototipos e innovación. En desarrollo."><img src="assets/org-yaskcode-build-es.svg" width="16%" alt="YaskCode Build: Prototipos e innovación. En desarrollo." /></a>
+  <a href="https://github.com/YaskCode-smart-learning" title="Ecosistemas de aprendizaje. Próximamente."><img src="assets/org-yaskcode-smart-learning-es.svg" width="16%" alt="Smart Learning: Ecosistemas de aprendizaje. Próximamente." /></a>
+</p>
 
-### 🤖 Artificial Intelligence
+<details>
+<summary>Leer el propósito de cada organización</summary>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs)
-[![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai/docs)
-[![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
-[![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo=google&logoColor=white)](https://antigravity.google/docs/home)
-[![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-8E75FF?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs/cli)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=flat&logo=openai&logoColor=white)](https://platform.openai.com/docs)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://docs.langchain.com/)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FE4?style=flat&logo=chroma&logoColor=white)](https://docs.trychroma.com/)
+- [**YaskCode Academy**](https://github.com/YaskCode): Formación y recursos para aprender construyendo.
+- [**YaskCode Laboratory**](https://github.com/YaskCode-laboratory): Proyectos estudiantiles y buenas prácticas de ingeniería.
+- [**YaskCode Research**](https://github.com/YaskCode-research): Investigación y acompañamiento académico.
+- [**YaskCode Community**](https://github.com/YaskCode-community): Encuentros, colaboración y aprendizaje compartido.
+- [**YaskCode Build**](https://github.com/YaskCode-build): Prototipos e innovación. En desarrollo.
+- [**Smart Learning**](https://github.com/YaskCode-smart-learning): Ecosistemas de aprendizaje. Próximamente.
 
-[![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)](https://faiss.ai/)
-[![MCP](https://img.shields.io/badge/MCP-0A66C2?style=flat)](https://modelcontextprotocol.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/tutorials/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/doc/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+</details>
 
----
+<p><img src="assets/academic-community-heading-es.svg" width="100%" alt="Espacios académicos LUZ y Comunidad" /></p>
 
-### ☁️ Cloud
+<p align="center">
+  <a href="https://github.com/LUZ-Computing-Research" title="Recursos y coordinación institucional de investigación."><img src="assets/space-luz-research-es.svg" width="32%" alt="LUZ Computing Research: Recursos y coordinación institucional de investigación." /></a>
+  <a href="https://github.com/maestriaentic-luz" title="Formación, proyectos y acompañamiento de posgrado."><img src="assets/space-luz-masters-es.svg" width="32%" alt="Maestría TIC LUZ: Formación, proyectos y acompañamiento de posgrado." /></a>
+  <a href="https://gdg.community.dev/gdg-caracas/" title="Comunidad de desarrolladores, charlas y talleres."><img src="assets/space-gdg-caracas-es.svg" width="32%" alt="GDG Caracas: Comunidad de desarrolladores, charlas y talleres." /></a>
+</p>
 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/docs)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
-[![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/run/docs)
-[![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery/docs)
-[![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
+<details>
+<summary>Leer sobre estos espacios</summary>
 
----
+- [**LUZ Computing Research**](https://github.com/LUZ-Computing-Research): Recursos y coordinación institucional de investigación.
+- [**Maestría TIC LUZ**](https://github.com/maestriaentic-luz): Formación, proyectos y acompañamiento de posgrado.
+- [**GDG Caracas**](https://gdg.community.dev/gdg-caracas/): Comunidad de desarrolladores, charlas y talleres.
 
-### 💻 Development
+</details>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)](https://docs.github.com/copilot)
-[![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/codespaces)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/visualstudio/)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://cursor.com/docs)
+## Proyectos y recursos destacados
 
----
+<p align="center">
+  <a href="https://github.com/yaskelly/yaskelly.github.io"><img src="assets/featured-campus-es.svg" alt="Campus YaskCode" width="32%" /></a>
+  <a href="https://github.com/LUZ-Computing-Research/recursos-proyectos"><img src="assets/featured-pti-es.svg" alt="Recursos de investigación" width="32%" /></a>
+  <a href="https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa"><img src="assets/featured-isbd-es.svg" alt="Ingeniería de Software y Bases de Datos" width="32%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YaskCode/sistemas-inteligentes"><img src="assets/featured-si-es.svg" alt="Sistemas Inteligentes" width="32%" /></a>
+  <a href="https://github.com/YaskCode-laboratory/wellness-platform-team1"><img src="assets/featured-runcoach-es.svg" alt="RunCoach AI" width="32%" /></a>
+  <a href="https://github.com/YaskCode-laboratory/wellness-platform-team6"><img src="assets/featured-wellnesslift-es.svg" alt="Wellness Lift" width="32%" /></a>
+</p>
 
-### 🌐 Software Engineering
+<details>
+<summary>Leer descripciones, mi participación y evidencias</summary>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/docs/latest/api/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/learn)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)](https://restfulapi.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)](https://www.json.org/json-en.html)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)](https://yaml.org/spec/)
-[![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white)](https://mermaid.js.org/)
+### Campus YaskCode
+Un campus digital inspirado en espacios universitarios que conecta formación, investigación, proyectos y comunidades.
+- **Mi participación:** creadora y responsable del diseño de la experiencia educativa.
+- **Estado:** publicado, en evolución.
+- **Tecnologías:** Astro, TypeScript, HTML, CSS y GitHub Pages.
+- **Evidencias:** [visitar el Campus](https://yaskelly.github.io/) · [código y documentación](https://github.com/yaskelly/yaskelly.github.io).
 
----
+### Recursos para Proyectos de Investigación — LUZ
+Repositorio institucional que centraliza reglamentos, formatos y guías para los Proyectos de Investigación del Departamento de Computación.
+- **Mi participación:** coordinación académica y orientación a estudiantes en mi rol de coordinadora de Trabajo de Investigación.
+- **Estado:** recurso público disponible para consulta.
+- **Evidencia:** [repositorio y guía de uso](https://github.com/LUZ-Computing-Research/recursos-proyectos).
 
-### 🗄 Databases
+### Ingeniería de Software y Bases de Datos
+Programa docente organizado en cuatro semanas, con actividades de calidad, diseño y desarrollo de una plataforma inteligente.
+- **Mi participación:** diseño docente y acompañamiento de proyectos de maestría.
+- **Estado:** planificación del curso publicada; este recurso no representa por sí solo una aplicación terminada.
+- **Herramientas del programa:** GitHub, Mermaid, modelado y evaluación de calidad de software.
+- **Evidencia:** [programa semanal](https://github.com/YaskCode/ing-sofware-y-base-datos/tree/main/docs/programa).
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/docs.html)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+### Sistemas Inteligentes
+Programa de maestría: RAG, agentes y sistemas multiagente.
+- **Mi participación:** diseño docente · acompañamiento.
+- **Estado:** programa y recursos publicados.
+- **Tecnologías y herramientas:** GitHub · RAG · Agentes.
+- **Evidencia:** [código y documentación](https://github.com/YaskCode/sistemas-inteligentes).
 
----
+### RunCoach AI → Intelligent Wellness Platform
+Proyecto académico que evoluciona RunCoach AI, una aplicación de entrenamiento de running, hacia Intelligent Wellness Platform, integrando RAG y agentes de IA especializados.
+- **Mi participación:** docencia · orientación académica; desarrollo realizado por el equipo estudiantil.
+- **Estado:** sprints 1–3 entregados.
+- **Tecnologías y herramientas:** Python · FastAPI · React · Vertex AI.
+- **Evidencia:** [código y documentación](https://github.com/YaskCode-laboratory/wellness-platform-team1).
 
-### 🌍 Emerging Technologies
+### Wellness Lift
+Gestión de entrenamiento con asistencia de un sistema multiagente.
+- **Mi participación:** docencia · orientación académica; desarrollo realizado por el equipo estudiantil.
+- **Estado:** código y documentación públicos.
+- **Tecnologías y herramientas:** Python · FastAPI · React · AWS.
+- **Evidencia:** [código y documentación](https://github.com/YaskCode-laboratory/wellness-platform-team6).
 
-[![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white)](https://www.blockchain.com/learning-portal)
-[![Web3](https://img.shields.io/badge/Web3-121D33?style=flat)](https://ethereum.org/en/web3/)
+</details>
 
+<p align="center"><a href="https://github.com/search?q=user%3Ayaskelly%20org%3AYaskCode%20org%3AYaskCode-laboratory%20org%3ALUZ-Computing-Research%20is%3Apublic&amp;type=repositories">Ver más repositorios públicos →</a></p>
 
-## 📂 Featured Projects
+<p><img src="assets/tech-stack-heading.svg" alt="Tech Stack" width="100%" /></p>
+<p align="center"><img src="assets/tech-stack-design-es.svg" alt="Tecnologías: Inteligencia artificial, Cloud, Desarrollo, Ingeniería de software y Bases de datos. Enlaces a la documentación debajo." width="100%" /></p>
 
-🤖 AI Agents
+<details>
+<summary>Tecnologías y documentación</summary>
 
-📚 RAG Catalog
+- **Inteligencia artificial:** [Python](https://docs.python.org/3/) · [Gemini](https://ai.google.dev/gemini-api/docs) · [Google ADK](https://google.github.io/adk-docs/) · [Gemini CLI](https://github.com/google-gemini/gemini-cli) · [OpenAI Codex](https://developers.openai.com/codex/) · [LangChain](https://docs.langchain.com/) · [ChromaDB](https://docs.trychroma.com/) · [FAISS](https://github.com/facebookresearch/faiss/wiki) · [TensorFlow](https://www.tensorflow.org/learn) · [PyTorch](https://docs.pytorch.org/) · [scikit-learn](https://scikit-learn.org/stable/) · [NumPy](https://numpy.org/doc/) · [Pandas](https://pandas.pydata.org/docs/) · [Antigravity](https://antigravity.google/docs).
+- **Cloud:** [Google Cloud](https://cloud.google.com/docs) · [Vertex AI](https://cloud.google.com/vertex-ai/docs) · [Firebase](https://firebase.google.com/docs) · [Cloud Run](https://cloud.google.com/run/docs) · [BigQuery](https://cloud.google.com/bigquery/docs) · [MCP](https://modelcontextprotocol.io/docs/).
+- **Desarrollo:** [Git](https://git-scm.com/doc) · [GitHub](https://docs.github.com/) · [GitHub Actions](https://docs.github.com/actions) · [Copilot](https://docs.github.com/copilot) · [GitHub Codespaces](https://docs.github.com/codespaces) · [Docker](https://docs.docker.com/) · [VS Code](https://code.visualstudio.com/docs) · [Visual Studio](https://learn.microsoft.com/visualstudio/) · [Cursor](https://cursor.com/docs) · [Web3](https://ethereum.org/developers/docs/).
+- **Ingeniería de software:** [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript) · [Node.js](https://nodejs.org/docs/latest/api/) · [React](https://react.dev/learn) · [FastAPI](https://fastapi.tiangolo.com/) · [Flask](https://flask.palletsprojects.com/) · [REST API](https://learn.microsoft.com/azure/architecture/best-practices/api-design) · [HTML5](https://developer.mozilla.org/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/docs/Web/CSS) · [JSON](https://www.json.org/) · [YAML](https://yaml.org/spec/) · [Mermaid](https://mermaid.js.org/intro/).
+- **Bases de datos:** [PostgreSQL](https://www.postgresql.org/docs/) · [MySQL](https://dev.mysql.com/doc/) · [SQLite](https://sqlite.org/docs.html) · [MongoDB](https://www.mongodb.com/docs/) · [Firestore](https://cloud.google.com/firestore/docs) · [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/).
 
-☁️ Google Cloud Labs
+</details>
 
-🌎 GDG Caracas
+<p><img src="assets/github-analytics-heading.svg" alt="Actividad en GitHub" width="100%" /></p>
 
-⚡ TPU Research
+<p align="center">
+  <img width="32%" src="assets/github-stats.svg" alt="Estadísticas de GitHub actualizadas mediante GitHub Actions" />
+  <img width="32%" src="assets/top-languages.svg" alt="Lenguajes de repositorios analizados mediante GitHub Actions" />
+  <img width="32%" src="assets/streak-stats.svg" alt="Rachas de contribución actualizadas mediante GitHub Actions" />
+</p>
 
+### 📈 Actividad de contribuciones
 
-## 🌎 Community
+<p align="center"><img width="100%" src="assets/contribution-activity.svg" alt="Calendario de contribuciones actualizado mediante GitHub Actions" /></p>
 
-Google Developer Groups
+<details>
+<summary>Sobre estas estadísticas y sus actualizaciones</summary>
 
-Women Techmakers
+**Imágenes generadas a partir de la API de GitHub; no son contadores en tiempo real.** La actualización automática está programada diariamente a las 05:17 UTC (01:17 en Venezuela) y guarda las imágenes en esta rama de revisión. La ejecución completa se verificó el 10 de octubre de 2026. Consulta el historial de automatizaciones para conocer la última ejecución y cualquier fallo.
 
-Google Cloud Innovators
+</details>
 
+[Consultar la actividad actual en GitHub](https://github.com/yaskelly) · [Historial de automatizaciones](https://github.com/yaskelly/yaskelly/actions)
 
+<p><img src="assets/latest-youtube-heading.svg" alt="Videos recientes de YouTube" width="100%" /></p>
 
-<!--
-**yaskelly/yaskelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clases, charlas y talleres en [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
 
-Here are some ideas to get you started:
+Selección actualizada diariamente a las 11:17 UTC (07:17 en Venezuela), desde el feed público del canal o su página de videos cuando el feed no está disponible. Las fechas se muestran únicamente cuando las proporciona el feed. Cada video enlaza con su publicación original.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- YOUTUBE:START -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=jihUXbHcd4c" title="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca"><img src="https://i.ytimg.com/vi/jihUXbHcd4c/hqdefault.jpg" width="32%" alt="Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca" /></a>
+<a href="https://www.youtube.com/watch?v=8mfNY1ljvGA" title="SI Erick"><img src="https://i.ytimg.com/vi/8mfNY1ljvGA/hqdefault.jpg" width="32%" alt="SI Erick" /></a>
+<a href="https://www.youtube.com/watch?v=hT-6WChdBHI" title="Interoperabilidad y communicación entre agentes inteligentes"><img src="https://i.ytimg.com/vi/hT-6WChdBHI/hqdefault.jpg" width="32%" alt="Interoperabilidad y communicación entre agentes inteligentes" /></a>
+</p>
+
+<details>
+<summary>Títulos y fechas de los videos</summary>
+
+- <a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a>
+- <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a>
+- <a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a>
+
+</details>
+<!-- YOUTUBE:END -->
+
+<p align="center"><a href="https://www.youtube.com/@yaskcode">Ver más en YouTube →</a></p>
+
+## Contacto y trayectoria
+
+[Trayectoria académica completa](https://yaskelly.github.io/yaskellyyedra/) · [LinkedIn](https://www.linkedin.com/in/yaskelly/) · [Contacto académico: yyedra@fec.luz.edu.ve](mailto:yyedra@fec.luz.edu.ve)
+
+> Aprender Ingeniería de Software haciendo Ingeniería de Software.
+
+<p align="center"><img src="assets/profile-footer-es.svg" alt="Educación abierta · Gracias por tu visita · YaskCode" width="100%" /></p>
