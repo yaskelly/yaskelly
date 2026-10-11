@@ -120,8 +120,8 @@ Master’s course: RAG, agents and multiagent systems.
 - **Technologies and tools:** GitHub · RAG · Agents.
 - **Evidence:** [code and documentation](https://github.com/YaskCode/sistemas-inteligentes).
 
-### RunCoach AI
-Running and wellness with RAG and specialized AI agents.
+### RunCoach AI → Intelligent Wellness Platform
+An academic project that evolves RunCoach AI, a running training application, into Intelligent Wellness Platform, integrating RAG and specialized AI agents.
 - **My role:** teaching · academic guidance; developed by the student team.
 - **Status:** sprints 1–3 submitted.
 - **Technologies and tools:** Python · FastAPI · React · Vertex AI.
