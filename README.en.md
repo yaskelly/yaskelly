@@ -177,7 +177,7 @@ Training management supported by a multiagent system.
 
 Classes, talks and workshops on [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
 
-Selection retrieved from the channel's public feed. Videos are in Spanish; their original titles are preserved. Each video links to its original publication.
+Selection updated daily at 11:17 UTC (07:17 in Venezuela), using the channel's public feed or its videos page when the feed is unavailable. Videos are in Spanish; their original titles are preserved. Publication dates are shown only when supplied by the feed. Each video links to its original publication.
 
 <!-- YOUTUBE:START -->
 <p align="center">
