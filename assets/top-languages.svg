@@ -8,7 +8,7 @@
 <text x="20" y="64" class="label">Python</text>
 <rect x="137" y="54" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="54" width="57" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="64" class="value">38.0%</text>
+<text x="305" y="64" class="value">38.2%</text>
 <text x="20" y="94" class="label">HTML</text>
 <rect x="137" y="84" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="84" width="37" height="9" rx="4.5" fill="#FF2F78"/>
@@ -16,7 +16,7 @@
 <text x="20" y="124" class="label">JavaScript</text>
 <rect x="137" y="114" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="114" width="33" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="124" class="value">22.4%</text>
+<text x="305" y="124" class="value">22.3%</text>
 <text x="20" y="154" class="label">CSS</text>
 <rect x="137" y="144" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="144" width="10" height="9" rx="4.5" fill="#FF2F78"/>
