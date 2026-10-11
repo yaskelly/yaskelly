@@ -13,7 +13,7 @@
 <text x="205" y="113" class="label muted">Current Streak</text>
 <text x="40" y="194" class="value" style="font-size:25px">13</text>
 <text x="107" y="194" class="label muted">Longest Streak</text>
-<text x="40" y="232" class="value" style="font-size:25px">961</text>
+<text x="40" y="232" class="value" style="font-size:25px">963</text>
 <text x="120" y="232" class="label muted">Total Contributions*</text>
 <text x="20" y="254" class="muted" style="font-size:9px">*Total includes restricted contributions; streaks use dated visible activity.</text>
 </svg>
