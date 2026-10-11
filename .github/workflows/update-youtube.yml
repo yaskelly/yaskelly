@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - profile-redesign
+      - profile-redesign-review
+      - main
     paths:
       - scripts/update_youtube.py
       - .github/workflows/update-youtube.yml
@@ -15,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-youtube-${{ github.ref }}
+  group: profile-youtube-review
   cancel-in-progress: false
 
 jobs:
@@ -23,6 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: profile-redesign-review
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
