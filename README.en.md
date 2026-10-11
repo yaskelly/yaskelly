@@ -188,9 +188,9 @@ Selection updated daily at 11:17 UTC (07:17 in Venezuela), using the channel's p
 <details>
 <summary>Video titles and dates</summary>
 
-- <a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a>
-- <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a>
-- <a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a>
+- <a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a> · 2026-09-04
+- <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a> · 2026-09-03
+- <a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a> · 2026-08-30
 
 </details>
 <!-- YOUTUBE:END -->
