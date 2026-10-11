@@ -177,7 +177,7 @@ Gestión de entrenamiento con asistencia de un sistema multiagente.
 
 Clases, charlas y talleres en [YouTube — YaskCode](https://www.youtube.com/@yaskcode).
 
-Selección obtenida del feed público del canal. Cada video enlaza con su publicación original.
+Selección actualizada diariamente a las 11:17 UTC (07:17 en Venezuela), desde el feed público del canal o su página de videos cuando el feed no está disponible. Las fechas se muestran únicamente cuando las proporciona el feed. Cada video enlaza con su publicación original.
 
 <!-- YOUTUBE:START -->
 <p align="center">
