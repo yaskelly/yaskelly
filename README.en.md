@@ -189,9 +189,9 @@ Selection retrieved from the channel's public feed. Videos are in Spanish; their
 <details>
 <summary>Video titles and dates</summary>
 
-- <a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a> · 2026-09-04
-- <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a> · 2026-09-03
-- <a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a> · 2026-08-30
+- <a href="https://www.youtube.com/watch?v=jihUXbHcd4c">Validación y Pruebas de Software | Unitarias, Integración, Caja Negra y Caja Blanca</a>
+- <a href="https://www.youtube.com/watch?v=8mfNY1ljvGA">SI Erick</a>
+- <a href="https://www.youtube.com/watch?v=hT-6WChdBHI">Interoperabilidad y communicación entre agentes inteligentes</a>
 
 </details>
 <!-- YOUTUBE:END -->
