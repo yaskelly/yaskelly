@@ -12,7 +12,7 @@
 <text x="20" y="94" class="label">HTML</text>
 <rect x="137" y="84" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="84" width="37" height="9" rx="4.5" fill="#FF2F78"/>
-<text x="305" y="94" class="value">25.0%</text>
+<text x="305" y="94" class="value">24.9%</text>
 <text x="20" y="124" class="label">JavaScript</text>
 <rect x="137" y="114" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="114" width="33" height="9" rx="4.5" fill="#FF2F78"/>
@@ -29,5 +29,5 @@
 <rect x="137" y="204" width="150" height="9" rx="4.5" fill="#FFF1F5"/>
 <rect x="137" y="204" width="4" height="9" rx="4.5" fill="#FF2F78"/>
 <text x="305" y="214" class="value">1.0%</text>
-<text x="20" y="250" class="muted" style="font-size:10px">17 owned/collaborated repos analyzed · 3 private</text>
+<text x="20" y="250" class="muted" style="font-size:10px">18 owned/collaborated repos analyzed · 3 private</text>
 </svg>
