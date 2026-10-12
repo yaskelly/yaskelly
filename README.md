@@ -12,7 +12,7 @@ Conecto la ingeniería de software, la inteligencia artificial, la ciencia de da
 
 <table align="center">
   <tr>
-    <th align="center" width="50%"><a href="https://yaskelly.github.io/yaskellyyedra/">Web académica personal</a></th>
+    <th align="center" width="50%"><a href="https://www.yaskellyyedra.com/">Web académica personal</a></th>
     <th align="center" width="50%"><a href="https://yaskelly.github.io/">Campus YaskCode</a></th>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Selección actualizada diariamente a las 11:17 UTC (07:17 en Venezuela), desde e
 
 ## Contacto y trayectoria
 
-[Trayectoria académica completa](https://yaskelly.github.io/yaskellyyedra/) · [LinkedIn](https://www.linkedin.com/in/yaskelly/) · [Contacto académico: yyedra@fec.luz.edu.ve](mailto:yyedra@fec.luz.edu.ve)
+[Trayectoria académica completa](https://www.yaskellyyedra.com/) · [LinkedIn](https://www.linkedin.com/in/yaskelly/) · [Contacto académico: yyedra@fec.luz.edu.ve](mailto:yyedra@fec.luz.edu.ve)
 
 > Aprender Ingeniería de Software haciendo Ingeniería de Software.
 
