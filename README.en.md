@@ -12,7 +12,7 @@ I bring software engineering, artificial intelligence, data science and cloud co
 
 <table align="center">
   <tr>
-    <th align="center" width="50%"><a href="https://yaskelly.github.io/yaskellyyedra/">Personal academic website</a></th>
+    <th align="center" width="50%"><a href="https://www.yaskellyyedra.com/">Personal academic website</a></th>
     <th align="center" width="50%"><a href="https://yaskelly.github.io/">YaskCode Campus</a></th>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Selection updated daily at 11:17 UTC (07:17 in Venezuela), using the channel's p
 
 ## Contact and academic background
 
-[Full academic background](https://yaskelly.github.io/yaskellyyedra/) · [LinkedIn](https://www.linkedin.com/in/yaskelly/) · [Academic contact: yyedra@fec.luz.edu.ve](mailto:yyedra@fec.luz.edu.ve)
+[Full academic background](https://www.yaskellyyedra.com/) · [LinkedIn](https://www.linkedin.com/in/yaskelly/) · [Academic contact: yyedra@fec.luz.edu.ve](mailto:yyedra@fec.luz.edu.ve)
 
 > Learning software engineering by practicing software engineering.
 
