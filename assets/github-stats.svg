@@ -22,7 +22,7 @@
 <text x="238" y="189" class="value">47</text>
 <text x="19" y="221" class="rowicon pink">♙</text>
 <text x="47" y="220" class="label">Followers</text>
-<text x="238" y="220" class="value">52</text>
+<text x="238" y="220" class="value">49</text>
 <circle cx="320" cy="145" r="42" fill="none" stroke="#FFF1F5" stroke-width="14"/>
 <circle cx="320" cy="145" r="42" fill="none" stroke="#FFC7DA" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="0" transform="rotate(-90 320 145)"/>
 <circle cx="320" cy="145" r="42" fill="none" stroke="#FF5C93" stroke-width="14" stroke-dasharray="62 202" stroke-dashoffset="-66" transform="rotate(-90 320 145)"/>
